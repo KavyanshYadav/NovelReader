@@ -22,7 +22,7 @@ The whole site is static: plain HTML, CSS and JavaScript with no dependencies, n
 | Host | How |
 | --- | --- |
 | **GitHub Pages** | The `Deploy to GitHub Pages` workflow publishes `web/` on every push to `main`. `.nojekyll` is included so the `volumes/` folder is not filtered out. |
-| **Vercel** | `vercel.json` publishes `web/` as the output directory, and the `Deploy to Vercel` workflow redeploys it on every push. It needs the `VERCEL_TOKEN` secret plus the `VERCEL_ORG_ID` and `VERCEL_PROJECT_ID` repository variables. |
+| **Vercel** | `vercel.json` publishes `web/` as the output directory. The `Deploy to Vercel` workflow is wired up but stays skipped until `VERCEL_TOKEN` is added to the repository secrets along with the `VERCEL_ORG_ID` and `VERCEL_PROJECT_ID` variables; after that every push redeploys. `python3 scripts/setup_vercel.py` sets all of that up in one go. |
 | **Netlify / Cloudflare Pages** | Set the publish directory to `web`. The included `_headers` file sets long-lived caching for the volume data and artwork and revalidates the HTML. |
 | **Any static host** | Copy `web/` to the web root. |
 

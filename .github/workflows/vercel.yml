@@ -12,6 +12,10 @@ concurrency:
 jobs:
   deploy:
     name: Deploy the reader to Vercel
+    # Skipped until a Vercel token is added to the repository secrets, so the
+    # run stays green until then. Add VERCEL_TOKEN, VERCEL_ORG_ID and
+    # VERCEL_PROJECT_ID to turn automatic deployments on.
+    if: ${{ secrets.VERCEL_TOKEN != '' }}
     runs-on: ubuntu-latest
     env:
       VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID }}
