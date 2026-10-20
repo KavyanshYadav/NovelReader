@@ -17,10 +17,19 @@ import zipfile
 from pathlib import Path
 
 from volumes import VOLUMES, get_volume
+from optimize_images import optimize_images as optimize_images_folder
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 WEB = ROOT / "web"
+
+
+def optimize_images(images_dir: Path) -> None:
+    """Re-encode the extracted artwork for the web (no-op without ImageMagick)."""
+    try:
+        optimize_images_folder(images_dir)
+    except SystemExit:
+        print("ImageMagick not found, leaving the artwork as it is.")
 
 
 def image_sources(data: dict) -> list[str]:
@@ -120,6 +129,8 @@ def main() -> None:
     )
     write_atomically(WEB / "data.js", manifest_js)
     print(f"Wrote {WEB / 'data.js'} with {len(manifest)} volumes")
+
+    optimize_images(WEB / "images")
 
 
 if __name__ == "__main__":
