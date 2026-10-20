@@ -19,6 +19,13 @@ The original EPUBs are left untouched.
 
 The whole site is static: plain HTML, CSS and JavaScript with no dependencies, no build step and no runtime API calls, so any static host works.
 
+| Host | How |
+| --- | --- |
+| **GitHub Pages** | The `Deploy to GitHub Pages` workflow publishes `web/` on every push to `main`. `.nojekyll` is included so the `volumes/` folder is not filtered out. |
+| **Vercel** | `vercel.json` publishes `web/` as the output directory, and the `Deploy to Vercel` workflow redeploys it on every push. It needs the `VERCEL_TOKEN` secret plus the `VERCEL_ORG_ID` and `VERCEL_PROJECT_ID` repository variables. |
+| **Netlify / Cloudflare Pages** | Set the publish directory to `web`. The included `_headers` file sets long-lived caching for the volume data and artwork and revalidates the HTML. |
+| **Any static host** | Copy `web/` to the web root. |
+
 ```bash
 # Build a publishable copy (adds sitemap.xml and absolute metadata)
 python3 scripts/deploy.py --out dist --base-url https://reader.example.com
@@ -27,11 +34,7 @@ python3 scripts/deploy.py --out dist --base-url https://reader.example.com
 python3 -m http.server --directory dist 8000
 ```
 
-`web/` is the publish root. Upload it as-is, or use `scripts/deploy.py`:
-
-- **GitHub Pages** — push the `web/` folder to a repository and enable Pages for it. `.nojekyll` is included so the `volumes/` folder is not filtered out.
-- **Netlify / Cloudflare Pages** — set the publish directory to `web`. The included `_headers` file sets long-lived caching for the volume data and artwork and revalidates the HTML.
-- **Any static host or object storage** — copy `web/` to the web root.
+`web/` is the publish root. The artwork is re-encoded for the web (85.8 MB down to 24.8 MB) by `scripts/optimize_images.py`, which the export step runs for you.
 
 Deep links work: `reader.html?volume=21` opens volume 21 directly, and the reader keeps the volume in the address bar as you switch, so links can be shared.
 

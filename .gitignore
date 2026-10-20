@@ -18,3 +18,4 @@ Thumbs.db
 
 # Temporary files from the export step
 *.tmp
+.vercel
