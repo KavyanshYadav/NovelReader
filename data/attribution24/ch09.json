@@ -1,0 +1,49 @@
+{
+  "ch09-p0013": {
+    "speaker": "Vita",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch09-p0018": {
+    "speaker": "Raxos's Friend",
+    "mixed": true,
+    "recollection": true,
+    "note": "Raxos's unnamed friend, whose bones were made into the Bone Ring; the speaker is never named."
+  },
+  "ch09-p0023": {
+    "speaker": "Man-God",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "Narration quoting the Man-God's taunt about the Stickies' deaths."
+  },
+  "ch09-p0026": {
+    "speaker": "Man-God",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch09-p0027": {
+    "speaker": "Man-God",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch09-p0028": {
+    "speaker": "Man-God",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch09-p0030": {
+    "speaker": "Man-God",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch09-p0033": {
+    "speaker": "Geese",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch09-p0035": {
+    "speaker": "Geese",
+    "mixed": true,
+    "recollection": true
+  }
+}

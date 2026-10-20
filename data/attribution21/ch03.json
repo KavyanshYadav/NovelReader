@@ -1,0 +1,396 @@
+{
+  "ch03-p0015": {
+    "speaker": "Therese"
+  },
+  "ch03-p0018": {
+    "speaker": "Therese"
+  },
+  "ch03-p0019": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0020": {
+    "speaker": "Dust Bin",
+    "confidence": "medium",
+    "note": "knight who objects; the following narration says Dust was disappointed that his motion was overruled."
+  },
+  "ch03-p0021": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0022": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0023": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0024": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0025": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0026": {
+    "speaker": "Therese"
+  },
+  "ch03-p0028": {
+    "speaker": "Therese"
+  },
+  "ch03-p0034": {
+    "speaker": "Therese"
+  },
+  "ch03-p0035": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0037": {
+    "speaker": "Therese"
+  },
+  "ch03-p0039": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0040": {
+    "speaker": "Therese"
+  },
+  "ch03-p0041": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0042": {
+    "speaker": "Therese"
+  },
+  "ch03-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0045": {
+    "speaker": "Therese"
+  },
+  "ch03-p0047": {
+    "speaker": "Therese"
+  },
+  "ch03-p0050": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0051": {
+    "speaker": "Temple Knight",
+    "mixed": true
+  },
+  "ch03-p0052": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0053": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0054": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0055": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0056": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0057": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0058": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch03-p0060": {
+    "speaker": "Therese"
+  },
+  "ch03-p0061": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0063": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0064": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0065": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0066": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0067": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0068": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0069": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0072": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch03-p0073": {
+    "speaker": "Therese"
+  },
+  "ch03-p0074": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0075": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0076": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0078": {
+    "speaker": "Temple Knight",
+    "confidence": "medium",
+    "note": "of the Keepers of Anastasia jokes in the middle of the vote; not named."
+  },
+  "ch03-p0080": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0081": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0082": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0083": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0086": {
+    "speaker": "Therese"
+  },
+  "ch03-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0088": {
+    "speaker": "Therese"
+  },
+  "ch03-p0092": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0093": {
+    "speaker": "Therese"
+  },
+  "ch03-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0096": {
+    "speaker": "Therese"
+  },
+  "ch03-p0097": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0099": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0100": {
+    "speaker": "Therese"
+  },
+  "ch03-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0102": {
+    "speaker": "Therese"
+  },
+  "ch03-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0104": {
+    "speaker": "Therese"
+  },
+  "ch03-p0105": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0106": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch03-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0108": {
+    "speaker": "Therese"
+  },
+  "ch03-p0109": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0114": {
+    "speaker": "Therese"
+  },
+  "ch03-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0118": {
+    "speaker": "Therese"
+  },
+  "ch03-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0121": {
+    "speaker": "Therese"
+  },
+  "ch03-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0124": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0125": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0126": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0127": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0128": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0129": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0130": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch03-p0131": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0134": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0139": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch03-p0141": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0142": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0145": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch03-p0146": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0148": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0149": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0151": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0157": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0158": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0164": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0165": {
+    "speaker": "Temple Knight"
+  },
+  "ch03-p0166": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0169": {
+    "speaker": "Therese"
+  },
+  "ch03-p0173": {
+    "speaker": "Therese"
+  },
+  "ch03-p0174": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0175": {
+    "speaker": "Therese"
+  },
+  "ch03-p0179": {
+    "speaker": "Therese"
+  },
+  "ch03-p0180": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0181": {
+    "speaker": "Therese"
+  },
+  "ch03-p0184": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0188": {
+    "speaker": "Therese",
+    "type": "narration",
+    "note": "not speech; the only quotation is the epithet \"Quagmire\"."
+  },
+  "ch03-p0190": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0192": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch03-p0193": {
+    "speaker": "Therese"
+  },
+  "ch03-p0197": {
+    "speaker": "Funeral Procession",
+    "mixed": true,
+    "note": "block also quotes Trash calling the counter-spell \"Sand Wave!\"."
+  },
+  "ch03-p0205": {
+    "speaker": "Funeral Procession",
+    "mixed": true
+  },
+  "ch03-p0207": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0208": {
+    "speaker": "Therese"
+  },
+  "ch03-p0212": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch03-p0223": {
+    "speaker": "Therese"
+  },
+  "ch03-p0227": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0232": {
+    "speaker": "Aisha",
+    "type": "narration",
+    "imagined": true,
+    "note": "imagining what Aisha would say."
+  },
+  "ch03-p0242": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch03-p0155": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "that carries Rudeus's shouted spell."
+  },
+  "ch03-p0194": {
+    "speaker": "Temple Knight",
+    "embeddedDialogue": true,
+    "note": "that carries a knight's shouted reply in the mist."
+  }
+}

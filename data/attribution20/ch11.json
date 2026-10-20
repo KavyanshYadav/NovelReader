@@ -1,0 +1,486 @@
+{
+  "ch11-p0007": {
+    "speaker": "Wendy"
+  },
+  "ch11-p0008": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0010": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0011": {
+    "speaker": "Wendy"
+  },
+  "ch11-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0015": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0017": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0019": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0021": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0024": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0029": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0033": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0035": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0037": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's remark is embedded in the narration."
+  },
+  "ch11-p0038": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0041": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's explanation is embedded in the narration."
+  },
+  "ch11-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0043": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0047": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0049": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0051": {
+    "speaker": "Wendy"
+  },
+  "ch11-p0052": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's aside is embedded in the narration."
+  },
+  "ch11-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0057": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0059": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0061": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0062": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0063": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0064": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0066": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's conclusion is embedded in the narration."
+  },
+  "ch11-p0069": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0071": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0072": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0074": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's invitation is embedded in the narration."
+  },
+  "ch11-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0076": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0077": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0080": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's answer is embedded in the narration."
+  },
+  "ch11-p0092": {
+    "speaker": "Guard"
+  },
+  "ch11-p0094": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0095": {
+    "speaker": "Guard"
+  },
+  "ch11-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0098": {
+    "speaker": "Guard"
+  },
+  "ch11-p0099": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's answer is embedded in the narration."
+  },
+  "ch11-p0100": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0108": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0112": {
+    "speaker": "Blessed Child",
+    "confidence": "medium",
+    "note": "The speaker who points out the blooming trees; it could be one of the knights rather than the Blessed Child herself."
+  },
+  "ch11-p0115": {
+    "speaker": "Knight"
+  },
+  "ch11-p0116": {
+    "speaker": "Knight"
+  },
+  "ch11-p0117": {
+    "speaker": "Knight"
+  },
+  "ch11-p0118": {
+    "speaker": "Knight"
+  },
+  "ch11-p0120": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0121": {
+    "speaker": "Knight"
+  },
+  "ch11-p0122": {
+    "speaker": "Knight"
+  },
+  "ch11-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0132": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0134": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0136": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0138": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0142": {
+    "speaker": "Knight"
+  },
+  "ch11-p0143": {
+    "speaker": "Knight"
+  },
+  "ch11-p0144": {
+    "speaker": "Knight"
+  },
+  "ch11-p0145": {
+    "speaker": "Knight"
+  },
+  "ch11-p0146": {
+    "speaker": "Knight"
+  },
+  "ch11-p0147": {
+    "speaker": "Knight"
+  },
+  "ch11-p0148": {
+    "speaker": "Knight"
+  },
+  "ch11-p0150": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0152": {
+    "speaker": "Knight"
+  },
+  "ch11-p0153": {
+    "speaker": "Knight"
+  },
+  "ch11-p0154": {
+    "speaker": "Dust"
+  },
+  "ch11-p0155": {
+    "speaker": "Grave"
+  },
+  "ch11-p0157": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0164": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0166": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0168": {
+    "speaker": "Knight",
+    "mixed": true,
+    "note": "The knight's report is embedded in the narration."
+  },
+  "ch11-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0170": {
+    "speaker": "Knight",
+    "mixed": true,
+    "note": "The knight's order is embedded in the narration."
+  },
+  "ch11-p0171": {
+    "speaker": "Therese Latria",
+    "mixed": true,
+    "note": "Therese's reaction is embedded in the narration."
+  },
+  "ch11-p0173": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0175": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0180": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0181": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0183": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0184": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0186": {
+    "speaker": "Therese Latria",
+    "mixed": true,
+    "note": "Therese's reply is embedded in the narration."
+  },
+  "ch11-p0187": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0188": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0189": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0190": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0191": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0193": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0194": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0195": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0196": {
+    "speaker": "Therese Latria",
+    "mixed": true,
+    "note": "Therese's grumble is embedded in the narration."
+  },
+  "ch11-p0198": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0201": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0203": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0204": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0206": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0207": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0208": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0209": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0210": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0211": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0213": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0215": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0217": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0219": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0220": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0222": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0226": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0228": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0230": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0232": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0233": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0234": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0237": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0238": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0241": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0242": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0243": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0246": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0248": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0249": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0251": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0252": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0254": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0256": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0258": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0260": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0261": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0262": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0264": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0266": {
+    "speaker": "Blessed Child",
+    "mixed": true,
+    "note": "The Blessed Child's request is embedded in the narration."
+  },
+  "ch11-p0267": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0269": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0270": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0274": {
+    "speaker": "Cliff"
+  },
+  "ch11-p0276": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0277": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0280": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0281": {
+    "speaker": "Blessed Child"
+  },
+  "ch11-p0283": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0284": {
+    "speaker": "Therese Latria"
+  },
+  "ch11-p0285": {
+    "speaker": "Rudeus"
+  }
+}

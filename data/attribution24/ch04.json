@@ -1,0 +1,466 @@
+{
+  "ch04-p0010": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0011": {
+    "speaker": "Dohga",
+    "mixed": true
+  },
+  "ch04-p0013": {
+    "speaker": "Chandle"
+  },
+  "ch04-p0014": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0015": {
+    "speaker": "Chandle"
+  },
+  "ch04-p0016": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's guess about the village head."
+  },
+  "ch04-p0017": {
+    "speaker": "Chandle"
+  },
+  "ch04-p0018": {
+    "speaker": "Superd Warrior",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the Superd warrior who leads them to the village."
+  },
+  "ch04-p0020": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch04-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0023": {
+    "speaker": "Chandle"
+  },
+  "ch04-p0024": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0025": {
+    "speaker": "Chandle"
+  },
+  "ch04-p0027": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0030": {
+    "speaker": "Superd Warrior",
+    "mixed": true
+  },
+  "ch04-p0031": {
+    "speaker": "Superd Warrior",
+    "mixed": true
+  },
+  "ch04-p0034": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0035": {
+    "speaker": "Ruijerd",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Ruijerd's uncertain question."
+  },
+  "ch04-p0037": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0038": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0039": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0041": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0042": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0044": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0047": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0048": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0050": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's request to talk."
+  },
+  "ch04-p0051": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0053": {
+    "speaker": "Chief"
+  },
+  "ch04-p0054": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0055": {
+    "speaker": "Chief"
+  },
+  "ch04-p0059": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0061": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0065": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0066": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0074": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0075": {
+    "speaker": "Chief"
+  },
+  "ch04-p0076": {
+    "speaker": "Elder"
+  },
+  "ch04-p0077": {
+    "speaker": "Elder"
+  },
+  "ch04-p0078": {
+    "speaker": "Elder"
+  },
+  "ch04-p0080": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0081": {
+    "speaker": "Elder"
+  },
+  "ch04-p0082": {
+    "speaker": "Elder"
+  },
+  "ch04-p0083": {
+    "speaker": "Elder"
+  },
+  "ch04-p0084": {
+    "speaker": "Chief"
+  },
+  "ch04-p0086": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's offer to negotiate with the kingdom."
+  },
+  "ch04-p0087": {
+    "speaker": "Chief"
+  },
+  "ch04-p0088": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0091": {
+    "speaker": "Chief"
+  },
+  "ch04-p0092": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0094": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0097": {
+    "speaker": "Elder"
+  },
+  "ch04-p0098": {
+    "speaker": "Elder"
+  },
+  "ch04-p0099": {
+    "speaker": "Elder"
+  },
+  "ch04-p0100": {
+    "speaker": "Elder"
+  },
+  "ch04-p0102": {
+    "speaker": "Chief",
+    "mixed": true
+  },
+  "ch04-p0103": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0105": {
+    "speaker": "Chief",
+    "mixed": true
+  },
+  "ch04-p0106": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0107": {
+    "speaker": "Chief"
+  },
+  "ch04-p0109": {
+    "speaker": "Chief",
+    "mixed": true
+  },
+  "ch04-p0110": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0118": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0125": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0126": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0127": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0128": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0131": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0133": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0134": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0136": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0137": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0138": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0139": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0141": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0142": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0143": {
+    "speaker": "Ruijerd",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Ruijerd's surprise at the number of children."
+  },
+  "ch04-p0144": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0145": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0147": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0151": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0157": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0159": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0160": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0161": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0163": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0165": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0166": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0167": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0169": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0170": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0171": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0172": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0175": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0176": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's aside about Abyssal King Vita; the quoted word is the name of the labyrinth, not a spoken line."
+  },
+  "ch04-p0177": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0178": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0179": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0180": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0181": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0183": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0184": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0185": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0186": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0188": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0190": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0191": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch04-p0192": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0193": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0194": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0197": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0200": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0203": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0204": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0206": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0207": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0210": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0212": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0213": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0214": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0216": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0218": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's answer about trusting Orsted."
+  },
+  "ch04-p0220": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0221": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0223": {
+    "speaker": "Ruijerd"
+  },
+  "ch04-p0224": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0226": {
+    "speaker": "Rudeus"
+  }
+}

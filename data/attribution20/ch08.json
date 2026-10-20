@@ -1,0 +1,241 @@
+{
+  "ch08-p0004": {
+    "speaker": "Lilia"
+  },
+  "ch08-p0006": {
+    "speaker": "Lilia"
+  },
+  "ch08-p0011": {
+    "speaker": "Sylphiette"
+  },
+  "ch08-p0015": {
+    "speaker": "Eris"
+  },
+  "ch08-p0016": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0019": {
+    "speaker": "Lilia"
+  },
+  "ch08-p0031": {
+    "speaker": "Lilia"
+  },
+  "ch08-p0033": {
+    "speaker": "Sylphiette",
+    "mixed": true,
+    "note": "Sylphiette's question is embedded in the narration."
+  },
+  "ch08-p0035": {
+    "speaker": "Lilia"
+  },
+  "ch08-p0037": {
+    "speaker": "Lilia",
+    "mixed": true,
+    "note": "Lilia's decision is embedded in the narration."
+  },
+  "ch08-p0038": {
+    "speaker": "Lilia"
+  },
+  "ch08-p0039": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's answer is embedded in the narration."
+  },
+  "ch08-p0040": {
+    "speaker": "Lilia"
+  },
+  "ch08-p0041": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0042": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's private mutter is embedded in the narration."
+  },
+  "ch08-p0043": {
+    "speaker": "Lilia"
+  },
+  "ch08-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0047": {
+    "speaker": "Sylphiette"
+  },
+  "ch08-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0050": {
+    "speaker": "Sylphiette"
+  },
+  "ch08-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0053": {
+    "speaker": "Sylphiette"
+  },
+  "ch08-p0062": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0063": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0064": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0067": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0068": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0070": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Narration reporting what Norn, Aisha and Lilia said about Claire Latria; the classifier typed it as speech."
+  },
+  "ch08-p0074": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0077": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's addition is embedded in the narration."
+  },
+  "ch08-p0079": {
+    "speaker": "Cliff",
+    "recollection": true,
+    "note": "Cliff's advice to Norn from their school days, quoted by Rudeus."
+  },
+  "ch08-p0082": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0084": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's reply is embedded in the narration."
+  },
+  "ch08-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0088": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0090": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0094": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's call is embedded in the narration."
+  },
+  "ch08-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0106": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0108": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0109": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0111": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0113": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0116": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0119": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0123": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0124": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0125": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0127": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0128": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0130": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0131": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0132": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0134": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0137": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0138": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0140": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's question is embedded in the narration."
+  },
+  "ch08-p0141": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0143": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0144": {
+    "speaker": "Aisha"
+  },
+  "ch08-p0148": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0149": {
+    "speaker": "Aisha"
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "ch14-p0002": {
+    "speaker": "Eris"
+  },
+  "ch14-p0004": {
+    "speaker": "Eris"
+  },
+  "ch14-p0007": {
+    "speaker": "Eris"
+  },
+  "ch14-p0013": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch14-p0022": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch14-p0037": {
+    "speaker": "Eris"
+  },
+  "ch14-p0045": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch14-p0046": {
+    "speaker": "Aisha"
+  },
+  "ch14-p0048": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch14-p0050": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch14-p0051": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch14-p0052": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0054": {
+    "speaker": "Eris"
+  },
+  "ch14-p0055": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0056": {
+    "speaker": "Eris"
+  },
+  "ch14-p0057": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0060": {
+    "speaker": "Eris"
+  },
+  "ch14-p0063": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0064": {
+    "speaker": "Eris"
+  },
+  "ch14-p0067": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch14-p0069": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch14-p0070": {
+    "speaker": "Eris"
+  },
+  "ch14-p0072": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0073": {
+    "speaker": "Eris"
+  },
+  "ch14-p0075": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0085": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0087": {
+    "speaker": "Eris"
+  },
+  "ch14-p0088": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0089": {
+    "speaker": "Eris"
+  },
+  "ch14-p0090": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0092": {
+    "speaker": "Eris"
+  },
+  "ch14-p0101": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0102": {
+    "speaker": "Eris"
+  },
+  "ch14-p0103": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0104": {
+    "speaker": "Eris"
+  },
+  "ch14-p0108": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0110": {
+    "speaker": "Guard",
+    "mixed": true,
+    "note": "Veteran University gate guard."
+  },
+  "ch14-p0111": {
+    "speaker": "Eris"
+  },
+  "ch14-p0112": {
+    "speaker": "Guard"
+  },
+  "ch14-p0115": {
+    "speaker": "Guard"
+  },
+  "ch14-p0116": {
+    "speaker": "Eris"
+  },
+  "ch14-p0121": {
+    "speaker": "Eris"
+  },
+  "ch14-p0122": {
+    "speaker": "Georg",
+    "mixed": true,
+    "note": "Initially an unidentified man at the gate."
+  },
+  "ch14-p0124": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch14-p0125": {
+    "speaker": "Georg"
+  },
+  "ch14-p0126": {
+    "speaker": "Eris"
+  },
+  "ch14-p0127": {
+    "speaker": "Georg"
+  },
+  "ch14-p0130": {
+    "speaker": "Eris"
+  },
+  "ch14-p0131": {
+    "speaker": "Georg"
+  },
+  "ch14-p0137": {
+    "speaker": "Georg",
+    "note": "Revealed as the Principal of the Ranoa University of Magic."
+  },
+  "ch14-p0144": {
+    "speaker": "Eris"
+  },
+  "ch14-p0147": {
+    "speaker": "Eris"
+  },
+  "ch14-p0148": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch14-p0152": {
+    "speaker": "Norn"
+  },
+  "ch14-p0155": {
+    "speaker": "Eris"
+  },
+  "ch14-p0160": {
+    "speaker": "Richard",
+    "mixed": true
+  },
+  "ch14-p0161": {
+    "speaker": "Norn"
+  },
+  "ch14-p0162": {
+    "speaker": "Richard"
+  },
+  "ch14-p0163": {
+    "speaker": "Norn"
+  },
+  "ch14-p0165": {
+    "speaker": "Richard"
+  },
+  "ch14-p0166": {
+    "speaker": "Norn"
+  },
+  "ch14-p0167": {
+    "speaker": "Richard"
+  },
+  "ch14-p0168": {
+    "speaker": "Norn"
+  },
+  "ch14-p0169": {
+    "speaker": "Richard"
+  },
+  "ch14-p0170": {
+    "speaker": "Eris",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch14-p0171": {
+    "speaker": "Richard",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch14-p0172": {
+    "speaker": "Norn"
+  },
+  "ch14-p0173": {
+    "speaker": "Richard"
+  },
+  "ch14-p0174": {
+    "speaker": "Eris"
+  },
+  "ch14-p0175": {
+    "speaker": "Richard",
+    "mixed": true
+  },
+  "ch14-p0178": {
+    "speaker": "Eris"
+  },
+  "ch14-p0179": {
+    "speaker": "Richard"
+  },
+  "ch14-p0181": {
+    "speaker": "Richard"
+  },
+  "ch14-p0183": {
+    "speaker": "Richard"
+  },
+  "ch14-p0184": {
+    "speaker": "Eris"
+  },
+  "ch14-p0186": {
+    "speaker": "Richard"
+  },
+  "ch14-p0188": {
+    "speaker": "Mercenary Bodyguard"
+  },
+  "ch14-p0190": {
+    "speaker": "Richard"
+  },
+  "ch14-p0192": {
+    "speaker": "Eris"
+  },
+  "ch14-p0194": {
+    "speaker": "Richard"
+  },
+  "ch14-p0197": {
+    "speaker": "Eris"
+  },
+  "ch14-p0199": {
+    "speaker": "Eris"
+  },
+  "ch14-p0201": {
+    "type": "narration",
+    "speaker": null,
+    "note": "Narration describing Norn's unspoken reaction."
+  },
+  "ch14-p0208": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0209": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0211": {
+    "speaker": "Eris"
+  },
+  "ch14-p0212": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0213": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0215": {
+    "speaker": "Eris"
+  },
+  "ch14-p0216": {
+    "speaker": "Roxy"
+  },
+  "ch14-p0219": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch14-p0220": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch14-p0221": {
+    "speaker": "Eris"
+  },
+  "ch14-p0223": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0224": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch14-p0225": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0227": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch14-p0229": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0231": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0233": {
+    "speaker": "Sylphiette"
+  },
+  "ch14-p0241": {
+    "speaker": "Eris"
+  },
+  "ch14-p0250": {
+    "speaker": "Eris"
+  },
+  "ch14-p0255": {
+    "speaker": "Zenith",
+    "imagined": true,
+    "note": "Eris imagines what the silent Zenith is communicating."
+  }
+}

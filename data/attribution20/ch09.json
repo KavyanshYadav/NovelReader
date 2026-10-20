@@ -1,0 +1,269 @@
+{
+  "ch09-p0006": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0007": {
+    "speaker": "Cliff"
+  },
+  "ch09-p0011": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0012": {
+    "speaker": "Cliff"
+  },
+  "ch09-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0015": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0016": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0023": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's request is embedded in the narration."
+  },
+  "ch09-p0025": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0027": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's murmur is embedded in the narration."
+  },
+  "ch09-p0036": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Narration quoting the new branch director's answer in the interview; the classifier typed it as speech."
+  },
+  "ch09-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0041": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0044": {
+    "speaker": "Zenith",
+    "note": "Zenith's excited cry as she points at the monkey."
+  },
+  "ch09-p0045": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0050": {
+    "speaker": "Geese"
+  },
+  "ch09-p0056": {
+    "speaker": "Geese"
+  },
+  "ch09-p0058": {
+    "speaker": "Geese"
+  },
+  "ch09-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0061": {
+    "speaker": "Geese"
+  },
+  "ch09-p0064": {
+    "speaker": "Geese"
+  },
+  "ch09-p0071": {
+    "speaker": "Geese",
+    "mixed": true,
+    "note": "Geese's grumble is embedded in the narration."
+  },
+  "ch09-p0073": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0074": {
+    "speaker": "Geese"
+  },
+  "ch09-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0077": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0079": {
+    "speaker": "Geese"
+  },
+  "ch09-p0081": {
+    "speaker": "Geese"
+  },
+  "ch09-p0082": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0083": {
+    "speaker": "Geese"
+  },
+  "ch09-p0085": {
+    "speaker": "Geese"
+  },
+  "ch09-p0086": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0087": {
+    "speaker": "Geese",
+    "mixed": true,
+    "note": "Geese's shrug and remark are embedded in the narration."
+  },
+  "ch09-p0089": {
+    "speaker": "Geese"
+  },
+  "ch09-p0091": {
+    "speaker": "Geese"
+  },
+  "ch09-p0093": {
+    "speaker": "Geese"
+  },
+  "ch09-p0094": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0095": {
+    "speaker": "Geese"
+  },
+  "ch09-p0097": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0106": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0107": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's explanation is embedded in the narration."
+  },
+  "ch09-p0109": {
+    "speaker": "Cliff"
+  },
+  "ch09-p0111": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's acceptance is embedded in the narration."
+  },
+  "ch09-p0113": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's sneeze is embedded in the narration."
+  },
+  "ch09-p0114": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's complaint is embedded in the narration."
+  },
+  "ch09-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0117": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0118": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0121": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0125": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0126": {
+    "speaker": "Cliff"
+  },
+  "ch09-p0128": {
+    "speaker": "Cliff"
+  },
+  "ch09-p0129": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0130": {
+    "speaker": "Cliff"
+  },
+  "ch09-p0131": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0133": {
+    "speaker": "Cliff"
+  },
+  "ch09-p0134": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0135": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's reply is embedded in the narration."
+  },
+  "ch09-p0138": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0140": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's giggling is embedded in the narration."
+  },
+  "ch09-p0142": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's question is embedded in the narration."
+  },
+  "ch09-p0143": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0144": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0146": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0147": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0149": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's reply is embedded in the narration."
+  },
+  "ch09-p0150": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0152": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0153": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0157": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0160": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0162": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0165": {
+    "speaker": "Aisha"
+  },
+  "ch09-p0166": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0167": {
+    "speaker": "Aisha"
+  }
+}

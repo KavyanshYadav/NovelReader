@@ -1,0 +1,311 @@
+{
+  "ch06-p0002": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0004": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0005": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0009": {
+    "speaker": "Orsted"
+  },
+  "ch06-p0010": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0011": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0014": {
+    "speaker": "Orsted"
+  },
+  "ch06-p0016": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0018": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0019": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0021": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0022": {
+    "speaker": "Orsted"
+  },
+  "ch06-p0024": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0025": {
+    "speaker": "Orsted"
+  },
+  "ch06-p0026": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0027": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0029": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0031": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0032": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0033": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0035": {
+    "speaker": "Orsted"
+  },
+  "ch06-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0052": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0053": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0054": {
+    "speaker": "Ariel",
+    "embeddedDialogue": true,
+    "note": "Narration with Ariel's quoted reply."
+  },
+  "ch06-p0055": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0056": {
+    "speaker": "Ariel"
+  },
+  "ch06-p0058": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0059": {
+    "speaker": "Ariel"
+  },
+  "ch06-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0063": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0064": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0066": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0067": {
+    "speaker": "Ariel"
+  },
+  "ch06-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0069": {
+    "speaker": "Ariel",
+    "embeddedDialogue": true,
+    "note": "Narration with Ariel's quoted confession."
+  },
+  "ch06-p0070": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0077": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0078": {
+    "speaker": "Ariel"
+  },
+  "ch06-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0080": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0082": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0084": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0087": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0092": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0094": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0096": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0098": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0101": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch06-p0102": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch06-p0104": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0105": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0107": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0113": {
+    "speaker": "Eris"
+  },
+  "ch06-p0115": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0116": {
+    "speaker": "Eris",
+    "embeddedDialogue": true,
+    "note": "Narration with Eris's quoted self-introduction."
+  },
+  "ch06-p0117": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0118": {
+    "speaker": "Eris"
+  },
+  "ch06-p0119": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0121": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0123": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch06-p0124": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0126": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch06-p0127": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch06-p0128": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0129": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch06-p0130": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0131": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch06-p0133": {
+    "speaker": "Ariel"
+  },
+  "ch06-p0135": {
+    "speaker": "Ariel"
+  },
+  "ch06-p0141": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch06-p0142": {
+    "speaker": "Sylphiette"
+  },
+  "ch06-p0143": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch06-p0144": {
+    "speaker": "Sylphiette"
+  },
+  "ch06-p0145": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch06-p0146": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch06-p0148": {
+    "speaker": "Rudeus",
+    "mixed": true
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "ch01-s01": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Sylphiette", "Roxy"]
+  },
+  "ch02-s01": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Aisha", "Roxy"]
+  },
+  "ch03-s01": {
+    "location": "Rudeus's bedroom, Sharia",
+    "cast": ["Sylphiette", "Rudeus", "Roxy"]
+  },
+  "ch03-s02": {
+    "location": "Rudeus's bedroom, Sharia",
+    "cast": ["Rudeus", "Sylphiette", "Roxy"]
+  },
+  "ch03-s03": {
+    "location": "The Man-God's white space",
+    "cast": ["Rudeus", "Man-God"]
+  },
+  "ch03-s04": {
+    "location": "Rudeus's bedroom, Sharia",
+    "cast": ["Rudeus", "Sylphiette", "Roxy"]
+  },
+  "ch04-s01": {
+    "location": "Nanahoshi's floating fortress",
+    "cast": ["Rudeus", "Nanahoshi", "Sylphiette", "Arumanfi"]
+  },
+  "ch05-s01": {
+    "location": "The Sword Sanctum and the road east, Northern Territories",
+    "cast": ["Eris", "Nina", "Ghislaine", "Reida", "Isolde", "Courier"]
+  },
+  "ch06-s01": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus"]
+  },
+  "ch06-s02": {
+    "location": "The Man-God's white space",
+    "cast": ["Rudeus", "Man-God"]
+  },
+  "ch06-s03": {
+    "location": "Sharia: magical implement workshop, Nanahoshi's fortress, and back alleys",
+    "cast": ["Rudeus", "Roxy", "Elf Artisan", "Sylvaril", "Nanahoshi", "Drug Dealer"]
+  },
+  "ch07-s01": {
+    "location": "Rudeus's workshop and yard, Sharia",
+    "cast": ["Rudeus", "Sylphiette", "Roxy", "Zanoba", "Cliff", "Elinalise"]
+  },
+  "ch07-s02": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Roxy", "Sylphiette", "Lilia", "Norn", "Aisha", "Zenith", "Lucie"]
+  },
+  "ch08-s01": {
+    "location": "Abandoned village north-northeast of Sharia",
+    "cast": ["Orsted", "Rudeus"]
+  },
+  "ch08-s02": {
+    "location": "Abandoned village north-northeast of Sharia",
+    "cast": ["Rudeus", "Orsted"]
+  },
+  "ch08-s03": {
+    "location": "Abandoned village north-northeast of Sharia",
+    "cast": ["Rudeus", "Orsted", "Eris"]
+  },
+  "ch09-s01": {
+    "location": "Magic City of Sharia",
+    "cast": ["Eris", "Ghislaine", "Sylphiette", "Roxy", "Orsted"]
+  },
+  "ch09-s02": {
+    "location": "A street in Sharia",
+    "cast": ["Eris", "Orsted", "Ghislaine"]
+  },
+  "ch09-s03": {
+    "location": "Sword Sanctum, Gall's room (flashback)",
+    "cast": ["Eris", "Gall"]
+  },
+  "ch09-s04": {
+    "location": "A street in Sharia",
+    "cast": ["Eris", "Orsted"]
+  },
+  "ch09-s05": {
+    "location": "A street in Sharia",
+    "cast": ["Eris", "Orsted", "Sylphiette", "Roxy", "Ghislaine", "Rudeus"]
+  },
+  "ch10-s01": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Norn", "Sylphiette", "Lucie"]
+  },
+  "ch10-s02": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Eris", "Roxy"]
+  },
+  "ch10-s03": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Eris", "Norn"]
+  },
+  "ch11-s01": {
+    "location": "Outside the city walls of Sharia",
+    "cast": ["Rudeus", "Eris", "Ghislaine"]
+  },
+  "ch11-s02": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Eris", "Sylphiette", "Roxy", "Lilia", "Zenith", "Aisha", "Norn", "Ghislaine"]
+  },
+  "ch11-s03": {
+    "location": "Rudeus's bedroom, Sharia",
+    "cast": ["Rudeus", "Eris"]
+  },
+  "ch11-s04": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Eris", "Aisha"]
+  },
+  "ch12-s01": {
+    "location": "Rudeus's cabin outside Sharia",
+    "cast": ["Rudeus", "Orsted", "Eris"]
+  },
+  "ch13-s01": {
+    "location": "Rudeus's cabin outside Sharia",
+    "cast": ["Rudeus", "Orsted", "Eris"]
+  },
+  "ch13-s02": {
+    "location": "The road back to Sharia",
+    "cast": ["Rudeus", "Eris"]
+  },
+  "ch14-s01": {
+    "location": "Greyrat family home, Eris's room",
+    "cast": ["Eris"]
+  },
+  "ch14-s02": {
+    "location": "Greyrat family home, bathroom",
+    "cast": ["Eris"]
+  },
+  "ch14-s03": {
+    "location": "Greyrat family home, kitchen",
+    "cast": ["Eris", "Sylphiette", "Aisha", "Lilia"]
+  },
+  "ch14-s04": {
+    "location": "Roxy's office and the University gate, Sharia",
+    "cast": ["Eris", "Roxy", "Guard", "Georg"]
+  },
+  "ch14-s05": {
+    "location": "Greyrat family home, yard and front door",
+    "cast": ["Eris", "Norn", "Richard", "Mercenary Bodyguard"]
+  },
+  "ch14-s06": {
+    "location": "Greyrat family home, living room",
+    "cast": ["Eris", "Sylphiette", "Roxy"]
+  },
+  "ch14-s07": {
+    "location": "Greyrat family home, quiet room",
+    "cast": ["Eris", "Zenith"]
+  }
+}

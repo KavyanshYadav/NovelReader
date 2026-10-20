@@ -1,0 +1,352 @@
+{
+  "ch01-s01": {
+    "location": "Orsted Corporation headquarters on the outskirts of Sharia",
+    "cast": [
+      "Eris",
+      "Lilia",
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch01-s02": {
+    "location": "The reception room of the Orsted Corporation headquarters, Sharia",
+    "cast": [
+      "Lilia",
+      "Rudeus",
+      "Secretary"
+    ]
+  },
+  "ch01-s03": {
+    "location": "The Greyrat house in Sharia",
+    "cast": [
+      "Aisha",
+      "Elinalise",
+      "Eris",
+      "Lara",
+      "Leo",
+      "Lilia",
+      "Lucie",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch01-s04": {
+    "location": "The Zanoba Store in Sharia",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba"
+    ]
+  },
+  "ch01-s05": {
+    "location": "The Mercenary Band carriage on the way home, Sharia",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch02-s01": {
+    "location": "The palace of the King Dragon Realm, Wyvern",
+    "cast": [
+      "Aisha",
+      "Benedikte",
+      "Eris",
+      "Julie",
+      "Randolph",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch02-s02": {
+    "location": "The audience chamber of the King Dragon Realm palace, Wyvern",
+    "cast": [
+      "Benedikte",
+      "Eris",
+      "Randolph",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch03-s01": {
+    "location": "The military training grounds of the King Dragon Realm, Wyvern",
+    "cast": [
+      "Rudeus",
+      "Shagall",
+      "Shagall Gargantis",
+      "Vio Pompadour",
+      "Zanoba"
+    ]
+  },
+  "ch03-s02": {
+    "location": "A restaurant near the King Dragon Realm palace, Wyvern",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Julie",
+      "Rudeus",
+      "Vio Pompadour",
+      "Zanoba"
+    ]
+  },
+  "ch04-s01": {
+    "location": "The Asuran palace, outside and inside Queen Ariel's chambers",
+    "cast": [
+      "Ariel",
+      "Chandle",
+      "Dohga",
+      "Ghislaine",
+      "Lady-in-Waiting",
+      "Rudeus",
+      "Sylvester Ifrit"
+    ]
+  },
+  "ch05-s01": {
+    "location": "The Asuran Embassy in Wyvern, King Dragon Realm",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Rudeus"
+    ]
+  },
+  "ch05-s02": {
+    "location": "The audience chamber of the King Dragon Realm palace, Wyvern",
+    "cast": [
+      "Herald",
+      "Kirkland von Kingdragon",
+      "Rudeus",
+      "Shagall Gargantis",
+      "Stelvio von Kingdragon"
+    ]
+  },
+  "ch05-s03": {
+    "location": "The King Dragon Realm palace, Benedikte's quarters, Wyvern",
+    "cast": [
+      "Benedikte",
+      "Julie",
+      "Randolph",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch06-s01": {
+    "location": "The kitchen of the Greyrat house in Sharia",
+    "cast": [
+      "Eris",
+      "Roxy"
+    ]
+  },
+  "ch06-s02": {
+    "location": "The dining room of the Greyrat house in Sharia",
+    "cast": [
+      "Eris",
+      "Roxy"
+    ]
+  },
+  "ch07-s01": {
+    "location": "The road to the Gaslow Territory, Demon Continent",
+    "cast": [
+      "Eris",
+      "Legend",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch07-s02": {
+    "location": "The back gate of Fort Necross, Gaslow Territory",
+    "cast": [
+      "Eris",
+      "Guard",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch07-s03": {
+    "location": "The arena of Fort Necross, Gaslow Territory",
+    "cast": [
+      "Atofe",
+      "Eris",
+      "Guard",
+      "Moore",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch08-s01": {
+    "location": "The arena of Fort Necross, Gaslow Territory",
+    "cast": [
+      "Eris",
+      "Guard",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch08-s02": {
+    "location": "The arena of Fort Necross, Gaslow Territory",
+    "cast": [
+      "Calina",
+      "Eris",
+      "Guard",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch08-s03": {
+    "location": "The arena of Fort Necross, Gaslow Territory",
+    "cast": [
+      "Benebene",
+      "Eris",
+      "Guard",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch09-s01": {
+    "location": "The princess's room in Fort Necross, Gaslow Territory",
+    "cast": [
+      "Atofe",
+      "Moore",
+      "Rudeus"
+    ]
+  },
+  "ch10-s01": {
+    "location": "The arena of Fort Necross, Gaslow Territory",
+    "cast": [
+      "Arcantos",
+      "Atofe",
+      "Eris",
+      "Moore",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch11-s01": {
+    "location": "The arena of Fort Necross, Gaslow Territory",
+    "cast": [
+      "Atofe",
+      "Eris",
+      "Guard",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch11-s02": {
+    "location": "The arena of Fort Necross, Gaslow Territory",
+    "cast": [
+      "Atofe",
+      "Eris",
+      "Guard",
+      "Moore",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch11-s03": {
+    "location": "Fort Necross: the banquet hall, the training ground, and Moore's room",
+    "cast": [
+      "Atofe",
+      "Eris",
+      "Guard",
+      "Moore",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch12-s01": {
+    "location": "The road to and arrival at the Migurd Village, Demon Continent",
+    "cast": [
+      "Demon King",
+      "Lara",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch12-s02": {
+    "location": "The Rokari family home, Migurd Village",
+    "cast": [
+      "Lara",
+      "Rokari",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch12-s03": {
+    "location": "The Rokari family home, Migurd Village",
+    "cast": [
+      "Lara",
+      "Rokari",
+      "Rowin",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch12-s04": {
+    "location": "An empty house near the Migurd Village",
+    "cast": [
+      "Lara",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch12-s05": {
+    "location": "The entrance to the Migurd Village",
+    "cast": [
+      "Lara",
+      "Rokari",
+      "Rowin",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch13-s01": {
+    "location": "The Greyrat house in Sharia",
+    "cast": [
+      "Aisha",
+      "Leo",
+      "Lilia",
+      "Lucie",
+      "Norn",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch13-s02": {
+    "location": "The Greyrat house in Sharia, the childbirth room",
+    "cast": [
+      "Aisha",
+      "Arumanfi",
+      "Baby",
+      "Doctor",
+      "Eris",
+      "Leo",
+      "Lilia",
+      "Lucie",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch14-s01": {
+    "location": "The Man-God's white room",
+    "cast": [
+      "Geese",
+      "Man-God"
+    ]
+  },
+  "ch14-s02": {
+    "location": "The Begaritt Continent: a boulder in the desert, a desert warriors' village, and the village's beacon boulder",
+    "cast": [
+      "Child",
+      "Desert Warrior",
+      "Geese",
+      "Villager",
+      "Young Adventurer"
+    ]
+  }
+}

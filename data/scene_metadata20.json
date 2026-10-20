@@ -1,0 +1,430 @@
+{
+  "ch01-s01": {
+    "location": "Orsted's office in Ranoa University, then Cliff's apartment in Sharia",
+    "cast": [
+      "Cliff",
+      "Elinalise",
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch02-s01": {
+    "location": "Zanoba's house and workshop in Sharia",
+    "cast": [
+      "Julie",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch02-s02": {
+    "location": "Zanoba's house and workshop in Sharia",
+    "cast": [
+      "Ginger",
+      "Joseph",
+      "Julie",
+      "Linia",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch02-s03": {
+    "location": "The first-floor studio of Zanoba's house in Sharia",
+    "cast": [
+      "Ginger",
+      "Joseph",
+      "Julie",
+      "Linia",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch02-s04": {
+    "location": "The Zanoba Store in the workshop district of Sharia",
+    "cast": [
+      "Rudeus"
+    ]
+  },
+  "ch03-s01": {
+    "location": "The teachers' office and the halls of the University of Magic",
+    "cast": [
+      "Beastman",
+      "Cliff",
+      "Jenius",
+      "Norn",
+      "Rudeus",
+      "Sheila",
+      "Student"
+    ],
+    "pov": "Cliff",
+    "chapterPov": "Cliff"
+  },
+  "ch03-s02": {
+    "location": "The entrance and stairwell of the University of Magic's underground storehouse",
+    "cast": [
+      "Beastman",
+      "Cliff",
+      "Norn",
+      "Rudeus",
+      "Sheila",
+      "Student"
+    ],
+    "pov": "Cliff"
+  },
+  "ch03-s03": {
+    "location": "The sealed chamber deep in the University of Magic's underground storehouse",
+    "cast": [
+      "Beastman",
+      "Cliff",
+      "Norn",
+      "Rudeus",
+      "Sheila",
+      "Student",
+      "Wraith"
+    ],
+    "pov": "Cliff"
+  },
+  "ch03-s04": {
+    "location": "The University of Magic's underground storehouse, after the fight",
+    "cast": [
+      "Beastman",
+      "Cliff",
+      "Norn",
+      "Rudeus",
+      "Sheila",
+      "Student"
+    ],
+    "pov": "Cliff"
+  },
+  "ch03-s05": {
+    "location": "Cliff and Elinalise's house in Sharia, in the bedroom",
+    "cast": [
+      "Cliff",
+      "Clive",
+      "Elinalise",
+      "Rudeus"
+    ],
+    "pov": "Cliff"
+  },
+  "ch04-s01": {
+    "location": "The lecture hall of the University of Magic and the campus after the graduation ceremony",
+    "cast": [
+      "Aisha",
+      "Brooklyn von Elsass",
+      "Cliff",
+      "Ginger",
+      "Jenius",
+      "Julie",
+      "Norn",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch04-s02": {
+    "location": "The rooftop of the University of Magic building",
+    "cast": [
+      "Cliff",
+      "Elinalise",
+      "Ginger",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch05-s01": {
+    "location": "The training hall of the Sword Sanctum",
+    "cast": [
+      "Apprentice",
+      "Gal Falion",
+      "Nina"
+    ]
+  },
+  "ch05-s02": {
+    "location": "The main street and Saalten Street in Ars, the capital of the Asura Kingdom",
+    "cast": [
+      "Eris",
+      "Julie",
+      "Lucie",
+      "Merchant",
+      "Nina",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Villager",
+      "Zanoba"
+    ]
+  },
+  "ch05-s03": {
+    "location": "Isolde's training hall and the mansion near the royal castle in Ars",
+    "cast": [
+      "Ariel",
+      "Eris",
+      "Isolde Cluel",
+      "Nina",
+      "Rudeus"
+    ]
+  },
+  "ch05-s04": {
+    "location": "The mansion in Ars, then the road back to the Sword Sanctum",
+    "cast": [
+      "Eris",
+      "Gino Britz",
+      "Isolde Cluel",
+      "Nina",
+      "Rudeus"
+    ]
+  },
+  "ch06-s01": {
+    "location": "Rudeus's house in Sharia",
+    "cast": [
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch06-s02": {
+    "location": "The basement of Rudeus's house in Sharia",
+    "cast": [
+      "Eris",
+      "Lilia",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch06-s03": {
+    "location": "Rudeus's house in Sharia",
+    "cast": [
+      "Aisha",
+      "Norn",
+      "Rudeus"
+    ]
+  },
+  "ch06-s04": {
+    "location": "The living room of Rudeus's house in Sharia, during the party preparations",
+    "cast": [
+      "Aisha",
+      "Arus",
+      "Lara",
+      "Leo",
+      "Lilia",
+      "Lucie",
+      "Norn",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch06-s05": {
+    "location": "The dining room of Rudeus's house in Sharia, at the birthday party",
+    "cast": [
+      "Aisha",
+      "Arus",
+      "Eris",
+      "Lara",
+      "Lilia",
+      "Lucie",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch06-s06": {
+    "location": "The front yard of Rudeus's house in Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Linia",
+      "Mercenary",
+      "Norn",
+      "Pursena",
+      "Rudeus"
+    ]
+  },
+  "ch06-s07": {
+    "location": "The front lawn of Rudeus's house in Sharia, at the cookout",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Linia",
+      "Mercenary",
+      "Norn",
+      "Pursena",
+      "Rudeus",
+      "Student"
+    ]
+  },
+  "ch07-s01": {
+    "location": "The graduation ceremony hall of the University of Magic",
+    "cast": [
+      "Jenius",
+      "Norn",
+      "Rudeus"
+    ]
+  },
+  "ch07-s02": {
+    "location": "Rudeus's house in Sharia, as Rudeus reviews the year",
+    "cast": [
+      "Rudeus"
+    ]
+  },
+  "ch07-s03": {
+    "location": "The pub in Sharia, at Cliff's sendoff party, and the street outside",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Elinalise",
+      "Eris",
+      "Lilia",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch07-s04": {
+    "location": "The living room of Rudeus's house in Sharia",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Lilia",
+      "Norn",
+      "Rudeus"
+    ]
+  },
+  "ch08-s01": {
+    "location": "Rudeus's house and garden in Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Lilia",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch08-s02": {
+    "location": "The road from Sharia to Millishion",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Rudeus",
+      "Zenith"
+    ]
+  },
+  "ch09-s01": {
+    "location": "The road to Millishion, outside the city",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Rudeus",
+      "Zenith"
+    ]
+  },
+  "ch09-s02": {
+    "location": "The Adventurers' District of Millishion",
+    "cast": [
+      "Adventurer",
+      "Aisha",
+      "Cliff",
+      "Geese",
+      "Rudeus",
+      "Zenith"
+    ]
+  },
+  "ch09-s03": {
+    "location": "The road to the Divine District of Millishion",
+    "cast": [
+      "Aisha",
+      "Geese",
+      "Rudeus",
+      "Zenith"
+    ]
+  },
+  "ch09-s04": {
+    "location": "Cliff's house in the Divine District of Millishion",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Rudeus",
+      "Wendy",
+      "Zenith"
+    ]
+  },
+  "ch10-s01": {
+    "location": "The House of Latria in the Residential District of Millishion",
+    "cast": [
+      "Aisha",
+      "Ander Berkeley",
+      "Butler",
+      "Claire Latria",
+      "Maid",
+      "Rudeus",
+      "Zenith"
+    ]
+  },
+  "ch10-s02": {
+    "location": "The streets of Millishion, at the border of the Divine District",
+    "cast": [
+      "Aisha",
+      "Rudeus",
+      "Zenith"
+    ]
+  },
+  "ch11-s01": {
+    "location": "Cliff's house in the Divine District of Millishion",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Rudeus",
+      "Wendy",
+      "Zenith"
+    ]
+  },
+  "ch11-s02": {
+    "location": "The Millis Church headquarters and the springtime garden",
+    "cast": [
+      "Blessed Child",
+      "Cliff",
+      "Dust",
+      "Grave",
+      "Guard",
+      "Knight",
+      "Rudeus",
+      "Therese Latria"
+    ]
+  },
+  "ch12-s01": {
+    "location": "The pope's office in the Millis Church headquarters",
+    "cast": [
+      "Cliff",
+      "Guard",
+      "Harry Grimor",
+      "Knight",
+      "Rudeus"
+    ]
+  },
+  "ch12-s02": {
+    "location": "The Millis Church headquarters and the streets of Millishion",
+    "cast": [
+      "Rudeus"
+    ]
+  },
+  "ch12-s03": {
+    "location": "Cliff's house in the Divine District of Millishion",
+    "cast": [
+      "Aisha",
+      "Rudeus",
+      "Wendy",
+      "Zenith"
+    ]
+  },
+  "ch12-s04": {
+    "location": "The streets of Millishion, in the search for Zenith",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Rudeus"
+    ]
+  }
+}

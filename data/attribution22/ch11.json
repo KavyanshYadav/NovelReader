@@ -1,0 +1,289 @@
+{
+  "ch11-p0002": {
+    "speaker": "Atofe"
+  },
+  "ch11-p0004": {
+    "speaker": "Eris"
+  },
+  "ch11-p0005": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0012": {
+    "speaker": "Atofe"
+  },
+  "ch11-p0014": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0015": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0016": {
+    "speaker": "Guard",
+    "embeddedDialogue": true,
+    "note": "that carries the personal guards' wailing."
+  },
+  "ch11-p0018": {
+    "speaker": "Eris"
+  },
+  "ch11-p0019": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0025": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0027": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0028": {
+    "speaker": "Atofe"
+  },
+  "ch11-p0029": {
+    "speaker": "Eris"
+  },
+  "ch11-p0038": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch11-p0039": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0045": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch11-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0049": {
+    "speaker": "Guard"
+  },
+  "ch11-p0050": {
+    "speaker": "Guard"
+  },
+  "ch11-p0051": {
+    "speaker": "Guard"
+  },
+  "ch11-p0052": {
+    "speaker": "Guard"
+  },
+  "ch11-p0053": {
+    "speaker": "Guard"
+  },
+  "ch11-p0054": {
+    "speaker": "Guard"
+  },
+  "ch11-p0055": {
+    "speaker": "Guard"
+  },
+  "ch11-p0061": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "that carries Rudeus's question to Atofe."
+  },
+  "ch11-p0062": {
+    "speaker": "Atofe"
+  },
+  "ch11-p0063": {
+    "speaker": "Moore",
+    "embeddedDialogue": true,
+    "note": "that carries Moore's offer of a change of armor."
+  },
+  "ch11-p0065": {
+    "speaker": "Atofe"
+  },
+  "ch11-p0066": {
+    "speaker": "Moore"
+  },
+  "ch11-p0067": {
+    "speaker": "Atofe"
+  },
+  "ch11-p0069": {
+    "speaker": "Atofe"
+  },
+  "ch11-p0070": {
+    "speaker": "Atofe"
+  },
+  "ch11-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0072": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0073": {
+    "speaker": "Atofe",
+    "embeddedDialogue": true,
+    "note": "that carries Atofe's naming of Rudeus champion."
+  },
+  "ch11-p0081": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0082": {
+    "speaker": "Guard"
+  },
+  "ch11-p0083": {
+    "speaker": "Guard"
+  },
+  "ch11-p0084": {
+    "speaker": "Guard"
+  },
+  "ch11-p0087": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch11-p0090": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0091": {
+    "speaker": "Eris"
+  },
+  "ch11-p0092": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch11-p0094": {
+    "speaker": "Eris"
+  },
+  "ch11-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0097": {
+    "speaker": "Moore"
+  },
+  "ch11-p0098": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0100": {
+    "speaker": "Moore"
+  },
+  "ch11-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0102": {
+    "speaker": "Moore"
+  },
+  "ch11-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0104": {
+    "speaker": "Moore"
+  },
+  "ch11-p0105": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0106": {
+    "speaker": "Moore"
+  },
+  "ch11-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0110": {
+    "speaker": "Moore"
+  },
+  "ch11-p0111": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0112": {
+    "speaker": "Moore"
+  },
+  "ch11-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0115": {
+    "speaker": "Moore"
+  },
+  "ch11-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0117": {
+    "speaker": "Moore"
+  },
+  "ch11-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0120": {
+    "speaker": "Moore"
+  },
+  "ch11-p0121": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0123": {
+    "speaker": "Moore"
+  },
+  "ch11-p0124": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0125": {
+    "speaker": "Moore"
+  },
+  "ch11-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0127": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "monologue; the only quotation is the term \"Strength\"."
+  },
+  "ch11-p0128": {
+    "speaker": "Moore"
+  },
+  "ch11-p0129": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0130": {
+    "speaker": "Moore"
+  },
+  "ch11-p0132": {
+    "speaker": "Moore"
+  },
+  "ch11-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0136": {
+    "speaker": "Atofe",
+    "embeddedDialogue": true,
+    "note": "that carries Atofe's call for Moore."
+  },
+  "ch11-p0138": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0139": {
+    "speaker": "Moore"
+  },
+  "ch11-p0140": {
+    "speaker": "Moore"
+  },
+  "ch11-p0141": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0142": {
+    "speaker": "Moore"
+  },
+  "ch11-p0143": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "inner paraphrase of Moore's warning."
+  },
+  "ch11-p0144": {
+    "speaker": "Moore"
+  },
+  "ch11-p0145": {
+    "speaker": "Rudeus"
+  }
+}

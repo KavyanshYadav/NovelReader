@@ -1,0 +1,304 @@
+{
+  "ch01-s01": {
+    "location": "Orsted Corporation meeting room, Sharia",
+    "cast": [
+      "Eris",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba"
+    ]
+  },
+  "ch01-s02": {
+    "location": "Orsted Corporation meeting room, Sharia",
+    "cast": [
+      "Eris",
+      "Orsted",
+      "Receptionist",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba"
+    ]
+  },
+  "ch01-s03": {
+    "location": "Orsted Corporation lobby, Sharia",
+    "cast": [
+      "Chandle",
+      "Dohga",
+      "Orsted",
+      "Receptionist",
+      "Rudeus"
+    ]
+  },
+  "ch02-s01": {
+    "location": "The road to the Second City of Irelil, Biheiril Kingdom",
+    "cast": [
+      "Chandle",
+      "Dohga",
+      "Rudeus"
+    ]
+  },
+  "ch02-s02": {
+    "location": "The Second City of Irelil, Biheiril Kingdom, and its tavern",
+    "cast": [
+      "Chandle",
+      "Dohga",
+      "Informant",
+      "Ogre",
+      "Rudeus",
+      "Server"
+    ]
+  },
+  "ch03-s01": {
+    "location": "Marson Village (Earthwyrm Ravine Village), Biheiril Kingdom",
+    "cast": [
+      "Chandle",
+      "Dohga",
+      "Mercenary",
+      "Old Woman",
+      "Rudeus"
+    ]
+  },
+  "ch03-s02": {
+    "location": "The Forest of No Return, beyond the Earthwyrm Ravine, Biheiril Kingdom",
+    "cast": [
+      "Chandle",
+      "Dohga",
+      "Monster",
+      "Old Woman",
+      "Rudeus",
+      "Superd Warrior"
+    ]
+  },
+  "ch04-s01": {
+    "location": "The Superd village in the Forest of No Return, Biheiril Kingdom",
+    "cast": [
+      "Chandle",
+      "Chief",
+      "Dohga",
+      "Elder",
+      "Rudeus",
+      "Ruijerd",
+      "Superd Warrior"
+    ]
+  },
+  "ch05-s01": {
+    "location": "A dream: the adventurers' camp where Rudeus, Sara and Paul are on the road to a labyrinth",
+    "cast": [
+      "Paul",
+      "Rudeus",
+      "Sara"
+    ]
+  },
+  "ch05-s02": {
+    "location": "A dream: Rudeus's house in Sharia, married to Linia",
+    "cast": [
+      "Child",
+      "Linia",
+      "Paul",
+      "Rudeus"
+    ]
+  },
+  "ch05-s03": {
+    "location": "A dream: the royal palace of the Asura Kingdom, with Rudeus as king",
+    "cast": [
+      "Ariel",
+      "Knight Captain",
+      "Paul",
+      "Rudeus"
+    ]
+  },
+  "ch05-s04": {
+    "location": "A dream: Rudeus's house in Sharia, married to Aisha",
+    "cast": [
+      "Aisha",
+      "Paul",
+      "Rudeus",
+      "Vita"
+    ]
+  },
+  "ch05-s05": {
+    "location": "A dream: the study of Rudeus's house in Sharia, with Zenith alive",
+    "cast": [
+      "Lilia",
+      "Paul",
+      "Rudeus",
+      "Zenith"
+    ]
+  },
+  "ch05-s06": {
+    "location": "The room without a door, where Abyssal King Vita confronts Rudeus",
+    "cast": [
+      "Rudeus",
+      "Vita"
+    ]
+  },
+  "ch05-s07": {
+    "location": "Ruijerd's house in the Superd village, Biheiril Kingdom",
+    "cast": [
+      "Rudeus",
+      "Ruijerd"
+    ]
+  },
+  "ch06-s01": {
+    "location": "The Superd village and the Orsted Corporation office, Sharia",
+    "cast": [
+      "Chandle",
+      "Dohga",
+      "Orsted",
+      "Receptionist",
+      "Rudeus"
+    ]
+  },
+  "ch06-s02": {
+    "location": "The elders' hall of the Superd village, used as a medical center",
+    "cast": [
+      "Chandle",
+      "Cliff",
+      "Doctor",
+      "Dohga",
+      "Elder",
+      "Norn",
+      "Orsted",
+      "Rudeus",
+      "Villager"
+    ]
+  },
+  "ch07-s01": {
+    "location": "The Superd village, Biheiril Kingdom",
+    "cast": [
+      "Child",
+      "Cliff",
+      "Doctor",
+      "Elder",
+      "Elinalise",
+      "Norn",
+      "Rudeus",
+      "Ruijerd",
+      "Villager"
+    ]
+  },
+  "ch07-s02": {
+    "location": "Ruijerd's house and the elders' hall of the Superd village, Biheiril Kingdom",
+    "cast": [
+      "Cliff",
+      "Doctor",
+      "Norn",
+      "Orsted",
+      "Rudeus",
+      "Ruijerd"
+    ]
+  },
+  "ch08-s01": {
+    "location": "The University of Magic and the outskirts of the town of Sharia",
+    "cast": [
+      "Lucie",
+      "Norn",
+      "Rudeus"
+    ]
+  },
+  "ch08-s02": {
+    "location": "Rudeus's house in Sharia",
+    "cast": [
+      "Cliff",
+      "Lucie",
+      "Norn",
+      "Rudeus"
+    ]
+  },
+  "ch08-s03": {
+    "location": "Orsted Corporation office, Sharia",
+    "cast": [
+      "Cliff",
+      "Norn",
+      "Rudeus"
+    ]
+  },
+  "ch09-s01": {
+    "location": "The Hell Labyrinth on the Divine Continent, as Vita remembers his life",
+    "cast": [
+      "Geese",
+      "Man-God",
+      "Raxos's Friend",
+      "Vita"
+    ]
+  },
+  "ch10-s01": {
+    "location": "Ruijerd's house and the Superd village, Biheiril Kingdom",
+    "cast": [
+      "Norn",
+      "Orsted",
+      "Rudeus",
+      "Ruijerd"
+    ]
+  },
+  "ch10-s02": {
+    "location": "The capital of the Biheiril Kingdom, and its royal palace",
+    "cast": [
+      "Clerk",
+      "Dohga",
+      "Guard",
+      "King",
+      "Official",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch11-s01": {
+    "location": "The road to the Superd village, the village itself and the chief's hall, Biheiril Kingdom",
+    "cast": [
+      "Chief",
+      "Cliff",
+      "Dohga",
+      "Elder",
+      "Elinalise",
+      "Galixon",
+      "Rudeus",
+      "Sandor",
+      "Superd Warrior"
+    ]
+  },
+  "ch11-s02": {
+    "location": "The Earthwyrm Ravine bridge, Biheiril Kingdom",
+    "cast": [
+      "Galixon",
+      "Rudeus",
+      "Sandor"
+    ]
+  },
+  "ch11-s03": {
+    "location": "The crumbling bridge over the Earthwyrm Ravine, Biheiril Kingdom",
+    "cast": [
+      "Alexander Rybak",
+      "Gall Falion",
+      "Rudeus"
+    ]
+  },
+  "ch12-s01": {
+    "location": "Orsted Corporation office, Sharia",
+    "cast": [
+      "Faria",
+      "Ogre",
+      "Rudeus"
+    ]
+  },
+  "ch12-s02": {
+    "location": "The forest outside the Third City of Heirulil and a bear cave, Biheiril Kingdom",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch12-s03": {
+    "location": "The inn and the teleportation circle hut near the capital of the Biheiril Kingdom",
+    "cast": [
+      "Ginger",
+      "Julie",
+      "Rudeus",
+      "Zanoba"
+    ]
+  }
+}

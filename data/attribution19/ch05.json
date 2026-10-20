@@ -1,0 +1,392 @@
+{
+  "ch05-p0004": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0005": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0007": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's answer is embedded in the narration."
+  },
+  "ch05-p0008": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0010": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0012": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0014": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0017": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0018": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0019": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0021": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's answer is embedded in the narration."
+  },
+  "ch05-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0023": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0024": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0026": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0027": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0029": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0031": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0032": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0034": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0035": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0037": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0038": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0039": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0041": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0044": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0046": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0048": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0049": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's question is embedded in the narration."
+  },
+  "ch05-p0050": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0051": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0061": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0067": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0068": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0069": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0072": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0077": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch05-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0081": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch05-p0082": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0083": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0086": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0088": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch05-p0089": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0091": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0093": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0097": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0098": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0099": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0100": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's blunt conclusion is embedded in the narration."
+  },
+  "ch05-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0103": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch05-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0105": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's answer is embedded in the narration."
+  },
+  "ch05-p0106": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0107": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0110": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0111": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0112": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0114": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0115": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0132": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0134": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0136": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0137": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0140": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0141": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0142": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0143": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0144": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0145": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0148": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0149": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0150": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0151": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0152": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0154": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0157": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0166": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0168": {
+    "speaker": "Garrick Babriti"
+  },
+  "ch05-p0169": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0171": {
+    "speaker": "Garrick Babriti"
+  },
+  "ch05-p0172": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0173": {
+    "speaker": "Garrick Babriti"
+  },
+  "ch05-p0174": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0175": {
+    "speaker": "Garrick Babriti"
+  },
+  "ch05-p0178": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0179": {
+    "speaker": "Garrick Babriti"
+  },
+  "ch05-p0181": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0182": {
+    "speaker": "Garrick Babriti"
+  },
+  "ch05-p0188": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0189": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0190": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0192": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0193": {
+    "speaker": "Garrick Babriti"
+  },
+  "ch05-p0194": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's inner comment on the commander's fake enthusiasm; nobody speaks aloud."
+  },
+  "ch05-p0195": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's thanks is embedded in the narration."
+  },
+  "ch05-p0196": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0197": {
+    "speaker": "Garrick Babriti"
+  },
+  "ch05-p0198": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0201": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0205": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0206": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0207": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0210": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0212": {
+    "speaker": "Roxy"
+  },
+  "ch05-p0214": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0215": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0216": {
+    "speaker": "Soldier"
+  },
+  "ch05-p0217": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's introduction of Roxy and Rudeus is embedded in the narration."
+  },
+  "ch05-p0221": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0224": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0226": {
+    "speaker": "Zanoba"
+  }
+}

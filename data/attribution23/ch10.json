@@ -1,0 +1,428 @@
+{
+  "ch10-p0003": {
+    "speaker": "Kishirika",
+    "note": "Kishirika's stomach growling; a vocalization rather than speech."
+  },
+  "ch10-p0005": {
+    "speaker": "Kishirika",
+    "note": "Kishirika's empty stomach growling again; a vocalization rather than speech."
+  },
+  "ch10-p0007": {
+    "speaker": "Black Knight"
+  },
+  "ch10-p0010": {
+    "speaker": "Black Knight"
+  },
+  "ch10-p0012": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0014": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0016": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0017": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0018": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0019": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0021": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0022": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch10-p0023": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0024": {
+    "speaker": "Atofe",
+    "note": "Atofe's scream of rage; a vocalization rather than speech."
+  },
+  "ch10-p0026": {
+    "speaker": "Atofe",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Atofe's screaming threat."
+  },
+  "ch10-p0027": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0028": {
+    "speaker": "Atofe",
+    "note": "Atofe's scream of rage; a vocalization rather than speech."
+  },
+  "ch10-p0030": {
+    "speaker": "Black Knight"
+  },
+  "ch10-p0031": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0032": {
+    "speaker": "Black Knight",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the black knight who lured Kishirika with sweets."
+  },
+  "ch10-p0034": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0035": {
+    "speaker": "Atofe",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Atofe's curt reply to Kishirika."
+  },
+  "ch10-p0037": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0038": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0039": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0040": {
+    "speaker": "Atofe",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Atofe's reasoning about their duel."
+  },
+  "ch10-p0041": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0042": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch10-p0043": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0045": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0047": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0048": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0050": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0051": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0052": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0053": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0054": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0056": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0057": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0058": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0059": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0063": {
+    "speaker": "Kishirika",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Kishirika's reaction to the doughnut."
+  },
+  "ch10-p0065": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0070": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0073": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0075": {
+    "speaker": "Kishirika",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Kishirika's misunderstanding about Rudeus's offer."
+  },
+  "ch10-p0076": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0077": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0079": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0082": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0083": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's description of Geese."
+  },
+  "ch10-p0084": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0086": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0088": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0090": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0092": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0093": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0094": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's hesitant answer."
+  },
+  "ch10-p0095": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0096": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0097": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0099": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0100": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0101": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's question."
+  },
+  "ch10-p0102": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0104": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0105": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0106": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's astonished question about Badigadi."
+  },
+  "ch10-p0109": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0110": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's curt agreement."
+  },
+  "ch10-p0112": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0114": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0115": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0116": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0118": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0121": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0123": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0125": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0127": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0129": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0131": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0136": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0137": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's thanks."
+  },
+  "ch10-p0138": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0139": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0140": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch10-p0141": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0142": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch10-p0143": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0146": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0147": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0149": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0150": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0154": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0156": {
+    "speaker": "Kishirika",
+    "mixed": true
+  },
+  "ch10-p0157": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0158": {
+    "speaker": "Kishirika",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Kishirika's surrender to Randolph's request."
+  },
+  "ch10-p0160": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0161": {
+    "speaker": "Atofe",
+    "mixed": true
+  },
+  "ch10-p0162": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0164": {
+    "speaker": "Kishirika"
+  },
+  "ch10-p0176": {
+    "speaker": "Linia"
+  },
+  "ch10-p0177": {
+    "speaker": "Pursena"
+  },
+  "ch10-p0180": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch10-p0181": {
+    "speaker": "Linia",
+    "mixed": true
+  },
+  "ch10-p0182": {
+    "speaker": "Pursena",
+    "mixed": true
+  },
+  "ch10-p0184": {
+    "speaker": "Pursena",
+    "mixed": true
+  },
+  "ch10-p0186": {
+    "speaker": "Linia"
+  },
+  "ch10-p0187": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0189": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0192": {
+    "speaker": "Rudeus"
+  }
+}

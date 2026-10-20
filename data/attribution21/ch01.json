@@ -1,0 +1,381 @@
+{
+  "ch01-p0003": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0007": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0008": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch01-p0009": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0010": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0012": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0014": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0015": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0016": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0017": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0019": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0020": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0023": {
+    "speaker": "Barkeep"
+  },
+  "ch01-p0024": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0025": {
+    "speaker": "Barkeep"
+  },
+  "ch01-p0032": {
+    "speaker": "Passerby",
+    "confidence": "medium",
+    "note": "man in the pleasure district who approaches Rudeus."
+  },
+  "ch01-p0034": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0037": {
+    "speaker": "Barkeep",
+    "mixed": true
+  },
+  "ch01-p0038": {
+    "speaker": "Geese",
+    "note": "retelling his adventure with the Quagmire to the young adventurers."
+  },
+  "ch01-p0041": {
+    "speaker": "Geese"
+  },
+  "ch01-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0044": {
+    "speaker": "Geese"
+  },
+  "ch01-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0047": {
+    "speaker": "Geese"
+  },
+  "ch01-p0048": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0049": {
+    "speaker": "Geese"
+  },
+  "ch01-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0053": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0054": {
+    "speaker": "Geese"
+  },
+  "ch01-p0056": {
+    "speaker": "Geese"
+  },
+  "ch01-p0059": {
+    "speaker": "Geese"
+  },
+  "ch01-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0061": {
+    "speaker": "Geese"
+  },
+  "ch01-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0064": {
+    "speaker": "Geese"
+  },
+  "ch01-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0066": {
+    "speaker": "Geese"
+  },
+  "ch01-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0069": {
+    "speaker": "Geese"
+  },
+  "ch01-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0072": {
+    "speaker": "Geese"
+  },
+  "ch01-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0075": {
+    "speaker": "Geese"
+  },
+  "ch01-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0077": {
+    "speaker": "Geese"
+  },
+  "ch01-p0082": {
+    "speaker": "Geese"
+  },
+  "ch01-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0084": {
+    "speaker": "Geese"
+  },
+  "ch01-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0089": {
+    "speaker": "Geese"
+  },
+  "ch01-p0091": {
+    "speaker": "Geese"
+  },
+  "ch01-p0092": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0098": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0100": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0102": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0104": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0106": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0108": {
+    "speaker": "Geese"
+  },
+  "ch01-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0114": {
+    "speaker": "Claire Latria",
+    "mixed": true
+  },
+  "ch01-p0115": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0118": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0121": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0124": {
+    "speaker": "Geese"
+  },
+  "ch01-p0126": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0128": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0131": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0135": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0137": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0141": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0142": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0143": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0147": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0149": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0154": {
+    "speaker": "Claire Latria",
+    "mixed": true
+  },
+  "ch01-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0157": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0160": {
+    "speaker": "Guard"
+  },
+  "ch01-p0161": {
+    "speaker": "Claire Latria"
+  },
+  "ch01-p0162": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0167": {
+    "speaker": "Geese"
+  },
+  "ch01-p0168": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0169": {
+    "speaker": "Geese"
+  },
+  "ch01-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0172": {
+    "speaker": "Geese"
+  },
+  "ch01-p0173": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0176": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0177": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch01-p0178": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0179": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch01-p0180": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0182": {
+    "speaker": "Geese"
+  },
+  "ch01-p0184": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch01-p0191": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0192": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0193": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0194": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0199": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0201": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0202": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0203": {
+    "speaker": "Geese"
+  },
+  "ch01-p0204": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0205": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0206": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0207": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0208": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0209": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0210": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch01-p0211": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0212": {
+    "speaker": "Geese",
+    "confidence": "medium",
+    "note": "of the two replies to Rudeus; read as Geese's."
+  },
+  "ch01-p0213": {
+    "speaker": "Aisha",
+    "confidence": "medium",
+    "note": "of the two replies to Rudeus; read as Aisha's."
+  },
+  "ch01-p0058": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "that carries Rudeus's spoken question."
+  }
+}

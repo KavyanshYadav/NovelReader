@@ -1,0 +1,346 @@
+{
+  "ch05-p0007": {
+    "speaker": "Zanoba"
+  },
+  "ch05-p0009": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch05-p0011": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch05-p0012": {
+    "speaker": "Orsted"
+  },
+  "ch05-p0015": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0016": {
+    "speaker": "Orsted"
+  },
+  "ch05-p0017": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0018": {
+    "speaker": "Orsted"
+  },
+  "ch05-p0019": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0020": {
+    "speaker": "Orsted"
+  },
+  "ch05-p0021": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0022": {
+    "speaker": "Orsted"
+  },
+  "ch05-p0023": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0025": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0027": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0029": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0031": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0032": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0035": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0037": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0038": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0040": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0042": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0046": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0047": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0049": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0051": {
+    "speaker": "Perugius"
+  },
+  "ch05-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0064": {
+    "speaker": "Sylvaril",
+    "mixed": true
+  },
+  "ch05-p0067": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0069": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0072": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0088": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's narration; the quoted text is the apparatus readout, not a spoken line."
+  },
+  "ch05-p0098": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch05-p0099": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0100": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0105": {
+    "speaker": "Eris"
+  },
+  "ch05-p0106": {
+    "speaker": "Lucie"
+  },
+  "ch05-p0108": {
+    "speaker": "Lucie"
+  },
+  "ch05-p0111": {
+    "speaker": "Eris"
+  },
+  "ch05-p0114": {
+    "speaker": "Eris"
+  },
+  "ch05-p0117": {
+    "speaker": "Lucie"
+  },
+  "ch05-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0119": {
+    "speaker": "Eris"
+  },
+  "ch05-p0123": {
+    "speaker": "Eris"
+  },
+  "ch05-p0124": {
+    "speaker": "Lucie"
+  },
+  "ch05-p0126": {
+    "speaker": "Sylphiette"
+  },
+  "ch05-p0127": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0132": {
+    "speaker": "Lucie"
+  },
+  "ch05-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0134": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0138": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch05-p0139": {
+    "speaker": "Lucie"
+  },
+  "ch05-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0141": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0143": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0144": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0150": {
+    "speaker": "Sylphiette"
+  },
+  "ch05-p0157": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0159": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0160": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0162": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0163": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0164": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0165": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0167": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0168": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0170": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0172": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0173": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0174": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0176": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0177": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0179": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0180": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0182": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0184": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0185": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0186": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0188": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0191": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0193": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0194": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0195": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0196": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0197": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0198": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0200": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0201": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0203": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0204": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0206": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0207": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0208": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0212": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch05-p0213": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0216": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0219": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0220": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0221": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0222": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0224": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch05-p0226": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch05-p0232": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0233": {
+    "speaker": "Nanahoshi"
+  }
+}

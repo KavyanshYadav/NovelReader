@@ -1,0 +1,428 @@
+{
+  "ch10-p0006": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0007": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch10-p0013": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's quiet check on the rice."
+  },
+  "ch10-p0020": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0021": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0024": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0025": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's thanks for the meal."
+  },
+  "ch10-p0027": {
+    "speaker": "Norn"
+  },
+  "ch10-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0030": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0031": {
+    "speaker": "Norn"
+  },
+  "ch10-p0033": {
+    "speaker": "Norn"
+  },
+  "ch10-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0035": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch10-p0037": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0038": {
+    "speaker": "Norn"
+  },
+  "ch10-p0039": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0040": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch10-p0042": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch10-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0044": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch10-p0045": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch10-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0047": {
+    "speaker": "Norn"
+  },
+  "ch10-p0048": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0049": {
+    "speaker": "Norn"
+  },
+  "ch10-p0051": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0052": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch10-p0058": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0059": {
+    "speaker": "Orsted"
+  },
+  "ch10-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0061": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch10-p0062": {
+    "speaker": "Orsted"
+  },
+  "ch10-p0063": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0064": {
+    "speaker": "Orsted"
+  },
+  "ch10-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0066": {
+    "speaker": "Orsted"
+  },
+  "ch10-p0068": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0069": {
+    "speaker": "Orsted"
+  },
+  "ch10-p0070": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0072": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch10-p0073": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0075": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0076": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch10-p0077": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0078": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch10-p0079": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch10-p0080": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0088": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch10-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0090": {
+    "speaker": "Zanoba"
+  },
+  "ch10-p0092": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch10-p0093": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0094": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch10-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0096": {
+    "speaker": "Zanoba"
+  },
+  "ch10-p0097": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0098": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0099": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch10-p0102": {
+    "speaker": "Zanoba"
+  },
+  "ch10-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0108": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch10-p0109": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0111": {
+    "speaker": "Zanoba"
+  },
+  "ch10-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0121": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0122": {
+    "speaker": "Zanoba"
+  },
+  "ch10-p0123": {
+    "speaker": "Zanoba"
+  },
+  "ch10-p0124": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0125": {
+    "speaker": "Zanoba"
+  },
+  "ch10-p0127": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0128": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch10-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0131": {
+    "speaker": "Clerk",
+    "mixed": true
+  },
+  "ch10-p0132": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0133": {
+    "speaker": "Clerk"
+  },
+  "ch10-p0134": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0136": {
+    "speaker": "Clerk",
+    "mixed": true
+  },
+  "ch10-p0137": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0138": {
+    "speaker": "Clerk"
+  },
+  "ch10-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0140": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0141": {
+    "speaker": "Clerk"
+  },
+  "ch10-p0142": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0144": {
+    "speaker": "Clerk"
+  },
+  "ch10-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0146": {
+    "speaker": "Clerk"
+  },
+  "ch10-p0147": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0152": {
+    "speaker": "Official"
+  },
+  "ch10-p0153": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0154": {
+    "speaker": "Dohga",
+    "mixed": true
+  },
+  "ch10-p0155": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0156": {
+    "speaker": "King",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the king's opening words to Rudeus."
+  },
+  "ch10-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0159": {
+    "speaker": "King",
+    "mixed": true
+  },
+  "ch10-p0160": {
+    "speaker": "King"
+  },
+  "ch10-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0162": {
+    "speaker": "King"
+  },
+  "ch10-p0163": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0164": {
+    "speaker": "King"
+  },
+  "ch10-p0165": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0167": {
+    "speaker": "King",
+    "mixed": true
+  },
+  "ch10-p0168": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0169": {
+    "speaker": "King",
+    "mixed": true
+  },
+  "ch10-p0170": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0171": {
+    "speaker": "King"
+  },
+  "ch10-p0172": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's final appeal to the king."
+  },
+  "ch10-p0173": {
+    "speaker": "King",
+    "mixed": true
+  },
+  "ch10-p0174": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0175": {
+    "speaker": "Official"
+  },
+  "ch10-p0176": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0177": {
+    "speaker": "King",
+    "mixed": true
+  },
+  "ch10-p0178": {
+    "speaker": "King"
+  },
+  "ch10-p0179": {
+    "speaker": "Guard"
+  },
+  "ch10-p0180": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's startled question to the king."
+  },
+  "ch10-p0181": {
+    "speaker": "King"
+  },
+  "ch10-p0183": {
+    "speaker": "Rudeus",
+    "mixed": true
+  }
+}

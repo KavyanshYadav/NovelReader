@@ -1,0 +1,199 @@
+{
+  "ch07-p0021": {
+    "speaker": "Ariel",
+    "recollection": true,
+    "note": "Ariel's words from an earlier conversation, quoted while Rudeus reviews the year; Ariel is not in the scene."
+  },
+  "ch07-p0042": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's imagined joke about Ariel; the classifier typed it as speech."
+  },
+  "ch07-p0049": {
+    "speaker": "Lucie",
+    "mixed": true,
+    "recollection": true,
+    "note": "Lucie's excuse from an earlier scene, quoted while Rudeus reviews the year; Lucie is not in the scene."
+  },
+  "ch07-p0050": {
+    "speaker": "Lucie",
+    "recollection": true,
+    "note": "Lucie's promise from an earlier scene, quoted while Rudeus reviews the year; Lucie is not in the scene."
+  },
+  "ch07-p0068": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0072": {
+    "speaker": "Elinalise",
+    "mixed": true,
+    "note": "Elinalise's request is embedded in the narration."
+  },
+  "ch07-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0078": {
+    "speaker": "Roxy"
+  },
+  "ch07-p0080": {
+    "speaker": "Sylphiette"
+  },
+  "ch07-p0082": {
+    "speaker": "Eris"
+  },
+  "ch07-p0084": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0087": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0089": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0091": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0092": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's question is embedded in the narration."
+  },
+  "ch07-p0093": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0099": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0101": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0109": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0110": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0112": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0119": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's request is embedded in the narration."
+  },
+  "ch07-p0122": {
+    "speaker": "Claire Latria",
+    "type": "quotation",
+    "recollection": true,
+    "note": "The Countess of Latria's order, quoted from the letter that is read aloud; Claire is not in the room."
+  },
+  "ch07-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0128": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0129": {
+    "speaker": "Lilia"
+  },
+  "ch07-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0133": {
+    "speaker": "Aisha",
+    "confidence": "medium",
+    "note": "A hollow laugh at the letter; it could come from Norn instead, who is described as exasperated."
+  },
+  "ch07-p0134": {
+    "speaker": "Norn",
+    "confidence": "medium",
+    "note": "A resigned comment about their grandmother; it could come from Aisha instead."
+  },
+  "ch07-p0139": {
+    "speaker": "Lilia",
+    "mixed": true,
+    "note": "Lilia's question is embedded in the narration."
+  },
+  "ch07-p0141": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0146": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0147": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's protest is embedded in the narration."
+  },
+  "ch07-p0150": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0151": {
+    "speaker": "Aisha"
+  },
+  "ch07-p0154": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's refusal is embedded in the narration."
+  },
+  "ch07-p0155": {
+    "speaker": "Norn",
+    "type": "narration",
+    "note": "Narration repeating Norn's words back to the reader; the classifier typed it as speech."
+  },
+  "ch07-p0156": {
+    "speaker": "Norn"
+  },
+  "ch07-p0157": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's reply is embedded in the narration."
+  },
+  "ch07-p0158": {
+    "speaker": "Aisha"
+  },
+  "ch07-p0162": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0163": {
+    "speaker": "Aisha"
+  },
+  "ch07-p0166": {
+    "speaker": "Lilia"
+  },
+  "ch07-p0168": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0169": {
+    "speaker": "Lilia"
+  },
+  "ch07-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0172": {
+    "speaker": "Aisha"
+  },
+  "ch07-p0173": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0175": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0176": {
+    "speaker": "Aisha"
+  },
+  "ch07-p0185": {
+    "speaker": "Cliff"
+  }
+}

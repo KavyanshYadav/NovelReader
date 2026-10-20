@@ -1,0 +1,329 @@
+{
+  "ch12-p0003": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0004": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0010": {
+    "speaker": "Demon King",
+    "embeddedDialogue": true,
+    "note": "that carries the demon kings whispering \"A champion\"."
+  },
+  "ch12-p0018": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0030": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0031": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0032": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0037": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0038": {
+    "speaker": "Rokari",
+    "mixed": true
+  },
+  "ch12-p0039": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0041": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0045": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0046": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0047": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0048": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0049": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0051": {
+    "speaker": "Rokari",
+    "mixed": true
+  },
+  "ch12-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0055": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0057": {
+    "speaker": "Rokari",
+    "mixed": true
+  },
+  "ch12-p0058": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0059": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0060": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch12-p0061": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0063": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0064": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0065": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0066": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0068": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0070": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0072": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0073": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0074": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0075": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0077": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0080": {
+    "speaker": "Rokari",
+    "mixed": true
+  },
+  "ch12-p0081": {
+    "speaker": "Rokari",
+    "mixed": true
+  },
+  "ch12-p0082": {
+    "speaker": "Rokari",
+    "mixed": true
+  },
+  "ch12-p0087": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0088": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0089": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0090": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0092": {
+    "speaker": "Rowin",
+    "mixed": true
+  },
+  "ch12-p0093": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0094": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "and Rudeus exclaim together; Roxy is listed first."
+  },
+  "ch12-p0096": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0097": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0100": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0101": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0102": {
+    "speaker": "Rowin",
+    "embeddedDialogue": true,
+    "note": "that carries Rowin's question about Lara."
+  },
+  "ch12-p0105": {
+    "speaker": "Rudeus",
+    "confidence": "medium",
+    "note": "and Rudeus both exclaim; Rudeus is listed first."
+  },
+  "ch12-p0109": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch12-p0111": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0114": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0116": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "monologue; the quotation is a phrase Rudeus imagines Lara might say."
+  },
+  "ch12-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0119": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0121": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0124": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0125": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0136": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0138": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0140": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0142": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0144": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0145": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0146": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0147": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0149": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0151": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0152": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0155": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0157": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0159": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0163": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0164": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0170": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0172": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0173": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0174": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0175": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0176": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0178": {
+    "speaker": "Rowin"
+  },
+  "ch12-p0180": {
+    "speaker": "Lara",
+    "embeddedDialogue": true,
+    "note": "that carries Lara's first spoken words."
+  },
+  "ch12-p0183": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0185": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0186": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0187": {
+    "speaker": "Rokari"
+  },
+  "ch12-p0191": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0192": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0113": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "that carries Rudeus speaking to Lara in the human tongue."
+  }
+}

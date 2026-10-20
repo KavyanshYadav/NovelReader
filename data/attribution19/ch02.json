@@ -1,0 +1,384 @@
+{
+  "ch02-p0006": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0008": {
+    "speaker": "Sylphiette",
+    "mixed": true,
+    "note": "Narration leads into Sylphiette's hesitant reply."
+  },
+  "ch02-p0011": {
+    "speaker": "Sylphiette",
+    "mixed": true,
+    "note": "Sylphiette's protest is embedded in the narration."
+  },
+  "ch02-p0012": {
+    "speaker": "Eris"
+  },
+  "ch02-p0013": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0014": {
+    "speaker": "Eris"
+  },
+  "ch02-p0015": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0017": {
+    "speaker": "Eris"
+  },
+  "ch02-p0019": {
+    "speaker": "Eris"
+  },
+  "ch02-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0022": {
+    "speaker": "Eris"
+  },
+  "ch02-p0024": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0025": {
+    "speaker": "Eris"
+  },
+  "ch02-p0027": {
+    "speaker": "Aisha"
+  },
+  "ch02-p0030": {
+    "speaker": "Eris"
+  },
+  "ch02-p0035": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0039": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0040": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0043": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0048": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0049": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0051": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0058": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0059": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0062": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0063": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0064": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0065": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0068": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's closing remark is embedded in the narration."
+  },
+  "ch02-p0069": {
+    "speaker": "Lara",
+    "note": "The baby Lara's cry of protest."
+  },
+  "ch02-p0071": {
+    "speaker": "Lara",
+    "note": "The baby Lara's cry."
+  },
+  "ch02-p0072": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0074": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0081": {
+    "speaker": "Lara",
+    "note": "The baby Lara's cry."
+  },
+  "ch02-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0084": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0086": {
+    "speaker": "Lara",
+    "note": "The baby Lara's shriek."
+  },
+  "ch02-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0089": {
+    "speaker": "Lara",
+    "note": "The baby Lara's cry."
+  },
+  "ch02-p0092": {
+    "speaker": "Lara",
+    "note": "The baby Lara's cry."
+  },
+  "ch02-p0095": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0096": {
+    "speaker": "Lilia"
+  },
+  "ch02-p0101": {
+    "speaker": "Lara",
+    "note": "The baby Lara's cry."
+  },
+  "ch02-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0105": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0115": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's reply to Rudeus's argument is embedded in the narration."
+  },
+  "ch02-p0117": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0119": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0121": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0124": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0146": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's opening statement to the Principal is embedded in the narration."
+  },
+  "ch02-p0167": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0168": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0170": {
+    "speaker": "Sylvaril"
+  },
+  "ch02-p0172": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0174": {
+    "speaker": "Sylvaril"
+  },
+  "ch02-p0175": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch02-p0176": {
+    "speaker": "Sylvaril"
+  },
+  "ch02-p0177": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0180": {
+    "speaker": "Sylvaril"
+  },
+  "ch02-p0181": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's acceptance is embedded in the narration."
+  },
+  "ch02-p0183": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0185": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0186": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0188": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0189": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0190": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0192": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0193": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0197": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0198": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's answer is embedded in the narration."
+  },
+  "ch02-p0199": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0202": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0204": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0205": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's question is embedded in the narration."
+  },
+  "ch02-p0206": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0208": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0209": {
+    "speaker": "Perugius",
+    "mixed": true,
+    "note": "Perugius's offer is embedded in the narration."
+  },
+  "ch02-p0210": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0211": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0214": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0215": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0216": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0217": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0220": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0221": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's answer is embedded in the narration."
+  },
+  "ch02-p0222": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0223": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0226": {
+    "speaker": "Perugius",
+    "mixed": true,
+    "note": "Perugius's response is embedded in the narration."
+  },
+  "ch02-p0227": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's request is embedded in the narration."
+  },
+  "ch02-p0228": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0230": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0231": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0232": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0233": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0234": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0236": {
+    "speaker": "Perugius",
+    "mixed": true,
+    "note": "Perugius's laugh and decision are embedded in the narration."
+  },
+  "ch02-p0237": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0238": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0240": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0241": {
+    "speaker": "Sylvaril"
+  },
+  "ch02-p0243": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0244": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0245": {
+    "speaker": "Perugius"
+  },
+  "ch02-p0253": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0254": {
+    "speaker": "Ginger"
+  },
+  "ch02-p0255": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0258": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's comment is embedded in the narration."
+  }
+}

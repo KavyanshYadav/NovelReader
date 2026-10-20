@@ -1,0 +1,483 @@
+{
+  "ch01-s01": {
+    "location": "Rudeus's house, Sharia (Sylphiette's bedroom)",
+    "cast": [
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch01-s02": {
+    "location": "Rudeus's house, Sharia (the nursery)",
+    "cast": [
+      "Eris",
+      "Orsted",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch01-s03": {
+    "location": "Rudeus's house, Sharia (the nursery)",
+    "cast": [
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch01-s04": {
+    "location": "The Chaos Breaker floating fortress, Perugius's audience chamber",
+    "cast": [
+      "Eris",
+      "Nanahoshi",
+      "Orsted",
+      "Perugius",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette",
+      "Sylvaril",
+      "Zanoba"
+    ]
+  },
+  "ch02-s01": {
+    "location": "Orsted Corporation office, Sharia",
+    "cast": [
+      "Eris",
+      "Orsted",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch02-s02": {
+    "location": "Rudeus's house, Sharia (the living room)",
+    "cast": [
+      "Roxy",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch02-s03": {
+    "location": "Rudeus's house, Sharia",
+    "cast": [
+      "Aisha",
+      "Arus",
+      "Eris",
+      "Lara",
+      "Lilia",
+      "Lucie",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch02-s04": {
+    "location": "The foot of the Divine Continent cliff, on the northeastern edge of the Central Continent",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch02-s05": {
+    "location": "The cliff face of the Divine Continent, inside the earth-magic elevator",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch02-s06": {
+    "location": "The cliff face of the Divine Continent, inside the earth-magic elevator",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch02-s07": {
+    "location": "The Divine Continent plateau, at the top of the cliff at night",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch03-s01": {
+    "location": "A campsite on the Divine Continent plain",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch03-s02": {
+    "location": "The Divine Continent plain, on the road to Aluce",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch03-s03": {
+    "location": "Outside the skyfolk city of Aluce, Divine Continent",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Skyfolk",
+      "Sylphiette"
+    ]
+  },
+  "ch03-s04": {
+    "location": "The skyfolk city of Aluce, Divine Continent",
+    "cast": [
+      "Eris",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Skyfolk",
+      "Sylphiette",
+      "Village Elder"
+    ]
+  },
+  "ch04-s01": {
+    "location": "Aluce Hill, Divine Continent",
+    "cast": [
+      "Eris",
+      "Gigantic Jaw",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette"
+    ]
+  },
+  "ch04-s02": {
+    "location": "The dragonfolk ruin shrine on Aluce Hill, Divine Continent",
+    "cast": [
+      "Arumanfi",
+      "Eris",
+      "Nanahoshi",
+      "Perugius",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette",
+      "Sylvaril"
+    ]
+  },
+  "ch04-s03": {
+    "location": "The Chaos Breaker floating fortress, Perugius's throne room",
+    "cast": [
+      "Eris",
+      "Nanahoshi",
+      "Orsted",
+      "Perugius",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch04-s04": {
+    "location": "The road from the floating fortress to the teleportation circle",
+    "cast": [
+      "Nanahoshi",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch05-s01": {
+    "location": "The Chaos Breaker floating fortress, Hall of Teleportation (basement floor fifty)",
+    "cast": [
+      "Nanahoshi",
+      "Orsted",
+      "Perugius",
+      "Rudeus",
+      "Sylphiette",
+      "Sylvaril",
+      "Zanoba"
+    ]
+  },
+  "ch05-s02": {
+    "location": "The Chaos Breaker floating fortress, Hall of Teleportation, over the month of experiments",
+    "cast": [
+      "Nanahoshi",
+      "Rudeus"
+    ]
+  },
+  "ch05-s03": {
+    "location": "Rudeus's house, Sharia",
+    "cast": [
+      "Aisha",
+      "Arus",
+      "Eris",
+      "Lara",
+      "Lilia",
+      "Lucie",
+      "Nanahoshi",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch05-s04": {
+    "location": "Rudeus's living room, Sharia, late at night",
+    "cast": [
+      "Nanahoshi",
+      "Rudeus"
+    ]
+  },
+  "ch06-s01": {
+    "location": "The Chaos Breaker floating fortress, Hall of Teleportation",
+    "cast": [
+      "Nanahoshi",
+      "Perugius",
+      "Rudeus"
+    ]
+  },
+  "ch06-s02": {
+    "location": "Nanahoshi's room in the Chaos Breaker floating fortress",
+    "cast": [
+      "Nanahoshi",
+      "Rudeus"
+    ]
+  },
+  "ch06-s03": {
+    "location": "The Chaos Breaker floating fortress, Hall of Teleportation",
+    "cast": [
+      "Nanahoshi",
+      "Perugius",
+      "Rudeus"
+    ]
+  },
+  "ch06-s04": {
+    "location": "Orsted Corporation office, Sharia",
+    "cast": [
+      "Orsted",
+      "Receptionist",
+      "Rudeus"
+    ]
+  },
+  "ch07-s01": {
+    "location": "The town of the Sword Sanctum, Northern Territories",
+    "cast": [
+      "Eris",
+      "Rudeus"
+    ]
+  },
+  "ch07-s02": {
+    "location": "The streets of the Sword Sanctum town, Northern Territories",
+    "cast": [
+      "Crowd",
+      "Eris",
+      "Rudeus",
+      "Swordsman"
+    ]
+  },
+  "ch07-s03": {
+    "location": "The Sword Sanctum training hall, Northern Territories",
+    "cast": [
+      "Eris",
+      "Nina",
+      "Rudeus",
+      "Student",
+      "Swordsman"
+    ]
+  },
+  "ch07-s04": {
+    "location": "The drill hall of the Sword Sanctum, Northern Territories",
+    "cast": [
+      "Eris",
+      "Nina",
+      "Rudeus"
+    ]
+  },
+  "ch07-s05": {
+    "location": "The training hall of the Sword Sanctum, Northern Territories",
+    "cast": [
+      "Eris",
+      "Rudeus",
+      "Student"
+    ]
+  },
+  "ch08-s01": {
+    "location": "The road south to the Conflict Zone, Central Continent",
+    "cast": [
+      "Eris",
+      "Rudeus"
+    ]
+  },
+  "ch08-s02": {
+    "location": "The road to the town of Kide, Gardenia Kingdom, in the Conflict Zone",
+    "cast": [
+      "Eris",
+      "Rudeus"
+    ]
+  },
+  "ch08-s03": {
+    "location": "Kide's Adventurers' Guild, Gardenia Kingdom",
+    "cast": [
+      "Adventurer",
+      "Alisa",
+      "Eris",
+      "Party Leader",
+      "Rudeus",
+      "Sara"
+    ]
+  },
+  "ch08-s04": {
+    "location": "Kide's Adventurers' Guild, Gardenia Kingdom",
+    "cast": [
+      "Adventurer",
+      "Alisa",
+      "Eris",
+      "Party Leader",
+      "Rudeus",
+      "Sara"
+    ]
+  },
+  "ch08-s05": {
+    "location": "The road south past the Gardenia-Nekrina border, Conflict Zone",
+    "cast": [
+      "Adventurer",
+      "Eris",
+      "Missionary Knight",
+      "Rudeus",
+      "Sara"
+    ]
+  },
+  "ch08-s06": {
+    "location": "A roadside camp south of the Conflict Zone border",
+    "cast": [
+      "Alisa",
+      "Eris",
+      "Rudeus",
+      "Sara"
+    ]
+  },
+  "ch08-s07": {
+    "location": "Hammerpolka, the Mercenary Town, Markien Mercenary Country",
+    "cast": [
+      "Adventurer",
+      "Alisa",
+      "Eris",
+      "Rudeus",
+      "Sara"
+    ]
+  },
+  "ch09-s01": {
+    "location": "A street in Hammerpolka, Markien Mercenary Country",
+    "cast": [
+      "Eris",
+      "Glanze",
+      "Missionary Knight",
+      "Rudeus",
+      "Soldat"
+    ]
+  },
+  "ch09-s02": {
+    "location": "The Thunderbolt clan room in Hammerpolka, Markien Mercenary Country",
+    "cast": [
+      "Eris",
+      "Mercenary",
+      "Rudeus",
+      "Soldat"
+    ]
+  },
+  "ch09-s03": {
+    "location": "The hillside outside Hammerpolka, the unmarked graves of Philip and Hilda in the Conflict Zone, and the Boreas graveyard in Asura Kingdom",
+    "cast": [
+      "Eris",
+      "Luke",
+      "Mercenary",
+      "Rudeus"
+    ]
+  },
+  "ch09-s04": {
+    "location": "Orsted Corporation office, Sharia",
+    "cast": [
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch10-s01": {
+    "location": "Necross Fortress in the Gaslow Territory, Demon Continent",
+    "cast": [
+      "Atofe",
+      "Black Knight",
+      "Kishirika",
+      "Rudeus"
+    ]
+  },
+  "ch10-s02": {
+    "location": "The throne room of Necross Fortress, Demon Continent",
+    "cast": [
+      "Atofe",
+      "Black Knight",
+      "Kishirika",
+      "Rudeus"
+    ]
+  },
+  "ch10-s03": {
+    "location": "Rudeus's living room, Sharia",
+    "cast": [
+      "Eris",
+      "Linia",
+      "Pursena",
+      "Rudeus"
+    ]
+  },
+  "ch11-s01": {
+    "location": "The town mayor's estate in the Biegoya Region, Demon Continent",
+    "cast": [
+      "Badigadi",
+      "Geese",
+      "Soldier"
+    ]
+  },
+  "ch11-s02": {
+    "location": "The town mayor's estate in the Biegoya Region, Demon Continent, after the drinking contest",
+    "cast": [
+      "Adviser",
+      "Badigadi",
+      "Geese"
+    ]
+  },
+  "ch11-s03": {
+    "location": "Badigadi's dream world, where he retells the Second Great Human-Demon War",
+    "cast": [
+      "Badigadi",
+      "Kishirika",
+      "Man-God"
+    ]
+  },
+  "ch11-s04": {
+    "location": "Badigadi's dream world, where the Man-God asks for his help",
+    "cast": [
+      "Badigadi",
+      "Man-God"
+    ]
+  },
+  "ch11-s05": {
+    "location": "Badigadi's dream world, where the Man-God sets him his final task",
+    "cast": [
+      "Badigadi",
+      "Man-God"
+    ]
+  }
+}

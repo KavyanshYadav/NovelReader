@@ -1,0 +1,330 @@
+{
+  "ch01-s01": {
+    "location": "The Adventurers' District, Millishion",
+    "cast": [
+      "Aisha",
+      "Barkeep",
+      "Rudeus"
+    ]
+  },
+  "ch01-s02": {
+    "location": "The Dappled Light Tavern in the pleasure district, Millishion",
+    "cast": [
+      "Aisha",
+      "Barkeep",
+      "Geese",
+      "Passerby",
+      "Rudeus"
+    ]
+  },
+  "ch01-s03": {
+    "location": "The gate of the Latria estate, Millishion",
+    "cast": [
+      "Aisha",
+      "Butler",
+      "Claire Latria",
+      "Geese",
+      "Guard",
+      "Rudeus"
+    ]
+  },
+  "ch01-s04": {
+    "location": "The streets of the Divine District, Millishion",
+    "cast": [
+      "Aisha",
+      "Geese",
+      "Rudeus"
+    ]
+  },
+  "ch02-s01": {
+    "location": "The pope's audience chamber, Millis Church headquarters, Millishion",
+    "cast": [
+      "Cliff",
+      "Pope",
+      "Rudeus"
+    ]
+  },
+  "ch02-s02": {
+    "location": "The inner garden of the Millis Church headquarters, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Rudeus",
+      "Therese"
+    ]
+  },
+  "ch02-s03": {
+    "location": "The mercenary band office in the Merchant District, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Guard",
+      "Orsted",
+      "Rudeus",
+      "Therese"
+    ]
+  },
+  "ch02-s04": {
+    "location": "The inner garden of the Millis Church headquarters, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Rudeus",
+      "Therese"
+    ]
+  },
+  "ch03-s01": {
+    "location": "The inner garden of the Millis Church headquarters, Millishion (the inquisition)",
+    "cast": [
+      "Dust Bin",
+      "Rudeus",
+      "Temple Knight",
+      "Therese"
+    ]
+  },
+  "ch03-s02": {
+    "location": "The inner garden of the Millis Church headquarters, Millishion (the fight)",
+    "cast": [
+      "Rudeus",
+      "Temple Knight",
+      "Therese"
+    ]
+  },
+  "ch03-s03": {
+    "location": "The inner garden of the Millis Church headquarters, Millishion (Therese's viewpoint)",
+    "cast": [
+      "Funeral Procession",
+      "Rudeus",
+      "Temple Knight",
+      "Therese"
+    ]
+  },
+  "ch03-s04": {
+    "location": "The inner garden of the Millis Church headquarters, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Rudeus",
+      "Temple Knight",
+      "Therese"
+    ]
+  },
+  "ch04-s01": {
+    "location": "The mercenary band office in the Merchant District, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Rudeus"
+    ]
+  },
+  "ch04-s02": {
+    "location": "The Millis Church headquarters and its labyrinthine inner passages, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Carlisle Latria",
+      "Pope",
+      "Rudeus",
+      "Temple Knight",
+      "Therese"
+    ]
+  },
+  "ch05-s01": {
+    "location": "The meeting room of the Millis Church headquarters, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Cardinal Leblanc",
+      "Carlisle Latria",
+      "Claire Latria",
+      "Cliff",
+      "Pope",
+      "Rudeus",
+      "Sir Bellemond",
+      "Zenith"
+    ]
+  },
+  "ch05-s02": {
+    "location": "The meeting room of the Millis Church headquarters, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Cardinal Leblanc",
+      "Carlisle Latria",
+      "Claire Latria",
+      "Cliff",
+      "Council Member",
+      "Pope",
+      "Rudeus",
+      "Sir Bellemond",
+      "Temple Knight",
+      "Therese",
+      "Zenith"
+    ]
+  },
+  "ch06-s01": {
+    "location": "The meeting room of the Millis Church headquarters, Millishion (the Latria family history)",
+    "cast": [
+      "Claire Latria",
+      "Meredy Latria",
+      "Rudeus"
+    ]
+  },
+  "ch06-s02": {
+    "location": "The meeting room of the Millis Church headquarters, Millishion (the Latria family history)",
+    "cast": [
+      "Carlisle Latria",
+      "Claire Latria",
+      "Ralkan Latria",
+      "Rudeus"
+    ]
+  },
+  "ch06-s03": {
+    "location": "The meeting room of the Millis Church headquarters, Millishion (the Latria family history)",
+    "cast": [
+      "Aisha",
+      "Claire Latria",
+      "Norn",
+      "Rudeus",
+      "Therese",
+      "Zenith"
+    ]
+  },
+  "ch06-s04": {
+    "location": "The Latria estate, Millishion (recounted history)",
+    "cast": [
+      "Aisha",
+      "Ander",
+      "Claire Latria",
+      "Rudeus",
+      "Zenith"
+    ]
+  },
+  "ch06-s05": {
+    "location": "The meeting room of the Millis Church headquarters, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Cardinal Leblanc",
+      "Carlisle Latria",
+      "Claire Latria",
+      "Cliff",
+      "Pope",
+      "Rudeus",
+      "Therese",
+      "Zenith"
+    ]
+  },
+  "ch07-s01": {
+    "location": "Cliff's house in the Divine District and the Blessed Child's quarters at the Millis Church headquarters, Millishion",
+    "cast": [
+      "Aisha",
+      "Blessed Child",
+      "Carlisle Latria",
+      "Claire Latria",
+      "Cliff",
+      "Geese",
+      "Rudeus",
+      "Temple Knight",
+      "Wendy",
+      "Zenith"
+    ]
+  },
+  "ch07-s02": {
+    "location": "The side room of the Millis Church headquarters and Cliff's house, Millishion",
+    "cast": [
+      "Aisha",
+      "Claire Latria",
+      "Rudeus",
+      "Wendy",
+      "Zenith"
+    ]
+  },
+  "ch08-s01": {
+    "location": "The mercenary band office, Millishion (Orsted's messages by contact stone)",
+    "cast": [
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch08-s02": {
+    "location": "The mercenary band office, Millishion",
+    "cast": [
+      "Aisha",
+      "Rudeus"
+    ]
+  },
+  "ch08-s03": {
+    "location": "The mercenary band office, Millishion",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Rudeus"
+    ]
+  },
+  "ch08-s04": {
+    "location": "The mercenary band office, Millishion",
+    "cast": [
+      "Rudeus"
+    ]
+  },
+  "ch08-s05": {
+    "location": "The Latria estate, the Millis Church headquarters, and Cliff's house, Millishion",
+    "cast": [
+      "Aisha",
+      "Blessed Child",
+      "Claire Latria",
+      "Cliff",
+      "Eris",
+      "Knight",
+      "Rudeus",
+      "Temple Knight",
+      "Therese",
+      "Zenith"
+    ]
+  },
+  "ch09-s01": {
+    "location": "The inner garden of the Millis Church headquarters, Millishion",
+    "cast": [
+      "Blessed Child",
+      "Eris",
+      "Rudeus",
+      "Temple Knight",
+      "Therese"
+    ]
+  },
+  "ch10-s01": {
+    "location": "The Latria estate, Millishion",
+    "cast": [
+      "Claire Latria",
+      "Therese"
+    ]
+  },
+  "ch10-s02": {
+    "location": "The Morchite family estate, Millishion",
+    "cast": [
+      "Claire Latria",
+      "Dusklight Morchite",
+      "Morchite Mother",
+      "Therese"
+    ]
+  },
+  "ch10-s03": {
+    "location": "The Latria estate, Millishion",
+    "cast": [
+      "Claire Latria",
+      "Therese"
+    ]
+  },
+  "ch11-s01": {
+    "location": "A roadside camp on the road west, Central Continent",
+    "cast": [
+      "Geese",
+      "Geese's Father"
+    ]
+  },
+  "ch11-s02": {
+    "location": "A ravine in a snowy monster forest beyond the Asura Kingdom",
+    "cast": [
+      "Geese",
+      "Sword God"
+    ]
+  },
+  "ch11-s03": {
+    "location": "A ravine in a snowy monster forest beyond the Asura Kingdom",
+    "cast": [
+      "Geese"
+    ]
+  }
+}

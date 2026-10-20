@@ -1,0 +1,128 @@
+{
+  "ch03-p0031": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch03-p0032": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch03-p0033": {
+    "speaker": "Eris"
+  },
+  "ch03-p0034": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0035": {
+    "speaker": "Eris"
+  },
+  "ch03-p0037": {
+    "speaker": "Eris"
+  },
+  "ch03-p0038": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0040": {
+    "speaker": "Eris"
+  },
+  "ch03-p0041": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0052": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0055": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0057": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch03-p0058": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0064": {
+    "speaker": "Eris"
+  },
+  "ch03-p0066": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0067": {
+    "speaker": "Eris"
+  },
+  "ch03-p0069": {
+    "speaker": "Rudeus",
+    "confidence": "medium",
+    "note": "Question about how to enter Aluce; read as Rudeus, who leads the group, but the line is untagged."
+  },
+  "ch03-p0070": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0076": {
+    "speaker": "Eris"
+  },
+  "ch03-p0077": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0078": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch03-p0080": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch03-p0086": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0089": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch03-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0093": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0095": {
+    "speaker": "Skyfolk",
+    "note": "Startled exclamation from the Aluce guard; a vocalization rather than speech."
+  },
+  "ch03-p0110": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch03-p0111": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0112": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0115": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0118": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0123": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  }
+}

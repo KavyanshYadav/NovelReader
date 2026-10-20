@@ -1,0 +1,190 @@
+{
+  "ch11-p0007": {
+    "speaker": "Geese"
+  },
+  "ch11-p0062": {
+    "speaker": "Geese"
+  },
+  "ch11-p0069": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0071": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0072": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0075": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0078": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0081": {
+    "speaker": "Sword God",
+    "mixed": true
+  },
+  "ch11-p0086": {
+    "speaker": "Sword God",
+    "mixed": true
+  },
+  "ch11-p0087": {
+    "speaker": "Geese"
+  },
+  "ch11-p0088": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0090": {
+    "speaker": "Geese"
+  },
+  "ch11-p0091": {
+    "speaker": "Sword God",
+    "mixed": true
+  },
+  "ch11-p0095": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0096": {
+    "speaker": "Geese"
+  },
+  "ch11-p0097": {
+    "speaker": "Geese"
+  },
+  "ch11-p0098": {
+    "speaker": "Geese"
+  },
+  "ch11-p0099": {
+    "speaker": "Geese"
+  },
+  "ch11-p0100": {
+    "speaker": "Geese"
+  },
+  "ch11-p0101": {
+    "speaker": "Geese"
+  },
+  "ch11-p0102": {
+    "speaker": "Geese"
+  },
+  "ch11-p0104": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0105": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0107": {
+    "speaker": "Geese"
+  },
+  "ch11-p0108": {
+    "speaker": "Geese"
+  },
+  "ch11-p0109": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0118": {
+    "speaker": "Sword God",
+    "mixed": true
+  },
+  "ch11-p0121": {
+    "speaker": "Sword God",
+    "mixed": true
+  },
+  "ch11-p0122": {
+    "speaker": "Sword God",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "note": "that carries the swordsman's threat."
+  },
+  "ch11-p0125": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0126": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0127": {
+    "speaker": "Geese"
+  },
+  "ch11-p0128": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0130": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0143": {
+    "speaker": "Geese's Father",
+    "recollection": true,
+    "note": "father in the village on the Demon Continent."
+  },
+  "ch11-p0157": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0162": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0167": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0169": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0172": {
+    "speaker": "Sword God",
+    "mixed": true
+  },
+  "ch11-p0175": {
+    "speaker": "Sword God",
+    "mixed": true
+  },
+  "ch11-p0176": {
+    "speaker": "Sword God"
+  },
+  "ch11-p0177": {
+    "speaker": "Geese"
+  },
+  "ch11-p0179": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0181": {
+    "speaker": "Sword God",
+    "mixed": true
+  },
+  "ch11-p0028": {
+    "speaker": "Man-God",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "recounting the Man-God's instructions."
+  },
+  "ch11-p0040": {
+    "speaker": "Man-God",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "quoting the Man-God's rebuke."
+  },
+  "ch11-p0055": {
+    "speaker": "Man-God",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "Man-God's instructions, recounted."
+  },
+  "ch11-p0076": {
+    "speaker": "Sword God",
+    "embeddedDialogue": true,
+    "note": "that carries the swordsman's speech."
+  },
+  "ch11-p0151": {
+    "speaker": "Man-God",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "quoting the Man-God's dream message."
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "ch14-p0009": {
+    "speaker": "Man-God",
+    "mixed": true
+  },
+  "ch14-p0011": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0013": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0015": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0017": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0020": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0022": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0027": {
+    "speaker": "Geese"
+  },
+  "ch14-p0031": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0033": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0035": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0037": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0039": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0041": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0043": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0045": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0047": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0050": {
+    "speaker": "Man-God"
+  },
+  "ch14-p0059": {
+    "speaker": "Geese"
+  },
+  "ch14-p0063": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0069": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0075": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0082": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0094": {
+    "speaker": "Desert Warrior"
+  },
+  "ch14-p0095": {
+    "speaker": "Geese"
+  },
+  "ch14-p0096": {
+    "speaker": "Desert Warrior"
+  },
+  "ch14-p0097": {
+    "speaker": "Geese"
+  },
+  "ch14-p0099": {
+    "speaker": "Desert Warrior"
+  },
+  "ch14-p0101": {
+    "speaker": "Geese"
+  },
+  "ch14-p0102": {
+    "speaker": "Desert Warrior"
+  },
+  "ch14-p0103": {
+    "speaker": "Geese"
+  },
+  "ch14-p0104": {
+    "speaker": "Desert Warrior"
+  },
+  "ch14-p0105": {
+    "speaker": "Geese"
+  },
+  "ch14-p0109": {
+    "speaker": "Geese"
+  },
+  "ch14-p0113": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0116": {
+    "speaker": "Geese"
+  },
+  "ch14-p0118": {
+    "speaker": "Young Adventurer",
+    "mixed": true
+  },
+  "ch14-p0119": {
+    "speaker": "Geese"
+  },
+  "ch14-p0120": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0121": {
+    "speaker": "Geese"
+  },
+  "ch14-p0122": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0123": {
+    "speaker": "Geese"
+  },
+  "ch14-p0125": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0127": {
+    "speaker": "Geese"
+  },
+  "ch14-p0128": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0129": {
+    "speaker": "Young Adventurer",
+    "mixed": true
+  },
+  "ch14-p0131": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0132": {
+    "speaker": "Geese"
+  },
+  "ch14-p0133": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0135": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0136": {
+    "speaker": "Geese"
+  },
+  "ch14-p0138": {
+    "speaker": "Geese"
+  },
+  "ch14-p0139": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0140": {
+    "speaker": "Geese"
+  },
+  "ch14-p0141": {
+    "speaker": "Young Adventurer",
+    "mixed": true
+  },
+  "ch14-p0144": {
+    "speaker": "Geese"
+  },
+  "ch14-p0145": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0146": {
+    "speaker": "Geese"
+  },
+  "ch14-p0147": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0148": {
+    "speaker": "Geese"
+  },
+  "ch14-p0149": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0150": {
+    "speaker": "Geese"
+  },
+  "ch14-p0151": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0152": {
+    "speaker": "Geese"
+  },
+  "ch14-p0153": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0155": {
+    "speaker": "Geese"
+  },
+  "ch14-p0156": {
+    "speaker": "Geese"
+  },
+  "ch14-p0157": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0158": {
+    "speaker": "Geese"
+  },
+  "ch14-p0159": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0164": {
+    "speaker": "Geese"
+  },
+  "ch14-p0166": {
+    "speaker": "Geese"
+  },
+  "ch14-p0167": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0168": {
+    "speaker": "Geese"
+  },
+  "ch14-p0169": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0172": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0173": {
+    "speaker": "Young Adventurer",
+    "mixed": true
+  },
+  "ch14-p0185": {
+    "speaker": "Child"
+  },
+  "ch14-p0191": {
+    "speaker": "Villager"
+  },
+  "ch14-p0192": {
+    "speaker": "Villager"
+  },
+  "ch14-p0193": {
+    "speaker": "Villager"
+  },
+  "ch14-p0194": {
+    "speaker": "Villager"
+  },
+  "ch14-p0197": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0198": {
+    "speaker": "Geese"
+  },
+  "ch14-p0199": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0202": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0203": {
+    "speaker": "Geese"
+  },
+  "ch14-p0204": {
+    "speaker": "Young Adventurer",
+    "mixed": true
+  },
+  "ch14-p0206": {
+    "speaker": "Geese"
+  },
+  "ch14-p0207": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0208": {
+    "speaker": "Geese"
+  },
+  "ch14-p0209": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0210": {
+    "speaker": "Geese"
+  },
+  "ch14-p0211": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0212": {
+    "speaker": "Geese"
+  },
+  "ch14-p0213": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0216": {
+    "speaker": "Geese"
+  },
+  "ch14-p0217": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0218": {
+    "speaker": "Geese"
+  },
+  "ch14-p0219": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0220": {
+    "speaker": "Geese"
+  },
+  "ch14-p0221": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0222": {
+    "speaker": "Geese"
+  },
+  "ch14-p0224": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0226": {
+    "speaker": "Geese"
+  },
+  "ch14-p0227": {
+    "speaker": "Geese"
+  },
+  "ch14-p0228": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0229": {
+    "speaker": "Geese"
+  },
+  "ch14-p0230": {
+    "speaker": "Geese"
+  },
+  "ch14-p0232": {
+    "speaker": "Geese"
+  },
+  "ch14-p0234": {
+    "speaker": "Geese"
+  },
+  "ch14-p0236": {
+    "speaker": "Geese"
+  },
+  "ch14-p0240": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0242": {
+    "speaker": "Geese"
+  },
+  "ch14-p0243": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0244": {
+    "speaker": "Geese"
+  },
+  "ch14-p0245": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0246": {
+    "speaker": "Geese"
+  },
+  "ch14-p0249": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0250": {
+    "speaker": "Geese"
+  },
+  "ch14-p0251": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0252": {
+    "speaker": "Geese"
+  },
+  "ch14-p0253": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0254": {
+    "speaker": "Geese"
+  },
+  "ch14-p0256": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch14-p0257": {
+    "speaker": "Geese"
+  },
+  "ch14-p0258": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0259": {
+    "speaker": "Geese"
+  },
+  "ch14-p0260": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0261": {
+    "speaker": "Geese"
+  },
+  "ch14-p0263": {
+    "speaker": "Geese"
+  },
+  "ch14-p0264": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0265": {
+    "speaker": "Geese"
+  },
+  "ch14-p0266": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0268": {
+    "speaker": "Geese"
+  },
+  "ch14-p0269": {
+    "speaker": "Young Adventurer"
+  },
+  "ch14-p0271": {
+    "speaker": "Geese"
+  },
+  "ch14-p0273": {
+    "speaker": "Geese"
+  },
+  "ch14-p0170": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "note": "that carries Geese's false prophecy."
+  },
+  "ch14-p0034": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "inner quoting of the Man-God."
+  }
+}

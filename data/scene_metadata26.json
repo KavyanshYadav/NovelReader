@@ -1,0 +1,426 @@
+{
+  "ch01-s01": {
+    "location": "The beach at the Third City of Heirelil, the first clash with the Fighting God",
+    "cast": [
+      "Alex Rybak",
+      "Badigadi",
+      "Geese",
+      "Sandor"
+    ],
+    "pov": "Sandor",
+    "chapterPov": "Sandor"
+  },
+  "ch01-s02": {
+    "location": "The beach at the Third City of Heirelil",
+    "cast": [
+      "Alex Rybak",
+      "Atofe",
+      "Badigadi",
+      "Cliff",
+      "Elinalise",
+      "Eris",
+      "Geese",
+      "Moore",
+      "Ogre God Marta",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ],
+    "pov": "Sandor",
+    "chapterPov": "Sandor"
+  },
+  "ch01-s03": {
+    "location": "The beach at the Third City of Heirelil",
+    "cast": [
+      "Alex Rybak",
+      "Atofe",
+      "Badigadi",
+      "Cliff",
+      "Elinalise",
+      "Eris",
+      "Geese",
+      "Moore",
+      "Ogre God Marta",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ],
+    "pov": "Sandor",
+    "chapterPov": "Sandor"
+  },
+  "ch01-s04": {
+    "location": "The beach at the Third City of Heirelil, then the Superd Village",
+    "cast": [
+      "Alex Rybak",
+      "Atofe",
+      "Badigadi",
+      "Cliff",
+      "Elinalise",
+      "Eris",
+      "Geese",
+      "Moore",
+      "Ogre God Marta",
+      "Orsted",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Superd Warrior"
+    ],
+    "pov": "Rudeus",
+    "chapterPov": "Sandor"
+  },
+  "ch02-s01": {
+    "location": "The beach at the Third City of Heirelil, the day after the defeat",
+    "cast": [
+      "Atofe",
+      "Badigadi",
+      "Cliff",
+      "Eris",
+      "Geese",
+      "Ogre God Marta",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Superd Warrior"
+    ]
+  },
+  "ch02-s02": {
+    "location": "The great earth wall at the entrance to the forest",
+    "cast": [
+      "Badigadi",
+      "Cliff",
+      "Geese",
+      "Rudeus",
+      "Superd Warrior"
+    ]
+  },
+  "ch02-s03": {
+    "location": "The barricade wall above the Ravine of the Earthwyrm",
+    "cast": [
+      "Badigadi",
+      "Cliff",
+      "Dohga",
+      "Elinalise",
+      "Eris",
+      "Geese",
+      "Rudeus",
+      "Ruijerd",
+      "Superd Warrior",
+      "Zanoba"
+    ]
+  },
+  "ch02-s04": {
+    "location": "The barricade wall above the Ravine of the Earthwyrm, at night",
+    "cast": [
+      "Badigadi",
+      "Geese",
+      "Rudeus",
+      "Superd Warrior"
+    ]
+  },
+  "ch02-s05": {
+    "location": "The barricade wall above the Ravine of the Earthwyrm, at dawn",
+    "cast": [
+      "Badigadi",
+      "Cliff",
+      "Dohga",
+      "Elinalise",
+      "Eris",
+      "Rudeus",
+      "Ruijerd",
+      "Superd Warrior",
+      "Zanoba"
+    ]
+  },
+  "ch02-s06": {
+    "location": "The Ravine of the Earthwyrm, the battle with the Fighting God",
+    "cast": [
+      "Aisha",
+      "Badigadi",
+      "Cliff",
+      "Dohga",
+      "Elinalise",
+      "Eris",
+      "Ghislaine",
+      "Isolde",
+      "Julie",
+      "Norn",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Ruijerd",
+      "Superd Warrior",
+      "Sylphiette",
+      "Zanoba"
+    ]
+  },
+  "ch03-s01": {
+    "location": "The forest near the Ravine of the Earthwyrm, the second round with the Fighting God",
+    "cast": [
+      "Badigadi",
+      "Cliff",
+      "Dohga",
+      "Eris",
+      "Geese",
+      "Ghislaine",
+      "Isolde",
+      "Rudeus",
+      "Ruijerd",
+      "Sylphiette",
+      "Zanoba"
+    ]
+  },
+  "ch03-s02": {
+    "location": "The forest near the Ravine of the Earthwyrm, the duel with the Fighting God",
+    "cast": [
+      "Badigadi",
+      "Cliff",
+      "Dohga",
+      "Eris",
+      "Ghislaine",
+      "Isolde",
+      "Rudeus",
+      "Ruijerd",
+      "Sylphiette",
+      "Zanoba"
+    ]
+  },
+  "ch03-s03": {
+    "location": "The burnt forest near the Ravine of the Earthwyrm, where Geese lies",
+    "cast": [
+      "Geese",
+      "Ghislaine",
+      "Isolde",
+      "Rudeus",
+      "Ruijerd"
+    ]
+  },
+  "ch03-s04": {
+    "location": "The edge of the Ravine of the Earthwyrm",
+    "cast": [
+      "Alexander",
+      "Ghislaine",
+      "Isolde",
+      "Rudeus",
+      "Ruijerd"
+    ]
+  },
+  "ch03-s05": {
+    "location": "The Superd Village",
+    "cast": [
+      "Alexander",
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch03-s06": {
+    "location": "The Superd Village, after Orsted's battle",
+    "cast": [
+      "Alexander",
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch04-s01": {
+    "location": "The rebuilding of the Superd Village, one month after the battle",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Dohga",
+      "Elinalise",
+      "Ghislaine",
+      "Isolde",
+      "Linia",
+      "Mercenary",
+      "Norn",
+      "Perugius",
+      "Pursena",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ]
+  },
+  "ch04-s02": {
+    "location": "The Superd Village, by the magic circles",
+    "cast": [
+      "Alexander",
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch04-s03": {
+    "location": "The bottom of the Ravine of the Earthwyrm, Badigadi's seal",
+    "cast": [
+      "Alexander",
+      "Badigadi",
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch04-s04": {
+    "location": "The Greyrat house in Sharia",
+    "cast": [
+      "Byt",
+      "Dillo",
+      "Lilia",
+      "Lucie",
+      "Rudeus",
+      "Zanoba",
+      "Zenith"
+    ]
+  },
+  "ch04-s05": {
+    "location": "The Greyrat house in Sharia, the morning after the battle",
+    "cast": [
+      "Arus",
+      "Christina",
+      "Eris",
+      "Lara",
+      "Leo",
+      "Lilia",
+      "Lily",
+      "Lucie",
+      "Roxy",
+      "Rudeus",
+      "Sieg",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch05-s01": {
+    "location": "The Man-God's white space, in Rudeus's dream",
+    "cast": [
+      "Lara",
+      "Orsted",
+      "Perugius",
+      "Rudeus"
+    ]
+  },
+  "ch05-s02": {
+    "location": "Rudeus's bedroom in Sharia, fifty years later",
+    "cast": [
+      "Feris",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch06-s01": {
+    "location": "The Greyrat house in Sharia, ten years after the battle",
+    "cast": [
+      "Lara",
+      "Leo",
+      "Rudeus"
+    ]
+  },
+  "ch06-s02": {
+    "location": "Sharia, ten years after the battle",
+    "cast": [
+      "Aisha",
+      "Ariel",
+      "Cliff",
+      "Eris",
+      "Lilia",
+      "Luke",
+      "Nanahoshi",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba",
+      "Zenith"
+    ]
+  },
+  "ch06-s03": {
+    "location": "The noble graveyard in the Magic City of Sharia",
+    "cast": [
+      "Geese",
+      "Grave Keeper",
+      "Paul",
+      "Rudeus"
+    ]
+  },
+  "ch07-s01": {
+    "location": "The Man-God's white room, after Rudeus's death",
+    "cast": [
+      "Perugius",
+      "Rudeus"
+    ]
+  },
+  "ch08-s01": {
+    "location": "The Royal Asuran Archive, 485 Armored Dragon Era",
+    "cast": [
+      "Jed Bluewolf",
+      "Rudeus"
+    ]
+  },
+  "ch08-s02": {
+    "location": "The Royal Asuran Archive, the dossier on Rudeus Greyrat",
+    "cast": [
+      "Archivist",
+      "Ariel",
+      "Clule Elrond",
+      "Orsted",
+      "Paul",
+      "Perugius",
+      "Rudeus"
+    ]
+  },
+  "ch09-s01": {
+    "location": "Rudeus's diary, written for whoever reads it after his death",
+    "cast": [
+      "Ariel",
+      "Cliff",
+      "Eris",
+      "Orsted",
+      "Paul",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch10-s01": {
+    "location": "A village in the kingdom, year 500 of the Armored Dragon Era",
+    "cast": [
+      "King of the Kingdom",
+      "Lyria",
+      "Rudeus"
+    ]
+  },
+  "ch10-s02": {
+    "location": "The magic circle chamber beneath the palace",
+    "cast": [
+      "Lyria",
+      "Priest",
+      "Rudeus",
+      "Shinohara Akito"
+    ]
+  },
+  "ch10-s03": {
+    "location": "The palace and its grounds",
+    "cast": [
+      "Lyria",
+      "Mage Knight",
+      "Rudeus",
+      "Shinohara Akito"
+    ]
+  },
+  "ch10-s04": {
+    "location": "The battlefield outside the city, then the ruined palace",
+    "cast": [
+      "Lyria",
+      "Rudeus",
+      "Shinohara Akito"
+    ]
+  },
+  "ch10-s05": {
+    "location": "The Citadel of Roa in Fittoa, year 400 of the Armored Dragon Era",
+    "cast": [
+      "Lyria",
+      "Nanahoshi",
+      "Rudeus"
+    ]
+  }
+}

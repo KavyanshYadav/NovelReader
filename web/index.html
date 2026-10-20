@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mushoku Tensei Reader — Volumes 15 to 26</title>
+  <meta name="description" content="A speaker-attributed reading edition of Mushoku Tensei: Jobless Reincarnation. Twelve volumes, every line of dialogue attributed to its speaker, with a fullscreen scene timeline.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="index.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Mushoku Tensei Reader — Volumes 15 to 26">
+  <meta property="og:description" content="A speaker-attributed reading edition of Mushoku Tensei: Jobless Reincarnation, with a fullscreen scene timeline.">
+  <meta property="og:image" content="images/vol15/CoverDesign.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#8e3b46">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preload" href="data.js" as="script">
+  <link rel="stylesheet" href="home.css">
+</head>
+<body>
+  <a class="skip-link" href="#volumes">Skip to the volumes</a>
+
+  <header class="masthead">
+    <div class="masthead__inner">
+      <p class="eyebrow">Mushoku Tensei: Jobless Reincarnation</p>
+      <h1>The Mushoku Tensei Reader</h1>
+      <p class="lede">
+        A personal, offline reading edition of Volumes&nbsp;15 to&nbsp;26. Every line of
+        dialogue is attributed to the person who says it, and every volume can be read
+        as a scrolling chapter or one scene at a time on a fullscreen timeline.
+      </p>
+
+      <div class="masthead__stats" id="mastheadStats" aria-label="Library statistics"></div>
+
+      <div class="masthead__actions">
+        <a class="button" href="#volumes">Browse the volumes <span aria-hidden="true">↓</span></a>
+        <a class="button button--quiet" href="reader.html">Open the reader</a>
+        <button class="icon-button" id="themeToggle" type="button" aria-label="Switch theme" title="Switch theme"></button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="volumes" aria-labelledby="volumes-title">
+      <div class="section-head">
+        <h2 id="volumes-title">Volumes</h2>
+        <p class="section-note">Pick a volume to start reading. Your place is remembered per volume.</p>
+      </div>
+      <div class="volume-grid" id="volumeGrid"></div>
+    </section>
+
+    <section aria-labelledby="features-title">
+      <div class="section-head">
+        <h2 id="features-title">What you get</h2>
+      </div>
+      <ul class="features">
+        <li>
+          <h3>Every voice labelled</h3>
+          <p>Dialogue is tagged with its speaker, and paragraphs that mix narration with a
+             quote are marked <em>quoted</em> rather than passed off as a spoken line.</p>
+        </li>
+        <li>
+          <h3>Scene timeline</h3>
+          <p>The focus reader shows one scene at a time with a clickable timeline of every
+             scene and chapter in the volume, plus <kbd>←</kbd> <kbd>→</kbd> and
+             <kbd>H</kbd> <kbd>L</kbd> to move between them.</p>
+        </li>
+        <li>
+          <h3>Built for reading</h3>
+          <p>Paper themes, three typefaces, adjustable size, line height, measure and
+             alignment — all stored locally, along with your position in each volume.</p>
+        </li>
+        <li>
+          <h3>Works offline</h3>
+          <p>The reader is plain HTML, CSS and JavaScript with no dependencies and no
+             network calls, so it opens straight from a folder as well as from a host.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="how-title">
+      <div class="section-head">
+        <h2 id="how-title">How it was made</h2>
+      </div>
+      <div class="prose">
+        <p>
+          Each EPUB is parsed into a stable list of blocks, the blocks are classified
+          (narration, dialogue, diary, letter, inscription, quotation, silence), and the
+          dialogue is then attributed by reading every chapter in context — speech tags,
+          vocatives, turn-taking and action beats — rather than by pattern matching.
+          Scenes are given a location and a cast, and every volume is checked for
+          coverage before it reaches the reader.
+        </p>
+        <p>
+          The whole pipeline is reproducible: <code>python3 scripts/rebuild_all.py</code>
+          rebuilds every volume from the source books.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p class="site-footer__title">Mushoku Tensei Reader</p>
+      <p class="site-footer__note">
+        A personal, offline reading edition. Text and illustrations belong to their
+        publishers and authors.
+      </p>
+    </div>
+  </footer>
+
+  <noscript>
+    <p class="noscript">This page needs JavaScript enabled to list the volumes.</p>
+  </noscript>
+
+  <script src="data.js"></script>
+  <script src="home.js"></script>
+</body>
+</html>

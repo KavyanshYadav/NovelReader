@@ -1,0 +1,19 @@
+{
+  "ch10-p0028": {"speaker": "Priest"},
+  "ch10-p0029": {"speaker": "Priest"},
+  "ch10-p0030": {"speaker": "Priest"},
+  "ch10-p0032": {"speaker": "Shinohara Akito"},
+  "ch10-p0034": {"speaker": "Shinohara Akito", "mixed": true},
+  "ch10-p0035": {"speaker": "Lyria"},
+  "ch10-p0036": {"speaker": "Shinohara Akito"},
+  "ch10-p0041": {"speaker": "Lyria"},
+  "ch10-p0042": {"speaker": "Shinohara Akito", "mixed": true},
+  "ch10-p0047": {"speaker": "Shinohara Akito", "mixed": true},
+  "ch10-p0048": {"speaker": "Lyria"},
+  "ch10-p0049": {"speaker": "Mage Knight"},
+  "ch10-p0051": {"speaker": "Shinohara Akito", "mixed": true},
+  "ch10-p0052": {"speaker": "Lyria", "mixed": true, "note": "The text calls her Lilia here; her own name is Lyria."},
+  "ch10-p0053": {"speaker": "Shinohara Akito", "mixed": true},
+  "ch10-p0054": {"speaker": "Lyria"},
+  "ch10-p0055": {"speaker": "Shinohara Akito"}
+}

@@ -1,0 +1,353 @@
+{
+  "ch03-p0005": {
+    "speaker": "Aisha"
+  },
+  "ch03-p0007": {
+    "speaker": "Eris"
+  },
+  "ch03-p0010": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0011": {
+    "speaker": "Leo"
+  },
+  "ch03-p0016": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0017": {
+    "speaker": "Linia"
+  },
+  "ch03-p0021": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0029": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0030": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0031": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0033": {
+    "speaker": "Student"
+  },
+  "ch03-p0034": {
+    "speaker": "Student"
+  },
+  "ch03-p0035": {
+    "speaker": "Student"
+  },
+  "ch03-p0039": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0040": {
+    "speaker": "Student"
+  },
+  "ch03-p0041": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0043": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0045": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0048": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0053": {
+    "speaker": "Headmaster"
+  },
+  "ch03-p0060": {
+    "speaker": "Headmaster"
+  },
+  "ch03-p0063": {
+    "speaker": "Student"
+  },
+  "ch03-p0064": {
+    "speaker": "Student"
+  },
+  "ch03-p0065": {
+    "speaker": "Student"
+  },
+  "ch03-p0066": {
+    "speaker": "Student"
+  },
+  "ch03-p0069": {
+    "speaker": "Norn"
+  },
+  "ch03-p0071": {
+    "speaker": "Norn"
+  },
+  "ch03-p0075": {
+    "speaker": "Gilbert"
+  },
+  "ch03-p0077": {
+    "speaker": "Norn"
+  },
+  "ch03-p0078": {
+    "speaker": "Gilbert"
+  },
+  "ch03-p0079": {
+    "speaker": "Norn"
+  },
+  "ch03-p0081": {
+    "speaker": "Norn"
+  },
+  "ch03-p0089": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0092": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0095": {
+    "speaker": "Student"
+  },
+  "ch03-p0096": {
+    "speaker": "Student"
+  },
+  "ch03-p0097": {
+    "speaker": "Student"
+  },
+  "ch03-p0100": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0105": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0107": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0109": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0111": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0115": {
+    "speaker": "Mi'nal",
+    "note": "Mi'nal interrupts from the crowd; the speaker is identified only a few lines later."
+  },
+  "ch03-p0117": {
+    "speaker": "Mi'nal"
+  },
+  "ch03-p0119": {
+    "speaker": "Mi'nal"
+  },
+  "ch03-p0122": {
+    "speaker": "Mi'nal"
+  },
+  "ch03-p0124": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0127": {
+    "speaker": "Mi'nal"
+  },
+  "ch03-p0128": {
+    "speaker": "Grannel"
+  },
+  "ch03-p0130": {
+    "speaker": "Grannel"
+  },
+  "ch03-p0132": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0133": {
+    "speaker": "Mi'nal"
+  },
+  "ch03-p0134": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0135": {
+    "speaker": "Mi'nal",
+    "confidence": "medium",
+    "note": "Mi'nal's surprised reply to Rayfort."
+  },
+  "ch03-p0137": {
+    "speaker": "Mi'nal",
+    "confidence": "medium",
+    "note": "Mi'nal agreeing with Rayfort."
+  },
+  "ch03-p0138": {
+    "speaker": "Grannel"
+  },
+  "ch03-p0140": {
+    "speaker": "Linia"
+  },
+  "ch03-p0143": {
+    "speaker": "Student"
+  },
+  "ch03-p0144": {
+    "speaker": "Student"
+  },
+  "ch03-p0145": {
+    "speaker": "Student"
+  },
+  "ch03-p0146": {
+    "speaker": "Student"
+  },
+  "ch03-p0147": {
+    "speaker": "Student"
+  },
+  "ch03-p0150": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0151": {
+    "speaker": "Linia"
+  },
+  "ch03-p0154": {
+    "speaker": "Rayfort",
+    "note": "Rayfort whispers to Mi'nal after spotting Linia."
+  },
+  "ch03-p0155": {
+    "speaker": "Mi'nal",
+    "note": "Mi'nal's whispered reply to Rayfort."
+  },
+  "ch03-p0156": {
+    "speaker": "Grannel"
+  },
+  "ch03-p0157": {
+    "speaker": "Linia"
+  },
+  "ch03-p0159": {
+    "speaker": "Linia"
+  },
+  "ch03-p0161": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0162": {
+    "speaker": "Mi'nal"
+  },
+  "ch03-p0163": {
+    "speaker": "Linia"
+  },
+  "ch03-p0164": {
+    "speaker": "Linia"
+  },
+  "ch03-p0166": {
+    "speaker": "Rayfort"
+  },
+  "ch03-p0167": {
+    "speaker": "Mi'nal"
+  },
+  "ch03-p0171": {
+    "speaker": "Student"
+  },
+  "ch03-p0172": {
+    "speaker": "Student"
+  },
+  "ch03-p0173": {
+    "speaker": "Student"
+  },
+  "ch03-p0178": {
+    "speaker": "Norn"
+  },
+  "ch03-p0179": {
+    "speaker": "Norn"
+  },
+  "ch03-p0181": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0182": {
+    "speaker": "Norn"
+  },
+  "ch03-p0183": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0184": {
+    "speaker": "Norn"
+  },
+  "ch03-p0186": {
+    "speaker": "Norn"
+  },
+  "ch03-p0187": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0189": {
+    "speaker": "Norn"
+  },
+  "ch03-p0190": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0191": {
+    "speaker": "Norn"
+  },
+  "ch03-p0193": {
+    "speaker": "Norn"
+  },
+  "ch03-p0195": {
+    "speaker": "Norn"
+  },
+  "ch03-p0196": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0198": {
+    "speaker": "Norn"
+  },
+  "ch03-p0200": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0203": {
+    "speaker": "Linia"
+  },
+  "ch03-p0204": {
+    "speaker": "Norn"
+  },
+  "ch03-p0206": {
+    "speaker": "Norn"
+  },
+  "ch03-p0207": {
+    "speaker": "Linia"
+  },
+  "ch03-p0209": {
+    "speaker": "Linia"
+  },
+  "ch03-p0211": {
+    "speaker": "Norn"
+  },
+  "ch03-p0212": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0213": {
+    "speaker": "Student"
+  },
+  "ch03-p0214": {
+    "speaker": "Student"
+  },
+  "ch03-p0215": {
+    "speaker": "Student"
+  },
+  "ch03-p0218": {
+    "speaker": "Norn"
+  },
+  "ch03-p0219": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0220": {
+    "speaker": "Norn"
+  },
+  "ch03-p0221": {
+    "speaker": "Grannel"
+  },
+  "ch03-p0222": {
+    "speaker": "Norn"
+  },
+  "ch03-p0224": {
+    "speaker": "Grannel",
+    "confidence": "medium",
+    "note": "Grannel's response to Norn's welcome."
+  },
+  "ch03-p0225": {
+    "speaker": "Norn"
+  }
+}

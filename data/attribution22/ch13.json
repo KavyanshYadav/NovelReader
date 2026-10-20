@@ -1,0 +1,242 @@
+{
+  "ch13-p0010": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0011": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0013": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0014": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0015": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0017": {
+    "speaker": "Norn"
+  },
+  "ch13-p0018": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0020": {
+    "speaker": "Norn"
+  },
+  "ch13-p0021": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0022": {
+    "speaker": "Norn"
+  },
+  "ch13-p0024": {
+    "speaker": "Aisha"
+  },
+  "ch13-p0025": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0027": {
+    "speaker": "Aisha"
+  },
+  "ch13-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0029": {
+    "speaker": "Aisha"
+  },
+  "ch13-p0030": {
+    "speaker": "Norn"
+  },
+  "ch13-p0031": {
+    "speaker": "Aisha"
+  },
+  "ch13-p0033": {
+    "speaker": "Aisha"
+  },
+  "ch13-p0034": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch13-p0036": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0037": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0039": {
+    "speaker": "Lilia",
+    "mixed": true
+  },
+  "ch13-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0041": {
+    "speaker": "Lucie"
+  },
+  "ch13-p0043": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch13-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0046": {
+    "speaker": "Lucie"
+  },
+  "ch13-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0048": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch13-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0052": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch13-p0054": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0055": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0057": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0058": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0059": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0061": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch13-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0064": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch13-p0067": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0069": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0070": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch13-p0071": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0072": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0074": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0082": {
+    "speaker": "Lucie"
+  },
+  "ch13-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0084": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch13-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0086": {
+    "speaker": "Lucie"
+  },
+  "ch13-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0088": {
+    "speaker": "Lucie"
+  },
+  "ch13-p0102": {
+    "speaker": "Doctor",
+    "mixed": true
+  },
+  "ch13-p0103": {
+    "speaker": "Roxy"
+  },
+  "ch13-p0104": {
+    "speaker": "Doctor",
+    "mixed": true
+  },
+  "ch13-p0105": {
+    "speaker": "Baby",
+    "mixed": true,
+    "note": "newborn's first cry."
+  },
+  "ch13-p0108": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch13-p0111": {
+    "speaker": "Doctor",
+    "mixed": true
+  },
+  "ch13-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0115": {
+    "speaker": "Sylphiette"
+  },
+  "ch13-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0118": {
+    "speaker": "Roxy"
+  },
+  "ch13-p0120": {
+    "speaker": "Doctor"
+  },
+  "ch13-p0122": {
+    "speaker": "Aisha"
+  },
+  "ch13-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0129": {
+    "speaker": "Eris"
+  },
+  "ch13-p0132": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0134": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0136": {
+    "speaker": "Arumanfi"
+  },
+  "ch13-p0080": {
+    "speaker": "Sylphiette",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "that carries Sylphiette's answer."
+  }
+}

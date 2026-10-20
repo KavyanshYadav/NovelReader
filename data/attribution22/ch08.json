@@ -1,0 +1,314 @@
+{
+  "ch08-p0003": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch08-p0004": {
+    "speaker": "Guard",
+    "mixed": true
+  },
+  "ch08-p0005": {
+    "speaker": "Eris"
+  },
+  "ch08-p0006": {
+    "speaker": "Eris"
+  },
+  "ch08-p0007": {
+    "speaker": "Eris"
+  },
+  "ch08-p0008": {
+    "speaker": "Guard",
+    "mixed": true
+  },
+  "ch08-p0010": {
+    "speaker": "Guard"
+  },
+  "ch08-p0011": {
+    "speaker": "Eris"
+  },
+  "ch08-p0012": {
+    "speaker": "Guard",
+    "mixed": true
+  },
+  "ch08-p0013": {
+    "speaker": "Eris"
+  },
+  "ch08-p0014": {
+    "speaker": "Guard",
+    "mixed": true
+  },
+  "ch08-p0017": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0018": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch08-p0019": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0020": {
+    "speaker": "Eris"
+  },
+  "ch08-p0021": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0024": {
+    "speaker": "Eris"
+  },
+  "ch08-p0025": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0026": {
+    "speaker": "Eris"
+  },
+  "ch08-p0027": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0032": {
+    "speaker": "Eris"
+  },
+  "ch08-p0033": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0034": {
+    "speaker": "Eris"
+  },
+  "ch08-p0035": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0039": {
+    "speaker": "Eris"
+  },
+  "ch08-p0040": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0041": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch08-p0045": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch08-p0046": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch08-p0053": {
+    "speaker": "Guard",
+    "embeddedDialogue": true,
+    "note": "that carries the guards' representative proclamation."
+  },
+  "ch08-p0054": {
+    "speaker": "Guard"
+  },
+  "ch08-p0055": {
+    "speaker": "Guard"
+  },
+  "ch08-p0056": {
+    "speaker": "Guard"
+  },
+  "ch08-p0057": {
+    "speaker": "Guard"
+  },
+  "ch08-p0058": {
+    "speaker": "Guard"
+  },
+  "ch08-p0060": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0061": {
+    "speaker": "Guard",
+    "mixed": true
+  },
+  "ch08-p0062": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0063": {
+    "speaker": "Guard",
+    "mixed": true
+  },
+  "ch08-p0064": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0065": {
+    "speaker": "Guard",
+    "mixed": true
+  },
+  "ch08-p0066": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0067": {
+    "speaker": "Guard"
+  },
+  "ch08-p0068": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0069": {
+    "speaker": "Guard"
+  },
+  "ch08-p0072": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0073": {
+    "speaker": "Guard"
+  },
+  "ch08-p0074": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch08-p0075": {
+    "speaker": "Eris"
+  },
+  "ch08-p0076": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0077": {
+    "speaker": "Eris"
+  },
+  "ch08-p0078": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0079": {
+    "speaker": "Eris"
+  },
+  "ch08-p0080": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch08-p0084": {
+    "speaker": "Calina"
+  },
+  "ch08-p0086": {
+    "speaker": "Calina",
+    "mixed": true
+  },
+  "ch08-p0087": {
+    "speaker": "Calina"
+  },
+  "ch08-p0088": {
+    "speaker": "Calina"
+  },
+  "ch08-p0089": {
+    "speaker": "Calina"
+  },
+  "ch08-p0091": {
+    "speaker": "Calina",
+    "mixed": true
+  },
+  "ch08-p0097": {
+    "speaker": "Guard",
+    "confidence": "medium",
+    "note": "by Calina or one of the watching guards; not identified."
+  },
+  "ch08-p0099": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch08-p0102": {
+    "speaker": "Calina"
+  },
+  "ch08-p0104": {
+    "speaker": "Eris"
+  },
+  "ch08-p0106": {
+    "speaker": "Guard"
+  },
+  "ch08-p0107": {
+    "speaker": "Guard"
+  },
+  "ch08-p0108": {
+    "speaker": "Guard"
+  },
+  "ch08-p0110": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch08-p0111": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0112": {
+    "speaker": "Eris"
+  },
+  "ch08-p0120": {
+    "speaker": "Benebene"
+  },
+  "ch08-p0122": {
+    "speaker": "Eris"
+  },
+  "ch08-p0123": {
+    "speaker": "Benebene"
+  },
+  "ch08-p0124": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch08-p0125": {
+    "speaker": "Benebene"
+  },
+  "ch08-p0129": {
+    "speaker": "Benebene",
+    "mixed": true
+  },
+  "ch08-p0131": {
+    "speaker": "Benebene",
+    "mixed": true
+  },
+  "ch08-p0133": {
+    "speaker": "Benebene"
+  },
+  "ch08-p0143": {
+    "speaker": "Benebene"
+  },
+  "ch08-p0144": {
+    "speaker": "Roxy",
+    "embeddedDialogue": true,
+    "note": "that carries Roxy's ice spell incantation."
+  },
+  "ch08-p0146": {
+    "speaker": "Benebene"
+  },
+  "ch08-p0148": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0150": {
+    "speaker": "Benebene"
+  },
+  "ch08-p0151": {
+    "speaker": "Benebene",
+    "mixed": true
+  },
+  "ch08-p0154": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch08-p0156": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0157": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch08-p0158": {
+    "speaker": "Eris"
+  },
+  "ch08-p0159": {
+    "speaker": "Roxy"
+  },
+  "ch08-p0161": {
+    "speaker": "Guard"
+  },
+  "ch08-p0162": {
+    "speaker": "Guard"
+  },
+  "ch08-p0163": {
+    "speaker": "Guard"
+  },
+  "ch08-p0164": {
+    "speaker": "Guard"
+  },
+  "ch08-p0166": {
+    "speaker": "Guard"
+  }
+}

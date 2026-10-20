@@ -1,0 +1,467 @@
+{
+  "ch05-p0005": {
+    "speaker": "Ariel",
+    "type": "narration",
+    "imagined": true,
+    "note": "Rudeus reads Ariel's pleading look; the quoted words are unspoken."
+  },
+  "ch05-p0009": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0012": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch05-p0014": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0015": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0016": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0018": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch05-p0019": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0020": {
+    "speaker": "Nanahoshi"
+  },
+  "ch05-p0021": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0023": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0024": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0027": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0029": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0032": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0033": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0035": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0036": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0037": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch05-p0039": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch05-p0040": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0041": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch05-p0042": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0044": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0047": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0048": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0052": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0053": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0054": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0056": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0058": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0059": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0060": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0062": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0064": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0067": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0068": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0070": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0071": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0072": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0073": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0074": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0075": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Classifier mislabel; the block is pure narration with no quoted speech."
+  },
+  "ch05-p0076": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0077": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0080": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0083": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0084": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0087": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0090": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0091": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0093": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0095": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0096": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0099": {
+    "speaker": "Ariel",
+    "embeddedDialogue": true,
+    "note": "Narration with Ariel's quoted remark."
+  },
+  "ch05-p0100": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0102": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0104": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0105": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0107": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0108": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0110": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0111": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0115": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0118": {
+    "speaker": "Ariel",
+    "type": "quotation",
+    "recollection": true,
+    "mixed": true,
+    "note": "Narration recalling earlier answers from Ariel, Perugius, and Rudeus; attributed to the first quoted speaker."
+  },
+  "ch05-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0121": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0123": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0124": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0126": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0127": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0128": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0130": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0132": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0134": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0135": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted reply."
+  },
+  "ch05-p0136": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0138": {
+    "speaker": "Sylvaril",
+    "mixed": true
+  },
+  "ch05-p0139": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0140": {
+    "speaker": "Sylvaril",
+    "mixed": true
+  },
+  "ch05-p0141": {
+    "speaker": "Ariel",
+    "embeddedDialogue": true,
+    "note": "Narration with Ariel's quoted self-assessment."
+  },
+  "ch05-p0144": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0145": {
+    "speaker": "Luke",
+    "note": "Enthusiastic answer to Ariel's order; Luke is the more theatrical of her two retainers."
+  },
+  "ch05-p0146": {
+    "speaker": "Sylphiette"
+  },
+  "ch05-p0148": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0150": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0151": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0152": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0153": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0157": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0159": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0160": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0161": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0162": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted request."
+  },
+  "ch05-p0163": {
+    "speaker": "Ariel",
+    "embeddedDialogue": true,
+    "note": "Narration with Ariel's quoted question."
+  },
+  "ch05-p0165": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0166": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0168": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0172": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0173": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted answer."
+  },
+  "ch05-p0175": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0179": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0180": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0183": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0185": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0188": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0189": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0192": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0194": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0196": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0197": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0201": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch05-p0206": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0207": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch05-p0209": {
+    "speaker": "Rudeus",
+    "mixed": true
+  }
+}

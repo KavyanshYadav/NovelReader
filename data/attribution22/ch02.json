@@ -1,0 +1,228 @@
+{
+  "ch02-p0014": {
+    "speaker": "Eris"
+  },
+  "ch02-p0015": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0018": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0019": {
+    "speaker": "Eris"
+  },
+  "ch02-p0020": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0022": {
+    "speaker": "Eris"
+  },
+  "ch02-p0023": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0031": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0033": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0035": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch02-p0037": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0039": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0040": {
+    "speaker": "Benedikte"
+  },
+  "ch02-p0041": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0043": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch02-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0046": {
+    "speaker": "Eris",
+    "embeddedDialogue": true,
+    "note": "that carries Eris's stammered introduction."
+  },
+  "ch02-p0048": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0050": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0051": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0053": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0055": {
+    "speaker": "Randolph",
+    "mixed": true
+  },
+  "ch02-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0057": {
+    "speaker": "Eris"
+  },
+  "ch02-p0058": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0059": {
+    "speaker": "Eris"
+  },
+  "ch02-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0062": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0063": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0064": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0065": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0068": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0069": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0070": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0072": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0073": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0075": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0077": {
+    "speaker": "Randolph",
+    "mixed": true
+  },
+  "ch02-p0079": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0082": {
+    "speaker": "Randolph",
+    "embeddedDialogue": true,
+    "note": "that carries Randolph's chuckle and aside."
+  },
+  "ch02-p0084": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0085": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0087": {
+    "speaker": "Randolph",
+    "mixed": true
+  },
+  "ch02-p0088": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0090": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0094": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0098": {
+    "speaker": "Shirone Noble",
+    "imagined": true,
+    "mixed": true,
+    "note": "imagining what the Shirone conspirators would say."
+  },
+  "ch02-p0100": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0101": {
+    "speaker": "Randolph",
+    "mixed": true
+  },
+  "ch02-p0106": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0108": {
+    "speaker": "Randolph"
+  },
+  "ch02-p0109": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0113": {
+    "speaker": "Randolph",
+    "mixed": true
+  },
+  "ch02-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0117": {
+    "speaker": "Randolph",
+    "mixed": true
+  },
+  "ch02-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0120": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0122": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch02-p0124": {
+    "speaker": "Benedikte"
+  },
+  "ch02-p0125": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch02-p0127": {
+    "speaker": "Randolph"
+  }
+}

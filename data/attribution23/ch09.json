@@ -1,0 +1,535 @@
+{
+  "ch09-p0008": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0010": {
+    "speaker": "Missionary Knight",
+    "mixed": true
+  },
+  "ch09-p0013": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0015": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0017": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0018": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0019": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0020": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's question to Soldat."
+  },
+  "ch09-p0021": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0022": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's reasoning about handing the demon over."
+  },
+  "ch09-p0023": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0027": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0028": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0029": {
+    "speaker": "Glanze"
+  },
+  "ch09-p0033": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0034": {
+    "speaker": "Glanze"
+  },
+  "ch09-p0036": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0037": {
+    "speaker": "Glanze",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Glanze's explanation of his past with Geese."
+  },
+  "ch09-p0039": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0040": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0043": {
+    "speaker": "Missionary Knight",
+    "mixed": true
+  },
+  "ch09-p0044": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's explanation to the knights."
+  },
+  "ch09-p0045": {
+    "speaker": "Missionary Knight",
+    "mixed": true
+  },
+  "ch09-p0047": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0049": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0050": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's inner aside; the quoted word is Soldat's, not a spoken line."
+  },
+  "ch09-p0073": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0075": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0077": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0078": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0080": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's guess about Soldat's sense of duty."
+  },
+  "ch09-p0081": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0082": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0084": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0085": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0086": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0088": {
+    "speaker": "Soldat",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Soldat's shrug about North God Kalman's whereabouts."
+  },
+  "ch09-p0090": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0092": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0095": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0097": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0098": {
+    "speaker": "Soldat",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Soldat's invitation to stay."
+  },
+  "ch09-p0099": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0100": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0104": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0106": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0107": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's answer about taking Soldat on."
+  },
+  "ch09-p0108": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0110": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0112": {
+    "speaker": "Eris"
+  },
+  "ch09-p0114": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0115": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0116": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0118": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0119": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0121": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0123": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0125": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0126": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0129": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0131": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0132": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0133": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0135": {
+    "speaker": "Soldat",
+    "mixed": true,
+    "note": "Soldat's retelling; the quoted line inside it is Rudeus's own old remark from the brothel."
+  },
+  "ch09-p0137": {
+    "speaker": "Soldat",
+    "mixed": true,
+    "note": "Soldat pantomiming the slap; the quoted line is Eris's old rebuke."
+  },
+  "ch09-p0138": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0141": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0142": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0143": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's teasing reply to Soldat."
+  },
+  "ch09-p0144": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0147": {
+    "speaker": "Eris"
+  },
+  "ch09-p0148": {
+    "speaker": "Soldat",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Soldat's reply about hating red hair."
+  },
+  "ch09-p0150": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0151": {
+    "speaker": "Eris"
+  },
+  "ch09-p0152": {
+    "speaker": "Soldat",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Soldat's teasing question."
+  },
+  "ch09-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0154": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0155": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0156": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0157": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0160": {
+    "speaker": "Soldat",
+    "mixed": true
+  },
+  "ch09-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0162": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0163": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0166": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0167": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0168": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0169": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0171": {
+    "speaker": "Soldat"
+  },
+  "ch09-p0180": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0181": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0182": {
+    "speaker": "Eris"
+  },
+  "ch09-p0183": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0184": {
+    "speaker": "Eris",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Eris's question about whether Sylphie knows."
+  },
+  "ch09-p0185": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's answer."
+  },
+  "ch09-p0188": {
+    "speaker": "Eris"
+  },
+  "ch09-p0189": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0190": {
+    "speaker": "Eris"
+  },
+  "ch09-p0191": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0194": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0195": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0197": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0198": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0199": {
+    "speaker": "Eris"
+  },
+  "ch09-p0200": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0202": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0203": {
+    "speaker": "Eris"
+  },
+  "ch09-p0204": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0205": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0206": {
+    "speaker": "Mercenary"
+  },
+  "ch09-p0208": {
+    "speaker": "Mercenary"
+  },
+  "ch09-p0209": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's question about the Markien divinity."
+  },
+  "ch09-p0210": {
+    "speaker": "Mercenary"
+  },
+  "ch09-p0213": {
+    "speaker": "Mercenary"
+  },
+  "ch09-p0214": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0216": {
+    "speaker": "Mercenary",
+    "mixed": true
+  },
+  "ch09-p0217": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0219": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0220": {
+    "speaker": "Eris"
+  },
+  "ch09-p0221": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's decision to leave."
+  },
+  "ch09-p0225": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0226": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0232": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0233": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0234": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0235": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0237": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0239": {
+    "speaker": "Eris"
+  },
+  "ch09-p0240": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's answer about Hilda."
+  },
+  "ch09-p0248": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0249": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0250": {
+    "speaker": "Eris"
+  },
+  "ch09-p0252": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0253": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0255": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0256": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0257": {
+    "speaker": "Eris"
+  },
+  "ch09-p0258": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0270": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0271": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch09-p0274": {
+    "speaker": "Orsted",
+    "mixed": true
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "ch02-p0004": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0011": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0012": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0014": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0016": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0017": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0018": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0020": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0027": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0028": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0031": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's comment is embedded in the narration."
+  },
+  "ch02-p0032": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0033": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0035": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0036": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0037": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's answer is embedded in the narration."
+  },
+  "ch02-p0038": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's apology is embedded in the narration."
+  },
+  "ch02-p0039": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba reads the assignment aloud."
+  },
+  "ch02-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0041": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0047": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's explanation is embedded in the narration."
+  },
+  "ch02-p0048": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0050": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0052": {
+    "speaker": "Julie"
+  },
+  "ch02-p0053": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0054": {
+    "speaker": "Julie"
+  },
+  "ch02-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0057": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0063": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0064": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0067": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0073": {
+    "speaker": "Joseph",
+    "mixed": true,
+    "note": "Joseph's question is embedded in the narration."
+  },
+  "ch02-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0075": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0077": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0078": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0080": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0082": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0083": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0084": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0085": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0090": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0094": {
+    "speaker": "Linia"
+  },
+  "ch02-p0096": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0098": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's suggestion is embedded in the narration."
+  },
+  "ch02-p0099": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0103": {
+    "speaker": "Ginger"
+  },
+  "ch02-p0106": {
+    "speaker": "Linia"
+  },
+  "ch02-p0109": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0111": {
+    "speaker": "Ginger"
+  },
+  "ch02-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0113": {
+    "speaker": "Ginger"
+  },
+  "ch02-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0115": {
+    "speaker": "Ginger"
+  },
+  "ch02-p0117": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0119": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's shout is embedded in the narration."
+  },
+  "ch02-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0121": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reaction is embedded in the narration."
+  },
+  "ch02-p0122": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0124": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's question is embedded in the narration."
+  },
+  "ch02-p0126": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's insistence is embedded in the narration."
+  },
+  "ch02-p0127": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0131": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0132": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0133": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0136": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0138": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0141": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0146": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0148": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0150": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0152": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0154": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0158": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0159": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0162": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0166": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0168": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's interruption is embedded in the narration."
+  },
+  "ch02-p0169": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's interruption is embedded in the narration."
+  },
+  "ch02-p0170": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0172": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0173": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0175": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0177": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0180": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0183": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0184": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's sigh is embedded in the narration."
+  },
+  "ch02-p0185": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's objection is embedded in the narration."
+  },
+  "ch02-p0186": {
+    "speaker": "Joseph",
+    "mixed": true,
+    "note": "Joseph's reply is embedded in the narration."
+  },
+  "ch02-p0188": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0189": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0192": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0193": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0194": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0195": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0196": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0197": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0198": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0199": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0200": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0201": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0205": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0207": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0208": {
+    "speaker": "Ginger"
+  },
+  "ch02-p0210": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's decision is embedded in the narration."
+  },
+  "ch02-p0213": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0214": {
+    "speaker": "Zanoba"
+  },
+  "ch02-p0215": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0216": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0218": {
+    "speaker": "Joseph"
+  },
+  "ch02-p0220": {
+    "speaker": "Joseph",
+    "confidence": "medium",
+    "note": "A flat reaction to the store name; it could equally come from Zanoba, who is also present."
+  },
+  "ch02-p0223": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0224": {
+    "speaker": "Linia"
+  },
+  "ch02-p0225": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0226": {
+    "speaker": "Linia"
+  }
+}

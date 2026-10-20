@@ -1,0 +1,296 @@
+{
+  "ch09-p0008": {
+    "speaker": "Therese"
+  },
+  "ch09-p0009": {
+    "speaker": "Therese"
+  },
+  "ch09-p0016": {
+    "speaker": "Eris",
+    "recollection": true,
+    "note": "from the Blessed Child's memory of the assassination attempt."
+  },
+  "ch09-p0022": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "guarantee, quoted in the Blessed Child's recollection."
+  },
+  "ch09-p0025": {
+    "speaker": "Therese"
+  },
+  "ch09-p0027": {
+    "speaker": "Rudeus",
+    "recollection": true
+  },
+  "ch09-p0029": {
+    "speaker": "Eris"
+  },
+  "ch09-p0030": {
+    "speaker": "Blessed Child",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "note": "that carries the Blessed Child's squeak."
+  },
+  "ch09-p0031": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0032": {
+    "speaker": "Eris"
+  },
+  "ch09-p0033": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0034": {
+    "speaker": "Blessed Child",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "note": "that carries the Blessed Child's reaction."
+  },
+  "ch09-p0040": {
+    "speaker": "Eris"
+  },
+  "ch09-p0042": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0044": {
+    "speaker": "Eris"
+  },
+  "ch09-p0045": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0047": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0048": {
+    "speaker": "Eris"
+  },
+  "ch09-p0051": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0052": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0053": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0054": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0055": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0057": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0058": {
+    "speaker": "Eris"
+  },
+  "ch09-p0060": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0062": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0063": {
+    "speaker": "Eris"
+  },
+  "ch09-p0065": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0066": {
+    "speaker": "Eris"
+  },
+  "ch09-p0067": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0068": {
+    "speaker": "Eris"
+  },
+  "ch09-p0069": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0070": {
+    "speaker": "Eris"
+  },
+  "ch09-p0071": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0075": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0076": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0081": {
+    "speaker": "Eris"
+  },
+  "ch09-p0082": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0084": {
+    "speaker": "Eris"
+  },
+  "ch09-p0085": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0087": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0088": {
+    "speaker": "Eris"
+  },
+  "ch09-p0089": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0091": {
+    "speaker": "Eris"
+  },
+  "ch09-p0092": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0094": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0095": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0096": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch09-p0098": {
+    "speaker": "Eris"
+  },
+  "ch09-p0099": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0100": {
+    "speaker": "Eris"
+  },
+  "ch09-p0103": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0104": {
+    "speaker": "Therese"
+  },
+  "ch09-p0110": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0111": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch09-p0112": {
+    "speaker": "Therese",
+    "mixed": true
+  },
+  "ch09-p0114": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch09-p0115": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch09-p0116": {
+    "speaker": "Eris"
+  },
+  "ch09-p0117": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0122": {
+    "speaker": "Eris"
+  },
+  "ch09-p0123": {
+    "speaker": "Eris"
+  },
+  "ch09-p0125": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0126": {
+    "speaker": "Eris"
+  },
+  "ch09-p0127": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0128": {
+    "speaker": "Eris"
+  },
+  "ch09-p0130": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch09-p0131": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0132": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0133": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0134": {
+    "speaker": "Temple Knight"
+  },
+  "ch09-p0136": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0140": {
+    "speaker": "Therese"
+  },
+  "ch09-p0141": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0144": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch09-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0146": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0149": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0150": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch09-p0152": {
+    "speaker": "Eris"
+  },
+  "ch09-p0153": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch09-p0154": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0155": {
+    "speaker": "Eris"
+  },
+  "ch09-p0156": {
+    "speaker": "Blessed Child"
+  },
+  "ch09-p0086": {
+    "speaker": "Blessed Child",
+    "embeddedDialogue": true,
+    "note": "that carries the Blessed Child's swing cry."
+  },
+  "ch09-p0124": {
+    "speaker": "Eris",
+    "embeddedDialogue": true,
+    "note": "that carries Eris's question about the owl's name."
+  }
+}

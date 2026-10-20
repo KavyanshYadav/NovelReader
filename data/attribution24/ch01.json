@@ -1,0 +1,378 @@
+{
+  "ch01-p0003": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0004": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0005": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0006": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0008": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0010": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0012": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0013": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0014": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0015": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0017": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0018": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0020": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0022": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0025": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0027": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0030": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0032": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0033": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0034": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch01-p0035": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0040": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0043": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0045": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch01-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0047": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0050": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0052": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0053": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0055": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0057": {
+    "speaker": "Roxy",
+    "confidence": "medium",
+    "note": "Read as Roxy continuing her argument; Sylphie's next line agrees with Roxy."
+  },
+  "ch01-p0060": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch01-p0061": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch01-p0063": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0090": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0093": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0094": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0097": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0098": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch01-p0100": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch01-p0103": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0105": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0106": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0110": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0111": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0112": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0115": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0116": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0117": {
+    "speaker": "Orsted",
+    "mixed": true,
+    "note": "Orsted's interrupted remark; the \"Excuse me\" inside it is the receptionist's."
+  },
+  "ch01-p0121": {
+    "speaker": "Receptionist"
+  },
+  "ch01-p0122": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's aside about the receptionist's title; the quoted word is a title, not a spoken line."
+  },
+  "ch01-p0123": {
+    "speaker": "Receptionist",
+    "mixed": true
+  },
+  "ch01-p0125": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0129": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0131": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0132": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch01-p0136": {
+    "speaker": "Receptionist",
+    "mixed": true
+  },
+  "ch01-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0141": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0142": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0143": {
+    "speaker": "Chandle",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Chandle's introduction of himself."
+  },
+  "ch01-p0144": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0145": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch01-p0147": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0148": {
+    "speaker": "Chandle"
+  },
+  "ch01-p0150": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch01-p0151": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0152": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch01-p0154": {
+    "speaker": "Chandle"
+  },
+  "ch01-p0156": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0157": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch01-p0160": {
+    "speaker": "Dohga"
+  },
+  "ch01-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0165": {
+    "speaker": "Chandle"
+  },
+  "ch01-p0166": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0167": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0168": {
+    "speaker": "Chandle"
+  },
+  "ch01-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0172": {
+    "speaker": "Chandle"
+  },
+  "ch01-p0174": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0175": {
+    "speaker": "Chandle",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Chandle's greeting to Orsted."
+  },
+  "ch01-p0178": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0179": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch01-p0181": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0182": {
+    "speaker": "Chandle"
+  },
+  "ch01-p0183": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0184": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0185": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0186": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0187": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch01-p0189": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0190": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0192": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch01-p0197": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0198": {
+    "speaker": "Chandle",
+    "mixed": true
+  }
+}

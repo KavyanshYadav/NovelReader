@@ -1,0 +1,541 @@
+{
+  "ch07-p0003": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0005": {
+    "speaker": "Villager",
+    "note": "A Superd patient recoiling from Cliff's Millis priest robes; the speaker is not named."
+  },
+  "ch07-p0007": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0009": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0010": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0011": {
+    "speaker": "Doctor"
+  },
+  "ch07-p0012": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0013": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0014": {
+    "speaker": "Doctor"
+  },
+  "ch07-p0015": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0017": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0020": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0022": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0024": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0025": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0026": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0028": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0030": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0031": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0032": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0033": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0035": {
+    "speaker": "Villager"
+  },
+  "ch07-p0036": {
+    "speaker": "Child",
+    "note": "The Superd girl clinging to her mother; the child is never named."
+  },
+  "ch07-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0039": {
+    "speaker": "Villager"
+  },
+  "ch07-p0040": {
+    "speaker": "Child",
+    "note": "The Superd girl clinging to her mother; the child is never named."
+  },
+  "ch07-p0042": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0043": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0046": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0048": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0050": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0053": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0055": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0056": {
+    "speaker": "Elinalise"
+  },
+  "ch07-p0057": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0059": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0061": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0062": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0063": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0065": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0067": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0069": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0071": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0072": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0075": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0077": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0078": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0079": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0080": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0081": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0083": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0085": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0086": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0087": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0088": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0090": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0091": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0092": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0093": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0094": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0096": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0098": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0100": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0103": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0105": {
+    "speaker": "Villager"
+  },
+  "ch07-p0106": {
+    "speaker": "Ruijerd"
+  },
+  "ch07-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0108": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0109": {
+    "speaker": "Villager"
+  },
+  "ch07-p0110": {
+    "speaker": "Villager"
+  },
+  "ch07-p0111": {
+    "speaker": "Doctor"
+  },
+  "ch07-p0112": {
+    "speaker": "Doctor"
+  },
+  "ch07-p0114": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch07-p0115": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch07-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0118": {
+    "speaker": "Ruijerd"
+  },
+  "ch07-p0120": {
+    "speaker": "Villager",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the Superd man who volunteers after Ruijerd."
+  },
+  "ch07-p0121": {
+    "speaker": "Villager",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the crowd of Superd raising their hands."
+  },
+  "ch07-p0122": {
+    "speaker": "Elder",
+    "mixed": true
+  },
+  "ch07-p0132": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0134": {
+    "speaker": "Norn"
+  },
+  "ch07-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0136": {
+    "speaker": "Norn"
+  },
+  "ch07-p0137": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0139": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0142": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0143": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0144": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0147": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0149": {
+    "speaker": "Norn"
+  },
+  "ch07-p0150": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0151": {
+    "speaker": "Norn"
+  },
+  "ch07-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0154": {
+    "speaker": "Norn"
+  },
+  "ch07-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0156": {
+    "speaker": "Norn"
+  },
+  "ch07-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0159": {
+    "speaker": "Norn"
+  },
+  "ch07-p0160": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0162": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0163": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0165": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn repeats Rimi's announcement; the inner quote is Rimi's."
+  },
+  "ch07-p0166": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0167": {
+    "speaker": "Norn"
+  },
+  "ch07-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0170": {
+    "speaker": "Norn",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Norn's shy answer."
+  },
+  "ch07-p0172": {
+    "speaker": "Norn"
+  },
+  "ch07-p0173": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0174": {
+    "speaker": "Norn"
+  },
+  "ch07-p0175": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0177": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0178": {
+    "speaker": "Norn"
+  },
+  "ch07-p0179": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0180": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0181": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0182": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0183": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0184": {
+    "speaker": "Norn"
+  },
+  "ch07-p0185": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0186": {
+    "speaker": "Norn"
+  },
+  "ch07-p0192": {
+    "speaker": "Doctor",
+    "mixed": true
+  },
+  "ch07-p0194": {
+    "speaker": "Doctor"
+  },
+  "ch07-p0196": {
+    "speaker": "Doctor"
+  },
+  "ch07-p0199": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch07-p0200": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0201": {
+    "speaker": "Orsted"
+  },
+  "ch07-p0202": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0203": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch07-p0206": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0207": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0209": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0210": {
+    "speaker": "Orsted"
+  },
+  "ch07-p0212": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch07-p0213": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0214": {
+    "speaker": "Orsted"
+  },
+  "ch07-p0215": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0216": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch07-p0217": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch07-p0218": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0219": {
+    "speaker": "Ruijerd"
+  },
+  "ch07-p0221": {
+    "speaker": "Ruijerd"
+  },
+  "ch07-p0222": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0223": {
+    "speaker": "Ruijerd"
+  },
+  "ch07-p0225": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  },
+  "ch07-p0226": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0227": {
+    "speaker": "Ruijerd"
+  },
+  "ch07-p0230": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0231": {
+    "speaker": "Ruijerd",
+    "mixed": true
+  }
+}

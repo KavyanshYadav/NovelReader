@@ -1,0 +1,268 @@
+{
+  "ch09-p0012": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0018": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0020": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0022": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's remark is embedded in the narration."
+  },
+  "ch09-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0024": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0026": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0027": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0029": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch09-p0031": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0032": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0035": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0036": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's caution is embedded in the narration."
+  },
+  "ch09-p0039": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0040": {
+    "speaker": "Zanoba",
+    "note": "Zanoba's grunt as he pries the metal plate loose."
+  },
+  "ch09-p0043": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0046": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0054": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's murmur is embedded in the narration."
+  },
+  "ch09-p0058": {
+    "speaker": "Zanoba",
+    "note": "Zanoba's grunt as he rips the metal plate loose."
+  },
+  "ch09-p0060": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0063": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's conclusion is embedded in the narration."
+  },
+  "ch09-p0065": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0073": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0074": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0076": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0077": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0080": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0081": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0084": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0086": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0087": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0090": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0092": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's teasing is embedded in the narration."
+  },
+  "ch09-p0093": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0095": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0097": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's complaint is embedded in the narration."
+  },
+  "ch09-p0098": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0099": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0102": {
+    "speaker": "Roxy"
+  },
+  "ch09-p0105": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0115": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0117": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0119": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0121": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0124": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0127": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0128": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0129": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0132": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0135": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0136": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0137": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0138": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0139": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's thanks is embedded in the narration."
+  },
+  "ch09-p0141": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0142": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0143": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0144": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0146": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0147": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0149": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0151": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0152": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0153": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0155": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0156": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0157": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0158": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's outburst is embedded in the narration."
+  },
+  "ch09-p0159": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0162": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0165": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0166": {
+    "speaker": "Zanoba"
+  },
+  "ch09-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0170": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch09-p0173": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch09-p0178": {
+    "speaker": "Randolph Marianne"
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "ch11-p0006": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0007": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0009": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0011": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0012": {
+    "speaker": "Randolph Marianne",
+    "mixed": true,
+    "note": "Randolph's reply is embedded in the narration."
+  },
+  "ch11-p0017": {
+    "speaker": "Randolph Marianne",
+    "mixed": true,
+    "note": "Randolph's question is embedded in the narration."
+  },
+  "ch11-p0018": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0019": {
+    "speaker": "Randolph Marianne",
+    "mixed": true,
+    "note": "Randolph's murmur is embedded in the narration."
+  },
+  "ch11-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0023": {
+    "speaker": "Randolph Marianne",
+    "mixed": true,
+    "note": "Randolph's explanation is embedded in the narration."
+  },
+  "ch11-p0026": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's question is embedded in the narration."
+  },
+  "ch11-p0027": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0029": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0031": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0033": {
+    "speaker": "Randolph Marianne",
+    "mixed": true,
+    "note": "Randolph's aside is embedded in the narration."
+  },
+  "ch11-p0035": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's question is embedded in the narration."
+  },
+  "ch11-p0036": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0038": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0042": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0043": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0044": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0045": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0046": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's internal reaction to the news; nobody speaks aloud."
+  },
+  "ch11-p0047": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0048": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0050": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's request is embedded in the narration."
+  },
+  "ch11-p0052": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0054": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0055": {
+    "speaker": "Randolph Marianne",
+    "mixed": true,
+    "note": "Randolph's reply is embedded in the narration."
+  },
+  "ch11-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0057": {
+    "speaker": "Randolph Marianne"
+  },
+  "ch11-p0058": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's reply is embedded in the narration."
+  },
+  "ch11-p0059": {
+    "speaker": "Randolph Marianne",
+    "mixed": true,
+    "note": "Randolph's remark is embedded in the narration."
+  },
+  "ch11-p0061": {
+    "speaker": "Randolph Marianne",
+    "mixed": true,
+    "note": "Randolph's farewell is embedded in the narration."
+  },
+  "ch11-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0079": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's question is embedded in the narration."
+  },
+  "ch11-p0081": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's answer is embedded in the narration."
+  },
+  "ch11-p0086": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's question is embedded in the narration."
+  },
+  "ch11-p0087": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's answer is embedded in the narration."
+  },
+  "ch11-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0098": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0099": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's reply is embedded in the narration."
+  },
+  "ch11-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0103": {
+    "speaker": "Roxy"
+  },
+  "ch11-p0105": {
+    "speaker": "Roxy"
+  },
+  "ch11-p0106": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0107": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's confession is embedded in the narration."
+  },
+  "ch11-p0109": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's reflection is embedded in the narration."
+  },
+  "ch11-p0111": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's reflection is embedded in the narration."
+  },
+  "ch11-p0112": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's admission is embedded in the narration."
+  },
+  "ch11-p0114": {
+    "speaker": "Roxy"
+  },
+  "ch11-p0117": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's question is embedded in the narration."
+  },
+  "ch11-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0121": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0123": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's reassurance is embedded in the narration."
+  },
+  "ch11-p0125": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's question is embedded in the narration."
+  },
+  "ch11-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0127": {
+    "speaker": "Roxy"
+  },
+  "ch11-p0129": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0131": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's answer is embedded in the narration."
+  },
+  "ch11-p0134": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's answer is embedded in the narration."
+  },
+  "ch11-p0137": {
+    "speaker": "Roxy"
+  },
+  "ch11-p0138": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0139": {
+    "speaker": "Roxy"
+  },
+  "ch11-p0141": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's reply is embedded in the narration."
+  },
+  "ch11-p0148": {
+    "speaker": "Ginger",
+    "mixed": true,
+    "note": "Ginger's question is embedded in the narration."
+  },
+  "ch11-p0150": {
+    "speaker": "Ginger"
+  },
+  "ch11-p0152": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's answer is embedded in the narration."
+  },
+  "ch11-p0153": {
+    "speaker": "Ginger",
+    "mixed": true,
+    "note": "Ginger's reply is embedded in the narration."
+  },
+  "ch11-p0156": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's declaration is embedded in the narration."
+  },
+  "ch11-p0157": {
+    "speaker": "Ginger",
+    "mixed": true,
+    "note": "Ginger's reply is embedded in the narration."
+  },
+  "ch11-p0158": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's explanation is embedded in the narration."
+  },
+  "ch11-p0160": {
+    "speaker": "Ginger",
+    "mixed": true,
+    "note": "Ginger's reply is embedded in the narration."
+  },
+  "ch11-p0163": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0164": {
+    "speaker": "Ginger"
+  },
+  "ch11-p0166": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's question is embedded in the narration."
+  },
+  "ch11-p0169": {
+    "speaker": "Ginger"
+  },
+  "ch11-p0170": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0171": {
+    "speaker": "Ginger"
+  },
+  "ch11-p0173": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0175": {
+    "speaker": "Ginger",
+    "mixed": true,
+    "note": "Ginger's outburst is embedded in the narration."
+  },
+  "ch11-p0176": {
+    "speaker": "Ginger"
+  },
+  "ch11-p0179": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch11-p0181": {
+    "speaker": "Zanoba"
+  },
+  "ch11-p0182": {
+    "speaker": "Ginger",
+    "mixed": true,
+    "note": "Ginger's reply is embedded in the narration."
+  }
+}

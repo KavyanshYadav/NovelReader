@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en" data-theme="light" data-typeface="serif">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mushoku Tensei — Volume Reader</title>
+  <meta name="description" content="A speaker-attributed reading edition of Mushoku Tensei: Jobless Reincarnation, with a fullscreen scene timeline.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="reader.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Mushoku Tensei — Volume Reader">
+  <meta property="og:description" content="A speaker-attributed reading edition of Mushoku Tensei: Jobless Reincarnation Volumes 15 to 26.">
+  <meta property="og:image" content="images/vol15/CoverDesign.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preload" href="data.js" as="script">
+  <link rel="preload" href="app.js" as="script">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#reader">Skip to content</a>
+
+  <div class="app">
+    <aside class="sidebar" id="sidebar" aria-label="Contents" tabindex="-1">
+      <div class="sidebar__brand">
+        <img class="sidebar__cover" id="sidebarCover" src="images/vol15/CoverDesign.jpg" width="1403" height="2000" alt="">
+        <div>
+          <p class="eyebrow">Mushoku Tensei</p>
+          <p class="sidebar__title" id="sidebarVolume">Volume 15</p>
+          <p class="sidebar__subtitle">Jobless Reincarnation</p>
+        </div>
+      </div>
+
+      <div class="volume-nav">
+        <span class="volume-nav__label">Volume</span>
+        <div class="volume-nav__buttons" id="volumeButtons" role="group" aria-label="Choose volume"></div>
+      </div>
+
+      <nav class="toc" id="toc" aria-label="Chapters"></nav>
+
+      <div class="sidebar__footer">
+        <a class="sidebar__home" href="index.html">← All volumes</a>
+        <p class="sidebar__note">A personal, offline reading edition.</p>
+        <p class="sidebar__hint"><kbd>f</kbd> focus <span aria-hidden="true">·</span> <kbd>s</kbd> settings <span aria-hidden="true">·</span> <kbd>t</kbd> theme</p>
+      </div>
+    </aside>
+
+    <button class="sidebar-overlay" id="sidebarOverlay" aria-label="Close contents" tabindex="-1"></button>
+
+    <div class="shell">
+      <header class="topbar">
+        <button class="icon-button menu-toggle" id="menuToggle" aria-label="Open contents" aria-expanded="false" aria-controls="sidebar">
+          <span aria-hidden="true">☰</span>
+        </button>
+
+        <div class="topbar__current">
+          <span class="topbar__eyebrow">Now reading</span>
+          <span class="topbar__title" id="currentChapter">Volume</span>
+        </div>
+
+        <div class="topbar__actions" aria-label="Reading controls">
+          <button class="icon-button" id="settingsToggle" aria-label="Reading settings" aria-controls="settingsPanel" aria-haspopup="dialog" aria-expanded="false" title="Reading settings">
+            <svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true">
+              <path d="M4 7h16M4 12h16M4 17h16"/>
+              <circle cx="9" cy="7" r="2" fill="currentColor" stroke="none"/>
+              <circle cx="15" cy="12" r="2" fill="currentColor" stroke="none"/>
+              <circle cx="10" cy="17" r="2" fill="currentColor" stroke="none"/>
+            </svg>
+          </button>
+          <button class="icon-button focus-toggle" id="openFocus" aria-label="Open scene timeline reader" title="Scene timeline reader">⛶</button>
+          <button class="icon-button text-size" id="fontDecrease" aria-label="Decrease text size" title="Decrease text size">A−</button>
+          <button class="icon-button text-size" id="fontIncrease" aria-label="Increase text size" title="Increase text size">A+</button>
+          <button class="icon-button theme-toggle" id="themeToggle" aria-label="Switch to dark theme" title="Switch theme">◐</button>
+        </div>
+
+        <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+      </header>
+
+      <main class="reader" id="reader">
+        <section class="hero" aria-labelledby="volume-title">
+          <div class="hero__copy">
+            <p class="eyebrow">Mushoku Tensei: Jobless Reincarnation</p>
+            <h1 id="volume-title">Volume <span id="heroVolume">15</span></h1>
+            <p class="hero__subtitle">A scrolling reader edition</p>
+            <p class="hero__lede" id="heroLede">The diary, the summons, and the choices that follow. Every line of dialogue is labeled by speaker, from Rudeus’s household to the Sword Sanctum and beyond.</p>
+
+            <div class="hero__stats" aria-label="Volume statistics">
+              <div class="hero__stat"><strong data-stat="chapters">14</strong><span>chapters</span></div>
+              <div class="hero__stat"><strong data-stat="words">74,846</strong><span>words</span></div>
+              <div class="hero__stat"><strong data-stat="speakers">30</strong><span>speakers</span></div>
+            </div>
+
+            <div class="hero__actions">
+              <a class="button" id="beginReading" href="#ch01">Begin reading <span aria-hidden="true">↓</span></a>
+              <button class="button button--quiet" id="openFocusHero" type="button">Scene timeline <span aria-hidden="true">⛶</span></button>
+            </div>
+          </div>
+
+          <figure class="hero__cover">
+            <img id="heroCover" src="images/vol15/CoverDesign.jpg" width="1403" height="2000" alt="Cover of Mushoku Tensei Volume 15">
+          </figure>
+        </section>
+
+        <div id="chapters"></div>
+
+        <footer class="volume-end" id="end">
+          <p class="eyebrow">End of volume</p>
+          <p class="volume-end__title" id="volumeEndTitle">Volume 15</p>
+          <p class="volume-end__note">Thank you for reading.</p>
+          <a class="button button--quiet" href="#top">Return to the beginning <span aria-hidden="true">↑</span></a>
+        </footer>
+      </main>
+    </div>
+  </div>
+
+  <div class="focus-reader" id="focusReader" hidden role="dialog" aria-modal="true" aria-labelledby="focusChapterTitle">
+    <header class="focus-header">
+      <div class="focus-header__brand">
+        <p class="focus-header__eyebrow" id="focusChapterKicker">Chapter 1 · Scene 1 of 1</p>
+        <h2 class="focus-header__title" id="focusChapterTitle">Volume 15</h2>
+        <p class="focus-header__meta" id="focusSceneMeta"></p>
+      </div>
+
+      <div class="focus-header__actions" aria-label="Scene reader controls">
+        <button class="icon-button text-size" id="focusFontDecrease" aria-label="Decrease text size" title="Decrease text size">A−</button>
+        <button class="icon-button text-size" id="focusFontIncrease" aria-label="Increase text size" title="Increase text size">A+</button>
+        <button class="icon-button theme-toggle" id="focusThemeToggle" aria-label="Switch to dark theme" title="Switch theme">◐</button>
+        <button class="icon-button" id="focusSettingsToggle" aria-label="Reading settings" aria-controls="settingsPanel" aria-haspopup="dialog" aria-expanded="false" title="Reading settings">
+          <svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true">
+            <path d="M4 7h16M4 12h16M4 17h16"/>
+            <circle cx="9" cy="7" r="2" fill="currentColor" stroke="none"/>
+            <circle cx="15" cy="12" r="2" fill="currentColor" stroke="none"/>
+            <circle cx="10" cy="17" r="2" fill="currentColor" stroke="none"/>
+          </svg>
+        </button>
+        <button class="icon-button" id="focusFullscreen" aria-label="Enter fullscreen" title="Enter fullscreen">⛶</button>
+        <button class="icon-button" id="focusChromeToggle" aria-label="Hide reading controls" title="Hide controls (C)">⌃</button>
+        <button class="icon-button focus-close" id="focusClose" aria-label="Close scene reader" title="Close scene reader">×</button>
+      </div>
+    </header>
+
+    <main class="focus-main" id="focusMain" tabindex="-1"></main>
+
+    <footer class="focus-timeline" aria-label="Scene timeline">
+      <div class="focus-timeline__controls">
+        <button class="timeline-nav" id="focusPrev" type="button" aria-label="Previous scene">← <span>Previous scene</span></button>
+        <p class="focus-timeline__status" id="focusStatus" aria-live="polite">Scene 1 of 1</p>
+        <button class="timeline-nav" id="focusNext" type="button" aria-label="Next scene"><span>Next scene</span> →</button>
+      </div>
+
+      <div class="focus-timeline__scroller" id="timelineScroller">
+        <div class="timeline" id="timeline" style="--scene-count: 1" aria-label="Scenes in this volume"></div>
+      </div>
+    </footer>
+
+    <button class="icon-button focus-chrome-reveal" id="focusChromeReveal" type="button" aria-label="Show reading controls" title="Show reading controls (C)">⌄</button>
+  </div>
+
+  <div class="settings-scrim" id="settingsScrim" hidden></div>
+  <section class="settings-panel" id="settingsPanel" tabindex="-1" hidden role="dialog" aria-modal="true" aria-label="Reading settings">
+    <header class="settings-panel__header">
+      <div>
+        <p class="eyebrow">Reading settings</p>
+        <h2 class="settings-panel__title">Make it yours</h2>
+      </div>
+      <button class="icon-button" id="settingsClose" aria-label="Close reading settings" title="Close reading settings">×</button>
+    </header>
+
+    <div class="settings-group">
+      <span class="settings-label">Theme</span>
+      <div class="segmented" role="group" aria-label="Theme">
+        <button type="button" data-setting="theme" data-value="light" aria-pressed="true">Light</button>
+        <button type="button" data-setting="theme" data-value="dark" aria-pressed="false">Dark</button>
+      </div>
+    </div>
+
+    <div class="settings-group">
+      <span class="settings-label">Typeface</span>
+      <div class="segmented" role="group" aria-label="Typeface">
+        <button type="button" data-setting="typeface" data-value="serif" aria-pressed="true">Serif</button>
+        <button type="button" data-setting="typeface" data-value="sans" aria-pressed="false">Sans</button>
+        <button type="button" data-setting="typeface" data-value="mono" aria-pressed="false">Mono</button>
+      </div>
+    </div>
+
+    <div class="settings-group">
+      <span class="settings-label">Text size</span>
+      <div class="settings-stepper">
+        <button type="button" id="settingsFontDecrease" aria-label="Decrease text size">A−</button>
+        <span id="settingsFontValue">19 px</span>
+        <button type="button" id="settingsFontIncrease" aria-label="Increase text size">A+</button>
+      </div>
+    </div>
+
+    <div class="settings-group">
+      <span class="settings-label">Line height</span>
+      <div class="segmented" role="group" aria-label="Line height">
+        <button type="button" data-setting="lineHeight" data-value="compact" aria-pressed="false">Compact</button>
+        <button type="button" data-setting="lineHeight" data-value="cozy" aria-pressed="true">Cozy</button>
+        <button type="button" data-setting="lineHeight" data-value="airy" aria-pressed="false">Airy</button>
+      </div>
+    </div>
+
+    <div class="settings-group">
+      <span class="settings-label">Reading width</span>
+      <div class="segmented" role="group" aria-label="Reading width">
+        <button type="button" data-setting="width" data-value="narrow" aria-pressed="false">Narrow</button>
+        <button type="button" data-setting="width" data-value="standard" aria-pressed="true">Standard</button>
+        <button type="button" data-setting="width" data-value="wide" aria-pressed="false">Wide</button>
+      </div>
+    </div>
+
+    <div class="settings-group">
+      <span class="settings-label">Narration alignment</span>
+      <div class="segmented" role="group" aria-label="Narration alignment">
+        <button type="button" data-setting="alignment" data-value="justify" aria-pressed="true">Justified</button>
+        <button type="button" data-setting="alignment" data-value="left" aria-pressed="false">Left</button>
+      </div>
+    </div>
+
+    <div class="settings-shortcuts">
+      <span class="settings-label">Shortcuts</span>
+      <dl class="shortcut-list">
+        <div><dt><kbd>←</kbd><kbd>→</kbd></dt><dd>Previous / next scene</dd></div>
+        <div><dt><kbd>H</kbd><kbd>L</kbd></dt><dd>Previous / next scene</dd></div>
+        <div><dt><kbd>Home</kbd><kbd>End</kbd></dt><dd>First / last scene</dd></div>
+        <div><dt><kbd>[</kbd><kbd>]</kbd></dt><dd>Previous / next chapter</dd></div>
+        <div><dt><kbd>F</kbd></dt><dd>Focus reader / fullscreen</dd></div>
+        <div><dt><kbd>C</kbd></dt><dd>Hide / show reading controls</dd></div>
+        <div><dt><kbd>T</kbd></dt><dd>Light / dark theme</dd></div>
+        <div><dt><kbd>+</kbd><kbd>−</kbd></dt><dd>Text size</dd></div>
+        <div><dt><kbd>S</kbd></dt><dd>Open these settings</dd></div>
+        <div><dt><kbd>Esc</kbd></dt><dd>Close panel or focus reader</dd></div>
+      </dl>
+    </div>
+
+    <button class="settings-reset" id="settingsReset" type="button">Reset to defaults</button>
+  </section>
+
+  <button class="back-to-top" id="backToTop" aria-label="Back to top" title="Back to top">↑</button>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+  <noscript>
+    <p class="noscript">This reader needs JavaScript enabled to display the volume.</p>
+  </noscript>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,223 @@
+{
+  "ch05-p0002": {
+    "speaker": "Gal Falion"
+  },
+  "ch05-p0004": {
+    "speaker": "Nina",
+    "type": "narration",
+    "note": "Narration that quotes Gal Falion's phrase; the classifier typed it as speech."
+  },
+  "ch05-p0005": {
+    "speaker": "Nina"
+  },
+  "ch05-p0009": {
+    "speaker": "Nina"
+  },
+  "ch05-p0011": {
+    "speaker": "Nina"
+  },
+  "ch05-p0018": {
+    "speaker": "Isolde Cluel",
+    "type": "quotation",
+    "recollection": true,
+    "note": "The closing message of Isolde's letter, read aloud by one of the Sword Sanctum's apprentices; Isolde herself is not present."
+  },
+  "ch05-p0025": {
+    "speaker": "Nina"
+  },
+  "ch05-p0027": {
+    "speaker": "Villager",
+    "note": "A passerby in the capital who curses at Nina."
+  },
+  "ch05-p0028": {
+    "speaker": "Nina"
+  },
+  "ch05-p0031": {
+    "speaker": "Merchant"
+  },
+  "ch05-p0032": {
+    "speaker": "Nina"
+  },
+  "ch05-p0034": {
+    "speaker": "Merchant"
+  },
+  "ch05-p0035": {
+    "speaker": "Nina"
+  },
+  "ch05-p0036": {
+    "speaker": "Merchant"
+  },
+  "ch05-p0038": {
+    "speaker": "Nina"
+  },
+  "ch05-p0039": {
+    "speaker": "Merchant"
+  },
+  "ch05-p0040": {
+    "speaker": "Nina"
+  },
+  "ch05-p0041": {
+    "speaker": "Merchant"
+  },
+  "ch05-p0042": {
+    "speaker": "Nina"
+  },
+  "ch05-p0043": {
+    "speaker": "Merchant"
+  },
+  "ch05-p0044": {
+    "speaker": "Nina"
+  },
+  "ch05-p0045": {
+    "speaker": "Merchant"
+  },
+  "ch05-p0046": {
+    "speaker": "Nina"
+  },
+  "ch05-p0047": {
+    "speaker": "Merchant"
+  },
+  "ch05-p0053": {
+    "speaker": "Nina"
+  },
+  "ch05-p0058": {
+    "speaker": "Nina"
+  },
+  "ch05-p0060": {
+    "speaker": "Nina"
+  },
+  "ch05-p0062": {
+    "speaker": "Nina",
+    "mixed": true,
+    "note": "Nina's aborted call is embedded in the narration."
+  },
+  "ch05-p0063": {
+    "speaker": "Eris"
+  },
+  "ch05-p0064": {
+    "speaker": "Lucie"
+  },
+  "ch05-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0067": {
+    "speaker": "Eris"
+  },
+  "ch05-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0069": {
+    "speaker": "Eris"
+  },
+  "ch05-p0070": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0080": {
+    "speaker": "Nina"
+  },
+  "ch05-p0091": {
+    "speaker": "Isolde Cluel"
+  },
+  "ch05-p0093": {
+    "speaker": "Nina",
+    "mixed": true,
+    "note": "Nina's answer is embedded in the narration."
+  },
+  "ch05-p0104": {
+    "speaker": "Nina"
+  },
+  "ch05-p0106": {
+    "speaker": "Nina"
+  },
+  "ch05-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0117": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0122": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0133": {
+    "speaker": "Nina"
+  },
+  "ch05-p0135": {
+    "speaker": "Nina"
+  },
+  "ch05-p0137": {
+    "speaker": "Eris"
+  },
+  "ch05-p0139": {
+    "speaker": "Eris"
+  },
+  "ch05-p0141": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0143": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0145": {
+    "speaker": "Nina"
+  },
+  "ch05-p0146": {
+    "speaker": "Ariel",
+    "mixed": true,
+    "note": "Ariel's puzzled reply is embedded in the narration."
+  },
+  "ch05-p0148": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0150": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0151": {
+    "speaker": "Nina"
+  },
+  "ch05-p0153": {
+    "speaker": "Eris"
+  },
+  "ch05-p0154": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0155": {
+    "speaker": "Eris"
+  },
+  "ch05-p0157": {
+    "speaker": "Nina"
+  },
+  "ch05-p0158": {
+    "speaker": "Eris"
+  },
+  "ch05-p0160": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0161": {
+    "speaker": "Nina"
+  },
+  "ch05-p0163": {
+    "speaker": "Eris"
+  },
+  "ch05-p0165": {
+    "speaker": "Nina"
+  },
+  "ch05-p0166": {
+    "speaker": "Eris"
+  },
+  "ch05-p0168": {
+    "speaker": "Nina",
+    "mixed": true,
+    "note": "Nina's opening is embedded in the narration."
+  },
+  "ch05-p0173": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0185": {
+    "speaker": "Nina"
+  }
+}

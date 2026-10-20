@@ -1,0 +1,17 @@
+# Build output
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor and OS cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Temporary files from the export step
+*.tmp

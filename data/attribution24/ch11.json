@@ -1,0 +1,368 @@
+{
+  "ch11-p0003": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0004": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0005": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0010": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0011": {
+    "speaker": "Galixon",
+    "confidence": "medium",
+    "note": "Blunt interjection from one of the two envoys; the speaker is not named."
+  },
+  "ch11-p0012": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0016": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0018": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0019": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0020": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0021": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0022": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0024": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0027": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0029": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0030": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0031": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0032": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0033": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0039": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0040": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0041": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0044": {
+    "speaker": "Galixon",
+    "confidence": "medium",
+    "note": "Short remark by one of the two envoys; the speaker is not named."
+  },
+  "ch11-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0050": {
+    "speaker": "Superd Warrior"
+  },
+  "ch11-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0052": {
+    "speaker": "Superd Warrior"
+  },
+  "ch11-p0053": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0055": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0057": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0060": {
+    "speaker": "Galixon",
+    "confidence": "medium",
+    "note": "One of the two envoys remarks on the Millis priest; the speaker is not named."
+  },
+  "ch11-p0061": {
+    "speaker": "Sandor",
+    "confidence": "medium",
+    "note": "One of the two envoys remarks on the elf; the speaker is not named."
+  },
+  "ch11-p0063": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0064": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0067": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0068": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0070": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0072": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0076": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0077": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0078": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0080": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0082": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0083": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0084": {
+    "speaker": "Superd Warrior",
+    "mixed": true
+  },
+  "ch11-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0090": {
+    "speaker": "Chief"
+  },
+  "ch11-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0092": {
+    "speaker": "Chief"
+  },
+  "ch11-p0094": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0097": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0098": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0099": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0100": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0101": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0102": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0103": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0112": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0113": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0115": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0116": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0120": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0122": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0123": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0124": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0127": {
+    "speaker": "Galixon",
+    "mixed": true
+  },
+  "ch11-p0129": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0130": {
+    "speaker": "Galixon",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Gall Falion's grumble as he removes the disguise ring."
+  },
+  "ch11-p0131": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0133": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0134": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0135": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0136": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0142": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0144": {
+    "speaker": "Sandor",
+    "mixed": true
+  },
+  "ch11-p0145": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0146": {
+    "speaker": "Galixon"
+  },
+  "ch11-p0147": {
+    "speaker": "Sandor"
+  },
+  "ch11-p0149": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0151": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0160": {
+    "speaker": "Gall Falion",
+    "mixed": true
+  },
+  "ch11-p0161": {
+    "speaker": "Alexander Rybak",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Alexander Rybak's question about Gall holding back."
+  },
+  "ch11-p0162": {
+    "speaker": "Gall Falion",
+    "mixed": true
+  },
+  "ch11-p0163": {
+    "speaker": "Gall Falion"
+  },
+  "ch11-p0165": {
+    "speaker": "Gall Falion",
+    "mixed": true
+  },
+  "ch11-p0166": {
+    "speaker": "Alexander Rybak",
+    "mixed": true
+  },
+  "ch11-p0167": {
+    "speaker": "Gall Falion"
+  },
+  "ch11-p0169": {
+    "speaker": "Gall Falion"
+  },
+  "ch11-p0170": {
+    "speaker": "Alexander Rybak",
+    "mixed": true
+  },
+  "ch11-p0171": {
+    "speaker": "Gall Falion"
+  },
+  "ch11-p0172": {
+    "speaker": "Alexander Rybak",
+    "mixed": true
+  },
+  "ch11-p0174": {
+    "speaker": "Gall Falion"
+  },
+  "ch11-p0175": {
+    "speaker": "Alexander Rybak"
+  },
+  "ch11-p0176": {
+    "speaker": "Gall Falion"
+  },
+  "ch11-p0178": {
+    "speaker": "Alexander Rybak"
+  },
+  "ch11-p0179": {
+    "speaker": "Gall Falion",
+    "mixed": true
+  }
+}

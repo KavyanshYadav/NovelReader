@@ -1,0 +1,185 @@
+{
+  "ch10-p0003": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0004": {
+    "speaker": "Eris"
+  },
+  "ch10-p0005": {
+    "speaker": "Eris"
+  },
+  "ch10-p0010": {
+    "speaker": "Moore",
+    "mixed": true
+  },
+  "ch10-p0011": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0012": {
+    "speaker": "Moore"
+  },
+  "ch10-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0014": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0016": {
+    "speaker": "Arcantos",
+    "mixed": true
+  },
+  "ch10-p0021": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0022": {
+    "speaker": "Arcantos"
+  },
+  "ch10-p0023": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0024": {
+    "speaker": "Arcantos",
+    "mixed": true
+  },
+  "ch10-p0026": {
+    "speaker": "Arcantos"
+  },
+  "ch10-p0027": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0028": {
+    "speaker": "Arcantos",
+    "mixed": true
+  },
+  "ch10-p0030": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch10-p0031": {
+    "speaker": "Arcantos"
+  },
+  "ch10-p0033": {
+    "speaker": "Arcantos"
+  },
+  "ch10-p0035": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0036": {
+    "speaker": "Moore"
+  },
+  "ch10-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0039": {
+    "speaker": "Moore"
+  },
+  "ch10-p0041": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0042": {
+    "speaker": "Moore",
+    "mixed": true
+  },
+  "ch10-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0046": {
+    "speaker": "Moore"
+  },
+  "ch10-p0048": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0049": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch10-p0050": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0059": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0061": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch10-p0064": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0066": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0067": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0068": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch10-p0071": {
+    "speaker": "Roxy"
+  },
+  "ch10-p0073": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch10-p0074": {
+    "speaker": "Eris"
+  },
+  "ch10-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0076": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch10-p0077": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch10-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0080": {
+    "speaker": "Eris"
+  },
+  "ch10-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0083": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch10-p0084": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0086": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0094": {
+    "speaker": "Atofe",
+    "embeddedDialogue": true,
+    "note": "that carries Atofe's voice across the arena."
+  },
+  "ch10-p0096": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0097": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0099": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0105": {
+    "speaker": "Atofe"
+  },
+  "ch10-p0072": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "inner replay of Roxy's offer."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "ch06-p0003": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch06-p0012": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch06-p0013": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0014": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch06-p0015": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0016": {
+    "speaker": "Eris"
+  },
+  "ch06-p0017": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0018": {
+    "speaker": "Roxy",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "note": "that carries Roxy's question about the burnt lump."
+  },
+  "ch06-p0019": {
+    "speaker": "Eris"
+  },
+  "ch06-p0020": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0021": {
+    "speaker": "Eris"
+  },
+  "ch06-p0023": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch06-p0025": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0026": {
+    "speaker": "Eris"
+  },
+  "ch06-p0028": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0029": {
+    "speaker": "Eris"
+  },
+  "ch06-p0030": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0031": {
+    "speaker": "Eris"
+  },
+  "ch06-p0032": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch06-p0035": {
+    "speaker": "Eris"
+  },
+  "ch06-p0036": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0037": {
+    "speaker": "Eris"
+  },
+  "ch06-p0038": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0040": {
+    "speaker": "Eris"
+  },
+  "ch06-p0041": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0042": {
+    "speaker": "Eris"
+  },
+  "ch06-p0043": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0044": {
+    "speaker": "Eris"
+  },
+  "ch06-p0045": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0046": {
+    "speaker": "Eris"
+  },
+  "ch06-p0047": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0048": {
+    "speaker": "Eris"
+  },
+  "ch06-p0054": {
+    "speaker": "Eris",
+    "embeddedDialogue": true,
+    "note": "that carries Eris's request for more soup."
+  },
+  "ch06-p0057": {
+    "speaker": "Eris"
+  },
+  "ch06-p0058": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0059": {
+    "speaker": "Eris"
+  },
+  "ch06-p0060": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch06-p0061": {
+    "speaker": "Eris"
+  },
+  "ch06-p0062": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0063": {
+    "speaker": "Eris"
+  },
+  "ch06-p0064": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0066": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0067": {
+    "speaker": "Eris"
+  },
+  "ch06-p0068": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0069": {
+    "speaker": "Eris"
+  },
+  "ch06-p0070": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0071": {
+    "speaker": "Eris"
+  },
+  "ch06-p0072": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0073": {
+    "speaker": "Eris"
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "ch01-p0004": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0008": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0010": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0011": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0012": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0014": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0015": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0016": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0019": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0025": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0026": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0027": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0029": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0032": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0033": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0035": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0038": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0039": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0044": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0047": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0050": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0053": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0055": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0057": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0058": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0059": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0063": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0066": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0069": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0070": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0071": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch01-p0072": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0073": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0076": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0086": {
+    "speaker": "Secretary",
+    "mixed": true
+  },
+  "ch01-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0088": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0090": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0092": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0093": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0097": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0099": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0100": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0103": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0105": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0106": {
+    "speaker": "Secretary",
+    "mixed": true
+  },
+  "ch01-p0107": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0108": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0109": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0110": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0111": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0112": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0114": {
+    "speaker": "Secretary",
+    "mixed": true
+  },
+  "ch01-p0115": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0116": {
+    "speaker": "Secretary"
+  },
+  "ch01-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0118": {
+    "speaker": "Secretary",
+    "mixed": true
+  },
+  "ch01-p0127": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0128": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0129": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0130": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0131": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0132": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0133": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0134": {
+    "speaker": "Lilia",
+    "mixed": true
+  },
+  "ch01-p0135": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0136": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0137": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0139": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0140": {
+    "speaker": "Lilia",
+    "mixed": true
+  },
+  "ch01-p0141": {
+    "speaker": "Leo"
+  },
+  "ch01-p0143": {
+    "speaker": "Leo"
+  },
+  "ch01-p0146": {
+    "speaker": "Roxy"
+  },
+  "ch01-p0147": {
+    "speaker": "Eris"
+  },
+  "ch01-p0148": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0152": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0154": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0157": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0158": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0160": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0161": {
+    "speaker": "Lilia",
+    "embeddedDialogue": true,
+    "note": "that carries Lilia's unfinished question."
+  },
+  "ch01-p0162": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0163": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0164": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0166": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0167": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0169": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0170": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0177": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0179": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0182": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0183": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0185": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0187": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0189": {
+    "speaker": "Sylphiette"
+  },
+  "ch01-p0190": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0192": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0194": {
+    "speaker": "Roxy"
+  },
+  "ch01-p0195": {
+    "speaker": "Sylphiette"
+  },
+  "ch01-p0196": {
+    "speaker": "Eris",
+    "mixed": true,
+    "note": "speaks first; Aisha answers in the same block."
+  },
+  "ch01-p0197": {
+    "speaker": "Norn"
+  },
+  "ch01-p0198": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0200": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0201": {
+    "speaker": "Aisha"
+  },
+  "ch01-p0202": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0204": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0206": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0207": {
+    "speaker": "Lilia"
+  },
+  "ch01-p0215": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0217": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch01-p0218": {
+    "speaker": "Roxy"
+  },
+  "ch01-p0221": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0222": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0223": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0225": {
+    "speaker": "Roxy"
+  },
+  "ch01-p0226": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0229": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0230": {
+    "speaker": "Roxy"
+  },
+  "ch01-p0232": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch01-p0233": {
+    "speaker": "Zanoba",
+    "mixed": true
+  },
+  "ch01-p0234": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0235": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0236": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0237": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0239": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0242": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0243": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0245": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0246": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0254": {
+    "speaker": "Sylphiette"
+  },
+  "ch01-p0255": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0256": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0257": {
+    "speaker": "Sylphiette"
+  },
+  "ch01-p0258": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0261": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch01-p0263": {
+    "speaker": "Sylphiette"
+  },
+  "ch01-p0264": {
+    "speaker": "Roxy"
+  },
+  "ch01-p0265": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0267": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch01-p0269": {
+    "speaker": "Eris"
+  },
+  "ch01-p0270": {
+    "speaker": "Sylphiette"
+  },
+  "ch01-p0271": {
+    "speaker": "Eris"
+  },
+  "ch01-p0272": {
+    "speaker": "Sylphiette"
+  },
+  "ch01-p0274": {
+    "speaker": "Eris"
+  },
+  "ch01-p0276": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0126": {
+    "speaker": "Lilia",
+    "embeddedDialogue": true,
+    "note": "that carries Lilia's question to Elinalise."
+  }
+}

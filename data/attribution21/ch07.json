@@ -1,0 +1,369 @@
+{
+  "ch07-p0007": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch07-p0008": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0009": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0011": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0012": {
+    "speaker": "Cliff"
+  },
+  "ch07-p0014": {
+    "speaker": "Wendy"
+  },
+  "ch07-p0015": {
+    "speaker": "Temple Knight",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "note": "quoting the cardinal's and the Temple Knights' stock answer."
+  },
+  "ch07-p0016": {
+    "speaker": "Wendy"
+  },
+  "ch07-p0017": {
+    "speaker": "Aisha"
+  },
+  "ch07-p0019": {
+    "speaker": "Wendy"
+  },
+  "ch07-p0021": {
+    "speaker": "Aisha"
+  },
+  "ch07-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0023": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch07-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0036": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0039": {
+    "speaker": "Temple Knight"
+  },
+  "ch07-p0040": {
+    "speaker": "Temple Knight"
+  },
+  "ch07-p0045": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch07-p0048": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0050": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0052": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0054": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0057": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0059": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0061": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0068": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0070": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0071": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0072": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0073": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0074": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0076": {
+    "speaker": "Zenith",
+    "recollection": true,
+    "note": "Blessed Child reciting Zenith's memories in Zenith's voice."
+  },
+  "ch07-p0077": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0078": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0079": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0080": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0083": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0084": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0085": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0087": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0088": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0090": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0091": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0093": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0094": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0096": {
+    "speaker": "Zenith",
+    "recollection": true
+  },
+  "ch07-p0099": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch07-p0100": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0104": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0106": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch07-p0108": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0110": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch07-p0112": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0114": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0120": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0121": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0122": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0123": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0124": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0125": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0126": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0128": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0129": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0134": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0136": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0137": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0138": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0139": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0142": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0143": {
+    "speaker": "Blessed Child",
+    "mixed": true
+  },
+  "ch07-p0144": {
+    "speaker": "Blessed Child"
+  },
+  "ch07-p0149": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0151": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0154": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0160": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0162": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0163": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0164": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0166": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0167": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0169": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0175": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0177": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0178": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0180": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0181": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0182": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0184": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0185": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0188": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0189": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0190": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0192": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0193": {
+    "speaker": "Claire Latria"
+  },
+  "ch07-p0196": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0197": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch07-p0198": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch07-p0223": {
+    "speaker": "Man-God",
+    "recollection": true,
+    "note": "inside Geese's letter."
+  },
+  "ch07-p0238": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0157": {
+    "speaker": "Claire Latria",
+    "embeddedDialogue": true,
+    "note": "that carries Claire's spoken admission."
+  }
+}

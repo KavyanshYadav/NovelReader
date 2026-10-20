@@ -1,0 +1,208 @@
+{
+  "ch12-p0004": {
+    "speaker": "Faria"
+  },
+  "ch12-p0006": {
+    "speaker": "Faria"
+  },
+  "ch12-p0009": {
+    "speaker": "Faria"
+  },
+  "ch12-p0011": {
+    "speaker": "Faria",
+    "mixed": true
+  },
+  "ch12-p0014": {
+    "speaker": "Ogre",
+    "note": "The red-skinned ogre that storms the Orsted Corporation office; possibly the Ogre God's agent."
+  },
+  "ch12-p0015": {
+    "speaker": "Faria",
+    "mixed": true
+  },
+  "ch12-p0016": {
+    "speaker": "Ogre"
+  },
+  "ch12-p0017": {
+    "speaker": "Faria",
+    "mixed": true
+  },
+  "ch12-p0018": {
+    "speaker": "Faria",
+    "mixed": true
+  },
+  "ch12-p0019": {
+    "speaker": "Ogre",
+    "mixed": true
+  },
+  "ch12-p0020": {
+    "speaker": "Faria",
+    "mixed": true
+  },
+  "ch12-p0021": {
+    "speaker": "Faria",
+    "mixed": true
+  },
+  "ch12-p0022": {
+    "speaker": "Faria",
+    "mixed": true
+  },
+  "ch12-p0023": {
+    "speaker": "Faria",
+    "mixed": true
+  },
+  "ch12-p0031": {
+    "speaker": "Eris"
+  },
+  "ch12-p0032": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0034": {
+    "speaker": "Eris"
+  },
+  "ch12-p0035": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0036": {
+    "speaker": "Eris"
+  },
+  "ch12-p0037": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0042": {
+    "speaker": "Eris"
+  },
+  "ch12-p0043": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0044": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0047": {
+    "speaker": "Eris"
+  },
+  "ch12-p0048": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0049": {
+    "speaker": "Eris"
+  },
+  "ch12-p0050": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0052": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0056": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0057": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch12-p0058": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0059": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch12-p0060": {
+    "speaker": "Roxy",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Roxy's bewildered question about the dead magic circle."
+  },
+  "ch12-p0061": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch12-p0062": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch12-p0063": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0065": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0068": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0070": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch12-p0071": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0072": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch12-p0073": {
+    "speaker": "Roxy"
+  },
+  "ch12-p0075": {
+    "speaker": "Eris"
+  },
+  "ch12-p0076": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0077": {
+    "speaker": "Eris"
+  },
+  "ch12-p0079": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0081": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch12-p0082": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch12-p0093": {
+    "speaker": "Zanoba"
+  },
+  "ch12-p0095": {
+    "speaker": "Zanoba"
+  },
+  "ch12-p0096": {
+    "speaker": "Ginger"
+  },
+  "ch12-p0097": {
+    "speaker": "Zanoba"
+  },
+  "ch12-p0098": {
+    "speaker": "Ginger",
+    "mixed": true
+  },
+  "ch12-p0099": {
+    "speaker": "Zanoba"
+  },
+  "ch12-p0102": {
+    "speaker": "Zanoba"
+  },
+  "ch12-p0103": {
+    "speaker": "Ginger"
+  },
+  "ch12-p0104": {
+    "speaker": "Julie"
+  },
+  "ch12-p0106": {
+    "speaker": "Zanoba"
+  },
+  "ch12-p0107": {
+    "speaker": "Ginger"
+  }
+}

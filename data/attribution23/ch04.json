@@ -1,0 +1,344 @@
+{
+  "ch04-p0004": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0007": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0017": {
+    "speaker": "Rudeus",
+    "confidence": "medium",
+    "note": "Reaction to the Gigantic Jaw; read as Rudeus from the POV narration, but the line is untagged."
+  },
+  "ch04-p0018": {
+    "speaker": "Roxy"
+  },
+  "ch04-p0021": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0026": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0027": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch04-p0030": {
+    "speaker": "Eris",
+    "note": "Eris's battle cry as she charges the Gigantic Jaw."
+  },
+  "ch04-p0031": {
+    "speaker": "Gigantic Jaw",
+    "note": "The monster's bellow answering Eris's roar; a vocalization rather than speech."
+  },
+  "ch04-p0035": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0037": {
+    "speaker": "Roxy"
+  },
+  "ch04-p0038": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0040": {
+    "speaker": "Eris"
+  },
+  "ch04-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0049": {
+    "speaker": "Sieg",
+    "note": "Sieg's cry as he wakes up; a vocalization rather than speech."
+  },
+  "ch04-p0051": {
+    "speaker": "Roxy",
+    "confidence": "medium",
+    "note": "First reaction to what Rudeus does not yet notice; read as Roxy, though the line is untagged."
+  },
+  "ch04-p0053": {
+    "speaker": "Sylphiette",
+    "confidence": "medium",
+    "note": "Reaction that precedes the narration noting that Sylphie noticed the problem."
+  },
+  "ch04-p0055": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch04-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0057": {
+    "speaker": "Eris",
+    "confidence": "medium",
+    "note": "Telling Rudeus to stop his dramatic monologue; read as Eris from the blunt, familiar tone."
+  },
+  "ch04-p0058": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0069": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus calling out at the shrine; it also quotes Eris's curt order, \"Get in there already.\""
+  },
+  "ch04-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0076": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0077": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch04-p0087": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0089": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0092": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0097": {
+    "speaker": "Sylvaril"
+  },
+  "ch04-p0099": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0105": {
+    "speaker": "Sylvaril",
+    "mixed": true
+  },
+  "ch04-p0108": {
+    "speaker": "Sylvaril",
+    "mixed": true
+  },
+  "ch04-p0110": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0111": {
+    "speaker": "Sylvaril"
+  },
+  "ch04-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0119": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0122": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0127": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0129": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0131": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0132": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0134": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0136": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0137": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0141": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0143": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0144": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0146": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0149": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0150": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch04-p0161": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch04-p0164": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0166": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0168": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0170": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0172": {
+    "speaker": "Perugius"
+  },
+  "ch04-p0174": {
+    "speaker": "Nanahoshi",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "note": "Narration around Nanahoshi's announcement; the quoted line is hers."
+  },
+  "ch04-p0175": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0177": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0178": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0180": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0185": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch04-p0186": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0188": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0189": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0190": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0191": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0192": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0194": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0195": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0196": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0198": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch04-p0200": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0217": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0219": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0220": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0221": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0222": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0224": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0225": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0226": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0229": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0231": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0233": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0234": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0235": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0237": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0238": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0241": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0242": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0244": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0247": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0248": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0250": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0251": {
+    "speaker": "Sylphiette"
+  }
+}

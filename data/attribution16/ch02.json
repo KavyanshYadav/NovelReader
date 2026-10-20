@@ -1,0 +1,250 @@
+{
+  "ch02-p0009": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0010": {
+    "speaker": "Crowd",
+    "confidence": "low",
+    "note": "Unnamed cheerful voice from the gathered family; text does not identify who called out."
+  },
+  "ch02-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0014": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch02-p0017": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0018": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch02-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0023": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0025": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0028": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0030": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch02-p0033": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0035": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0036": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch02-p0037": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch02-p0038": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch02-p0041": {
+    "speaker": "Lilia",
+    "mixed": true
+  },
+  "ch02-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0048": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0060": {
+    "speaker": "Arumanfi",
+    "mixed": true
+  },
+  "ch02-p0062": {
+    "speaker": "Arumanfi",
+    "mixed": true,
+    "note": "Arumanfi's cry as he is pulled through the summoning circle."
+  },
+  "ch02-p0064": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0066": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0068": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0072": {
+    "speaker": "Arumanfi",
+    "mixed": true
+  },
+  "ch02-p0077": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0078": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0080": {
+    "speaker": "Arumanfi",
+    "mixed": true
+  },
+  "ch02-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0082": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0085": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0086": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0089": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0090": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0091": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0092": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0095": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted question to Arumanfi."
+  },
+  "ch02-p0096": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0097": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0098": {
+    "speaker": "Arumanfi"
+  },
+  "ch02-p0100": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0102": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0120": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0122": {
+    "speaker": "Leo"
+  },
+  "ch02-p0129": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch02-p0130": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch02-p0131": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch02-p0132": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch02-p0134": {
+    "speaker": "Lilia",
+    "mixed": true
+  },
+  "ch02-p0138": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0140": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0141": {
+    "speaker": "Leo",
+    "mixed": true
+  },
+  "ch02-p0144": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0151": {
+    "speaker": "Leo"
+  },
+  "ch02-p0153": {
+    "speaker": "Leo"
+  },
+  "ch02-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0161": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0163": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch02-p0165": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch02-p0167": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0168": {
+    "speaker": "Leo"
+  },
+  "ch02-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0172": {
+    "speaker": "Leo"
+  },
+  "ch02-p0174": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0175": {
+    "speaker": "Leo",
+    "mixed": true
+  },
+  "ch02-p0176": {
+    "speaker": "Rudeus",
+    "mixed": true
+  }
+}

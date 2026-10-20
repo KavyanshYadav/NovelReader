@@ -1,0 +1,162 @@
+{
+  "ch06-p0003": {
+    "speaker": "Meredy Latria",
+    "recollection": true,
+    "note": "advice from Claire's mother, long ago."
+  },
+  "ch06-p0011": {
+    "speaker": "Claire Latria",
+    "recollection": true,
+    "note": "at eighteen."
+  },
+  "ch06-p0022": {
+    "speaker": "Carlisle Latria",
+    "recollection": true,
+    "note": "was still called Carlisle Granz at the time."
+  },
+  "ch06-p0026": {
+    "speaker": "Carlisle Latria",
+    "recollection": true
+  },
+  "ch06-p0041": {
+    "speaker": "Therese",
+    "recollection": true
+  },
+  "ch06-p0080": {
+    "speaker": "Claire Latria"
+  },
+  "ch06-p0081": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0102": {
+    "speaker": "Carlisle Latria",
+    "recollection": true
+  },
+  "ch06-p0108": {
+    "speaker": "Carlisle Latria",
+    "mixed": true
+  },
+  "ch06-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0114": {
+    "speaker": "Claire Latria"
+  },
+  "ch06-p0115": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0121": {
+    "speaker": "Claire Latria"
+  },
+  "ch06-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0123": {
+    "speaker": "Claire Latria"
+  },
+  "ch06-p0127": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0128": {
+    "speaker": "Claire Latria"
+  },
+  "ch06-p0130": {
+    "speaker": "Claire Latria"
+  },
+  "ch06-p0137": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0138": {
+    "speaker": "Cliff"
+  },
+  "ch06-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0140": {
+    "speaker": "Cliff"
+  },
+  "ch06-p0142": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch06-p0148": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch06-p0150": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch06-p0152": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0153": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0154": {
+    "speaker": "Blessed Child"
+  },
+  "ch06-p0155": {
+    "speaker": "Blessed Child"
+  },
+  "ch06-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0159": {
+    "speaker": "Pope"
+  },
+  "ch06-p0160": {
+    "speaker": "Cardinal Leblanc",
+    "mixed": true,
+    "note": "quoted word \"Fine\" is the cardinal's; the rest is narration."
+  },
+  "ch06-p0162": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0132": {
+    "speaker": "Claire Latria",
+    "type": "narration",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "quoting Claire's earlier explanation."
+  },
+  "ch06-p0040": {
+    "speaker": "Claire Latria",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "quoting Claire's curse."
+  },
+  "ch06-p0043": {
+    "speaker": "Claire Latria",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "quoting Claire's rebuke."
+  },
+  "ch06-p0048": {
+    "speaker": "Claire Latria",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "quoting Claire's haughty pardon."
+  },
+  "ch06-p0052": {
+    "speaker": "Claire Latria",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "quoting Claire's imagined words to Zenith."
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "ch01-s01": {
+    "location": "A backstreet tavern in the Second City of Irelil, Biheiril Kingdom",
+    "cast": [
+      "Informant",
+      "Rudeus",
+      "Sandor"
+    ],
+    "pov": "Sandor",
+    "chapterPov": "Sandor"
+  },
+  "ch01-s02": {
+    "location": "The forest road to the Ravine of the Earthwyrm and the Superd Village",
+    "cast": [
+      "Norn",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Superd Warrior"
+    ],
+    "pov": "Sandor",
+    "chapterPov": "Sandor"
+  },
+  "ch02-s01": {
+    "location": "The Man-God's white space, where Rudeus's soul wakes after the fall",
+    "cast": [
+      "Perugius",
+      "Rudeus"
+    ]
+  },
+  "ch02-s02": {
+    "location": "A cave at the bottom of the Ravine of the Earthwyrm",
+    "cast": [
+      "Dohga",
+      "Rudeus"
+    ]
+  },
+  "ch02-s03": {
+    "location": "The floor of the Ravine of the Earthwyrm, at the wreck of the Magic Armor",
+    "cast": [
+      "Dohga",
+      "Rudeus"
+    ]
+  },
+  "ch02-s04": {
+    "location": "The cliff walls of the Ravine of the Earthwyrm",
+    "cast": [
+      "Dohga",
+      "Rudeus"
+    ]
+  },
+  "ch02-s05": {
+    "location": "The dragon ruin chamber beneath the Ravine of the Earthwyrm",
+    "cast": [
+      "Dohga",
+      "Rudeus"
+    ]
+  },
+  "ch02-s06": {
+    "location": "The rim of the Ravine of the Earthwyrm",
+    "cast": [
+      "Dohga",
+      "Rudeus"
+    ]
+  },
+  "ch03-s01": {
+    "location": "The great hall of the Superd Village",
+    "cast": [
+      "Cliff",
+      "Elinalise",
+      "Eris",
+      "Ginger",
+      "Julie",
+      "Norn",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Zanoba"
+    ]
+  },
+  "ch03-s02": {
+    "location": "The great hall of the Superd Village",
+    "cast": [
+      "Cliff",
+      "Elinalise",
+      "Eris",
+      "Ginger",
+      "Julie",
+      "Norn",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Superd Warrior",
+      "Zanoba"
+    ]
+  },
+  "ch03-s03": {
+    "location": "The Ravine of the Earthwyrm, where the battle plan is made",
+    "cast": [
+      "Cliff",
+      "Dohga",
+      "Elinalise",
+      "Eris",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Zanoba"
+    ]
+  },
+  "ch03-s04": {
+    "location": "The suspension bridge over the Ravine of the Earthwyrm",
+    "cast": [
+      "Alexander",
+      "Dohga",
+      "Eris",
+      "Gall Falion",
+      "Ogre God Marta",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Soldier",
+      "Superd Warrior",
+      "Zanoba"
+    ]
+  },
+  "ch04-s01": {
+    "location": "The forest near the Ravine of the Earthwyrm",
+    "cast": [
+      "Eris",
+      "Gall Falion",
+      "Rudeus"
+    ],
+    "pov": "Eris",
+    "chapterPov": "Eris"
+  },
+  "ch04-s02": {
+    "location": "The forest near the Ravine of the Earthwyrm, at Gall Falion's body",
+    "cast": [
+      "Eris",
+      "Gall Falion",
+      "Rudeus",
+      "Ruijerd"
+    ],
+    "pov": "Eris",
+    "chapterPov": "Eris"
+  },
+  "ch05-s01": {
+    "location": "The forest by the Ravine of the Earthwyrm, the duel with Alexander Rybak",
+    "cast": [
+      "Alexander",
+      "Rudeus",
+      "Sandor"
+    ]
+  },
+  "ch05-s02": {
+    "location": "The forest by the Ravine of the Earthwyrm, the duel with Alexander Rybak",
+    "cast": [
+      "Alexander",
+      "Eris",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ]
+  },
+  "ch05-s03": {
+    "location": "The forest by the Ravine of the Earthwyrm, after the explosion",
+    "cast": [
+      "Elinalise",
+      "Rudeus",
+      "Sandor",
+      "Superd Warrior"
+    ]
+  },
+  "ch06-s01": {
+    "location": "The forest by the Ravine of the Earthwyrm",
+    "cast": [
+      "Rudeus"
+    ]
+  },
+  "ch06-s02": {
+    "location": "The forest by the Ravine of the Earthwyrm",
+    "cast": [
+      "Alexander",
+      "Eris",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ]
+  },
+  "ch06-s03": {
+    "location": "The forest by the Ravine of the Earthwyrm",
+    "cast": [
+      "Alexander",
+      "Dohga",
+      "Eris",
+      "Ogre God Marta",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Zanoba"
+    ]
+  },
+  "ch06-s04": {
+    "location": "The forest by the Ravine of the Earthwyrm",
+    "cast": [
+      "Alexander",
+      "Atofe",
+      "Dohga",
+      "Eris",
+      "Ogre God Marta",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Zanoba"
+    ]
+  },
+  "ch06-s05": {
+    "location": "The cliff edge above the Ravine of the Earthwyrm",
+    "cast": [
+      "Alexander",
+      "Atofe",
+      "Eris",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ]
+  },
+  "ch07-s01": {
+    "location": "The Ravine of the Earthwyrm, the fall",
+    "cast": [
+      "Alexander",
+      "Rudeus"
+    ]
+  },
+  "ch07-s02": {
+    "location": "The floor of the Ravine of the Earthwyrm",
+    "cast": [
+      "Alexander",
+      "Rudeus"
+    ]
+  },
+  "ch07-s03": {
+    "location": "The rim of the Ravine of the Earthwyrm, among the scattered hunting party",
+    "cast": [
+      "Knight",
+      "Rudeus",
+      "Soldier"
+    ]
+  },
+  "ch07-s04": {
+    "location": "The road from the Ravine of the Earthwyrm back to the Superd Village",
+    "cast": [
+      "Atofe",
+      "Dohga",
+      "Eris",
+      "Orsted",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Zanoba"
+    ]
+  },
+  "ch08-s01": {
+    "location": "The Superd Village, three days after the battle",
+    "cast": [
+      "Atofe",
+      "Cliff",
+      "Dohga",
+      "Elinalise",
+      "Eris",
+      "Ginger",
+      "Julie",
+      "Norn",
+      "Orsted",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Zanoba"
+    ]
+  },
+  "ch08-s02": {
+    "location": "The Superd Village square, the mock duel between Eris and Sandor",
+    "cast": [
+      "Cliff",
+      "Doctor",
+      "Dohga",
+      "Elinalise",
+      "Eris",
+      "Ginger",
+      "Rudeus",
+      "Sandor",
+      "Superd Warrior",
+      "Zanoba"
+    ]
+  },
+  "ch08-s03": {
+    "location": "Ruijerd's house in the Superd Village",
+    "cast": [
+      "Atofe",
+      "Eris",
+      "Norn",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ]
+  },
+  "ch09-s01": {
+    "location": "The Superd Village, after the envoys return from the Second City",
+    "cast": [
+      "Atofe",
+      "Cliff",
+      "Elinalise",
+      "Eris",
+      "Knight",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Superd Warrior"
+    ]
+  },
+  "ch09-s02": {
+    "location": "The audience hall of the Biheiril Kingdom capital",
+    "cast": [
+      "Atofe",
+      "Cliff",
+      "Elinalise",
+      "Eris",
+      "King of Biheiril",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor",
+      "Superd Warrior"
+    ]
+  },
+  "ch09-s03": {
+    "location": "The lighthouse at the Third City of Heirelil, facing Ogre Island",
+    "cast": [
+      "Atofe",
+      "Eris",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ]
+  },
+  "ch09-s04": {
+    "location": "An inn in the Third City of Heirelil",
+    "cast": [
+      "Eris",
+      "Ogre God Marta",
+      "Rudeus",
+      "Ruijerd",
+      "Sandor"
+    ]
+  },
+  "ch09-s05": {
+    "location": "The coast of Heirelil, the ogre peace banquet",
+    "cast": [
+      "Atofe",
+      "Badigadi",
+      "Geese",
+      "Ogre God Marta",
+      "Rudeus",
+      "Sandor"
+    ]
+  },
+  "ch10-s01": {
+    "location": "The hole in the ocean above the Devil's Cave",
+    "cast": [
+      "Badigadi",
+      "Geese",
+      "Rudeus"
+    ],
+    "pov": "Badigadi",
+    "chapterPov": "Badigadi"
+  },
+  "ch10-s02": {
+    "location": "The first level of the Devil's Cave",
+    "cast": [
+      "Badigadi",
+      "Geese",
+      "Rudeus"
+    ],
+    "pov": "Badigadi",
+    "chapterPov": "Badigadi"
+  },
+  "ch10-s03": {
+    "location": "The deeper levels of the Devil's Cave",
+    "cast": [
+      "Badigadi",
+      "Geese",
+      "Rudeus"
+    ],
+    "pov": "Badigadi",
+    "chapterPov": "Badigadi"
+  },
+  "ch10-s04": {
+    "location": "The guardian's hall at the deepest level of the Devil's Cave",
+    "cast": [
+      "Badigadi",
+      "Geese",
+      "Labyrinth Guardian",
+      "Rudeus"
+    ],
+    "pov": "Badigadi",
+    "chapterPov": "Badigadi"
+  },
+  "ch10-s05": {
+    "location": "Kishirika's throne room at the deepest point of the Devil's Cave",
+    "cast": [
+      "Badigadi",
+      "Geese",
+      "Rudeus"
+    ],
+    "pov": "Badigadi",
+    "chapterPov": "Badigadi"
+  },
+  "ch10-s06": {
+    "location": "The Man-God's white space, where the Man-God visits Badigadi's dreams",
+    "cast": [
+      "Badigadi",
+      "Perugius",
+      "Rudeus"
+    ],
+    "pov": "Badigadi",
+    "chapterPov": "Badigadi"
+  },
+  "ch11-s01": {
+    "location": "Beneath the rubble in the Ravine of the Earthwyrm",
+    "cast": [
+      "Alexander",
+      "Rudeus"
+    ],
+    "pov": "Alexander",
+    "chapterPov": "Alexander"
+  }
+}

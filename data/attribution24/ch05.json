@@ -1,0 +1,678 @@
+{
+  "ch05-p0002": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0003": {
+    "speaker": "Sara",
+    "mixed": true
+  },
+  "ch05-p0004": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0005": {
+    "speaker": "Sara"
+  },
+  "ch05-p0006": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0008": {
+    "speaker": "Sara"
+  },
+  "ch05-p0009": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0010": {
+    "speaker": "Sara",
+    "mixed": true
+  },
+  "ch05-p0011": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0012": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0019": {
+    "speaker": "Zenith",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch05-p0020": {
+    "speaker": "Sara"
+  },
+  "ch05-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0022": {
+    "speaker": "Sara",
+    "mixed": true
+  },
+  "ch05-p0024": {
+    "speaker": "Sara",
+    "mixed": true
+  },
+  "ch05-p0025": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0026": {
+    "speaker": "Sara"
+  },
+  "ch05-p0027": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0028": {
+    "speaker": "Sara"
+  },
+  "ch05-p0029": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0031": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0032": {
+    "speaker": "Sara"
+  },
+  "ch05-p0033": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0034": {
+    "speaker": "Sara",
+    "mixed": true
+  },
+  "ch05-p0036": {
+    "speaker": "Sara",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Sara's whisper and her goodnight."
+  },
+  "ch05-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0038": {
+    "speaker": "Sara",
+    "mixed": true
+  },
+  "ch05-p0039": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0044": {
+    "speaker": "Paul"
+  },
+  "ch05-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0046": {
+    "speaker": "Paul"
+  },
+  "ch05-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0048": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0049": {
+    "speaker": "Paul"
+  },
+  "ch05-p0050": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0051": {
+    "speaker": "Paul"
+  },
+  "ch05-p0052": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0054": {
+    "speaker": "Paul",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Paul's scoffing remark."
+  },
+  "ch05-p0055": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's angry question."
+  },
+  "ch05-p0056": {
+    "speaker": "Paul"
+  },
+  "ch05-p0057": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0058": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0063": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0065": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0066": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0069": {
+    "speaker": "Child",
+    "note": "One of Rudeus's beastfolk children; the children are never named."
+  },
+  "ch05-p0070": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0071": {
+    "speaker": "Linia",
+    "mixed": true
+  },
+  "ch05-p0072": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0073": {
+    "speaker": "Linia"
+  },
+  "ch05-p0078": {
+    "speaker": "Linia",
+    "note": "Linia's beastfolk hiss; a vocalization rather than speech."
+  },
+  "ch05-p0079": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0080": {
+    "speaker": "Linia"
+  },
+  "ch05-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0082": {
+    "speaker": "Linia"
+  },
+  "ch05-p0083": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0085": {
+    "speaker": "Linia",
+    "mixed": true
+  },
+  "ch05-p0086": {
+    "speaker": "Child",
+    "note": "One of Rudeus's beastfolk children; the children are never named."
+  },
+  "ch05-p0087": {
+    "speaker": "Linia",
+    "mixed": true
+  },
+  "ch05-p0088": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0089": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0090": {
+    "speaker": "Linia"
+  },
+  "ch05-p0092": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0093": {
+    "speaker": "Linia",
+    "mixed": true
+  },
+  "ch05-p0094": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0096": {
+    "speaker": "Paul",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Paul's greeting."
+  },
+  "ch05-p0099": {
+    "speaker": "Paul"
+  },
+  "ch05-p0100": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0101": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0103": {
+    "speaker": "Paul"
+  },
+  "ch05-p0104": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0105": {
+    "speaker": "Paul"
+  },
+  "ch05-p0106": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0107": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0108": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0110": {
+    "speaker": "Paul"
+  },
+  "ch05-p0111": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0112": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0114": {
+    "speaker": "Paul"
+  },
+  "ch05-p0120": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0121": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0122": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0124": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0127": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0129": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0130": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0131": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0132": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0133": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0136": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0137": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0138": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0140": {
+    "speaker": "Ariel"
+  },
+  "ch05-p0141": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0143": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0152": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0153": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0156": {
+    "speaker": "Knight Captain",
+    "mixed": true
+  },
+  "ch05-p0157": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0158": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0160": {
+    "speaker": "Knight Captain"
+  },
+  "ch05-p0161": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch05-p0162": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0166": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0168": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0169": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0170": {
+    "speaker": "Paul"
+  },
+  "ch05-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0172": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0173": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0174": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0178": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0179": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch05-p0182": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch05-p0184": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0187": {
+    "speaker": "Vita",
+    "confidence": "medium",
+    "note": "The figure in the dream drops the act and names Abyssal King Vita; read as Vita himself speaking."
+  },
+  "ch05-p0195": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0196": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0197": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0198": {
+    "speaker": "Paul"
+  },
+  "ch05-p0199": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0200": {
+    "speaker": "Paul"
+  },
+  "ch05-p0201": {
+    "speaker": "Paul"
+  },
+  "ch05-p0202": {
+    "speaker": "Paul",
+    "mixed": true
+  },
+  "ch05-p0203": {
+    "speaker": "Paul",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the false Paul's instructions about Vita's core."
+  },
+  "ch05-p0204": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0208": {
+    "speaker": "Lilia",
+    "mixed": true
+  },
+  "ch05-p0209": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0210": {
+    "speaker": "Lilia",
+    "mixed": true
+  },
+  "ch05-p0211": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0212": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0213": {
+    "speaker": "Lilia"
+  },
+  "ch05-p0215": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0221": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0227": {
+    "speaker": "Zenith",
+    "mixed": true
+  },
+  "ch05-p0229": {
+    "speaker": "Zenith",
+    "mixed": true
+  },
+  "ch05-p0230": {
+    "speaker": "Zenith"
+  },
+  "ch05-p0233": {
+    "speaker": "Zenith"
+  },
+  "ch05-p0234": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0235": {
+    "speaker": "Zenith",
+    "mixed": true
+  },
+  "ch05-p0236": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0237": {
+    "speaker": "Zenith",
+    "mixed": true
+  },
+  "ch05-p0238": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0241": {
+    "speaker": "Paul",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the false Paul's reminder to destroy Vita's core."
+  },
+  "ch05-p0248": {
+    "speaker": "Zenith",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch05-p0251": {
+    "speaker": "Zenith",
+    "mixed": true
+  },
+  "ch05-p0252": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0253": {
+    "speaker": "Zenith"
+  },
+  "ch05-p0254": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0255": {
+    "speaker": "Zenith",
+    "mixed": true
+  },
+  "ch05-p0257": {
+    "speaker": "Zenith",
+    "mixed": true
+  },
+  "ch05-p0265": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0273": {
+    "speaker": "Vita",
+    "mixed": true
+  },
+  "ch05-p0274": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0275": {
+    "speaker": "Vita",
+    "mixed": true
+  },
+  "ch05-p0276": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0277": {
+    "speaker": "Vita"
+  },
+  "ch05-p0280": {
+    "speaker": "Vita"
+  },
+  "ch05-p0281": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0282": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0284": {
+    "speaker": "Vita",
+    "mixed": true
+  },
+  "ch05-p0285": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0286": {
+    "speaker": "Vita",
+    "mixed": true
+  },
+  "ch05-p0287": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0288": {
+    "speaker": "Vita"
+  },
+  "ch05-p0290": {
+    "speaker": "Vita"
+  },
+  "ch05-p0292": {
+    "speaker": "Vita"
+  },
+  "ch05-p0294": {
+    "speaker": "Vita",
+    "mixed": true
+  },
+  "ch05-p0295": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0296": {
+    "speaker": "Vita"
+  },
+  "ch05-p0298": {
+    "speaker": "Vita"
+  },
+  "ch05-p0302": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0303": {
+    "speaker": "Vita",
+    "mixed": true
+  },
+  "ch05-p0305": {
+    "speaker": "Vita"
+  },
+  "ch05-p0308": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0309": {
+    "speaker": "Vita"
+  },
+  "ch05-p0311": {
+    "speaker": "Vita",
+    "mixed": true
+  },
+  "ch05-p0312": {
+    "speaker": "Rudeus"
+  },
+  "ch05-p0317": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0323": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0325": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0327": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch05-p0331": {
+    "speaker": "Ruijerd"
+  }
+}

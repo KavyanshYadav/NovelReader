@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mushoku Tensei Reader">
+  <rect width="64" height="64" rx="14" fill="#8e3b46"/>
+  <path d="M14 16h16.5c3.6 0 6.5 2.9 6.5 6.5V48c0-2.8-2.2-5-5-5H14z" fill="#f5efe4" opacity=".92"/>
+  <path d="M50 16H33.5c-3.6 0-6.5 2.9-6.5 6.5V48c0-2.8 2.2-5 5-5H50z" fill="#fbf7ee"/>
+  <path d="M32 24v24" stroke="#8e3b46" stroke-width="2" stroke-linecap="round"/>
+  <path d="M36 30h9M36 35h9M36 40h7" stroke="#ad8549" stroke-width="2" stroke-linecap="round"/>
+</svg>

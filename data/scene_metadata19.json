@@ -1,0 +1,316 @@
+{
+  "ch01-s01": {
+    "location": "Zanoba's laboratory, main research building, Ranoa University",
+    "cast": [
+      "Cliff",
+      "Elinalise",
+      "Ginger",
+      "Julie",
+      "Orsted",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch01-s02": {
+    "location": "The road outside Orsted's office, Ranoa University",
+    "cast": [
+      "Rudeus"
+    ]
+  },
+  "ch02-s01": {
+    "location": "Rudeus's house, Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Lara",
+      "Lilia",
+      "Lucie",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch02-s02": {
+    "location": "Rudeus's house in Sharia, then the Principal's office at Ranoa University",
+    "cast": [
+      "Principal",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba"
+    ]
+  },
+  "ch02-s03": {
+    "location": "Perugius's floating fortress (art gallery), then a warehouse near the Shirone capital",
+    "cast": [
+      "Ginger",
+      "Perugius",
+      "Rudeus",
+      "Sylvaril",
+      "Zanoba"
+    ]
+  },
+  "ch03-s01": {
+    "location": "Rudeus's house in Sharia, a vacant lot in the city, and the front gate of the household",
+    "cast": [
+      "Aisha",
+      "Byt",
+      "Eris",
+      "Julie",
+      "Lara",
+      "Leo",
+      "Lilia",
+      "Lucie",
+      "Norn",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch03-s02": {
+    "location": "The gates of Sharia, Perugius's floating fortress (teleportation chamber), and the ruined building near Shirone's eastern border",
+    "cast": [
+      "Arumanfi",
+      "Cliff",
+      "Elinalise",
+      "Ginger",
+      "Nanahoshi",
+      "Roxy",
+      "Rudeus",
+      "Sylvaril",
+      "Zanoba"
+    ]
+  },
+  "ch03-s03": {
+    "location": "The streets and the inn in Latakia, the capital of Shirone",
+    "cast": [
+      "Ginger",
+      "Roxy",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch04-s01": {
+    "location": "The throne room of Shirone Castle, Latakia",
+    "cast": [
+      "Benedikte",
+      "Knight",
+      "Pax",
+      "Randolph Marianne",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch04-s02": {
+    "location": "A guest room in Shirone Castle, Latakia",
+    "cast": [
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch05-s01": {
+    "location": "The inn in Latakia, the capital of Shirone",
+    "cast": [
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch05-s02": {
+    "location": "The road to Fort Karon, then the fort's war room and ramparts",
+    "cast": [
+      "Billy",
+      "Garrick Babriti",
+      "Roxy",
+      "Rudeus",
+      "Soldier",
+      "Zanoba"
+    ]
+  },
+  "ch06-s01": {
+    "location": "The plain north of Fort Karon, then the ramparts of Fort Karon",
+    "cast": [
+      "Roxy",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch06-s02": {
+    "location": "The ramparts of Fort Karon",
+    "cast": [
+      "Billy",
+      "Roxy",
+      "Rudeus"
+    ]
+  },
+  "ch07-s01": {
+    "location": "The ramparts of Fort Karon",
+    "cast": [
+      "Billy",
+      "Roxy",
+      "Rudeus",
+      "Soldier"
+    ]
+  },
+  "ch07-s02": {
+    "location": "Inside Fort Karon, after the battle",
+    "cast": [
+      "Garrick Babriti",
+      "Roxy",
+      "Rudeus",
+      "Soldier",
+      "Zanoba"
+    ]
+  },
+  "ch07-s03": {
+    "location": "A room inside Fort Karon, where the Bista prisoner is questioned",
+    "cast": [
+      "Bista Royal",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch08-s01": {
+    "location": "The riverbank near Fort Karon, then a room inside the fort",
+    "cast": [
+      "Ginger",
+      "Rudeus",
+      "Soldier",
+      "Zanoba"
+    ]
+  },
+  "ch09-s01": {
+    "location": "Outside the sealed city of Latakia, then a watermill on the riverbank",
+    "cast": [
+      "Roxy",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch09-s02": {
+    "location": "The secret passage beneath Latakia and the halls of Shirone Castle",
+    "cast": [
+      "Randolph Marianne",
+      "Roxy",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch10-s01": {
+    "location": "The fifth-floor landing of Shirone Castle, Latakia",
+    "cast": [
+      "Randolph Marianne",
+      "Roxy",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch10-s02": {
+    "location": "The king's chambers and balcony in Shirone Castle, then the palace gardens",
+    "cast": [
+      "Benedikte",
+      "Pax",
+      "Randolph Marianne",
+      "Roxy",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch11-s01": {
+    "location": "The palace gardens, the secret passage, and the watermill outside Latakia",
+    "cast": [
+      "Benedikte",
+      "Randolph Marianne",
+      "Roxy",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch11-s02": {
+    "location": "The main plaza of Latakia, where Pax's remains are displayed, and an inn in the city",
+    "cast": [
+      "Aisha",
+      "Ginger",
+      "Lara",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba"
+    ]
+  },
+  "ch12-s01": {
+    "location": "Zanoba's room in Sharia, as he looks back on his life",
+    "cast": [
+      "Zanoba"
+    ]
+  },
+  "ch12-s02": {
+    "location": "Perugius's floating fortress, Nanahoshi's quarters, and Orsted's office in Ranoa University",
+    "cast": [
+      "Nanahoshi",
+      "Orsted",
+      "Perugius",
+      "Roxy",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch13-s01": {
+    "location": "The garden and living room of Rudeus's house in Sharia",
+    "cast": [
+      "Aisha",
+      "Arus",
+      "Eris",
+      "Julie",
+      "Lara",
+      "Lilia",
+      "Lucie",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba",
+      "Zenith"
+    ]
+  },
+  "ch13-s02": {
+    "location": "Rudeus's house in Sharia, as Rudeus reviews the plan",
+    "cast": [
+      "Rudeus"
+    ]
+  },
+  "ch14-s01": {
+    "location": "The gardens of the royal villa in the King Dragon Realm",
+    "cast": [
+      "Benedikte",
+      "Noble",
+      "Pax",
+      "Rudeus"
+    ],
+    "pov": "Pax",
+    "chapterPov": "Pax"
+  },
+  "ch14-s02": {
+    "location": "The parade grounds of the royal villa in the King Dragon Realm",
+    "cast": [
+      "Benedikte",
+      "Pax",
+      "Randolph Marianne",
+      "Rudeus",
+      "Squire"
+    ],
+    "pov": "Pax"
+  },
+  "ch14-s03": {
+    "location": "A stairway landing in Shirone Castle, on the night of the rebellion",
+    "cast": [
+      "Benedikte",
+      "Pax",
+      "Randolph Marianne",
+      "Rudeus"
+    ],
+    "pov": "Pax"
+  }
+}

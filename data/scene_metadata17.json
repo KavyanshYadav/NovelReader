@@ -1,0 +1,130 @@
+{
+  "ch01-s01": {
+    "location": "Perugius' floating fortress, Chaos Breaker (audience hall and teleportation chamber)",
+    "cast": ["Rudeus", "Eris", "Sylvaril", "Perugius", "Ariel", "Sylphiette", "Ghislaine", "Luke", "Ellemoi", "Cleane"]
+  },
+  "ch01-s02": {
+    "location": "Ruined teleportation circle and forest camp near the Red Wyrm's Upper Jaw, Northern Territories",
+    "cast": ["Rudeus", "Ariel", "Eris", "Sylphiette", "Ghislaine", "Luke", "Ellemoi", "Cleane"]
+  },
+  "ch01-s03": {
+    "location": "Night patrol in the forest near the Red Wyrm's Upper Jaw, Northern Territories",
+    "cast": ["Rudeus", "Orsted", "Sylphiette", "Eris", "Ghislaine", "Luke", "Ariel"]
+  },
+  "ch02-s01": {
+    "location": "The Red Wyrm's Upper Jaw valley road and the entrance to the Red Wyrm's Whiskers",
+    "cast": ["Rudeus", "Eris", "Sylphiette", "Ghislaine", "Luke", "Ariel", "Ellemoi", "Cleane"]
+  },
+  "ch02-s02": {
+    "location": "Camp and ambush site in the Red Wyrm's Whiskers forest",
+    "cast": ["Rudeus", "Eris", "Sylphiette", "Ghislaine", "Luke", "Ariel", "Ellemoi", "Cleane", "Wi Taa", "Auber", "Soldier"]
+  },
+  "ch03-s01": {
+    "location": "Camp in the Red Wyrm's Whiskers forest (strategy meeting)",
+    "cast": ["Rudeus", "Ariel", "Luke", "Sylphiette", "Eris", "Ghislaine", "Ellemoi", "Cleane"]
+  },
+  "ch03-s02": {
+    "location": "Forest track toward the bandits' territory in the eastern Red Wyrm's Whiskers",
+    "cast": ["Rudeus", "Ariel", "Eris", "Sylphiette", "Ghislaine", "Luke", "Ellemoi", "Cleane"]
+  },
+  "ch03-s03": {
+    "location": "Forest camp in the Red Wyrm's Whiskers forest (second report to Orsted)",
+    "cast": ["Rudeus", "Orsted", "Ariel"]
+  },
+  "ch04-s01": {
+    "location": "Moonlit forest clearing away from camp, Red Wyrm's Whiskers",
+    "cast": ["Rudeus", "Ariel", "Orsted"]
+  },
+  "ch04-s02": {
+    "location": "Forest clearing where Orsted waits, Red Wyrm's Whiskers",
+    "cast": ["Rudeus", "Ariel", "Orsted", "Sylphiette", "Eris", "Ghislaine", "Luke", "Ellemoi", "Cleane"]
+  },
+  "ch04-s03": {
+    "location": "Forest camp, Red Wyrm's Whiskers (after Ariel swears allegiance)",
+    "cast": ["Rudeus", "Ariel", "Orsted"]
+  },
+  "ch05-s01": {
+    "location": "Bandits' camp in the eastern Red Wyrm's Whiskers",
+    "cast": ["Rudeus", "Eris", "Sylphiette", "Ghislaine", "Luke", "Ariel", "Ellemoi", "Cleane", "Triss", "Bandit"]
+  },
+  "ch06-s01": {
+    "location": "Bandits' cabin, hidden lake and cliffside cave in the eastern Red Wyrm's Whiskers",
+    "cast": ["Rudeus", "Triss", "Eris", "Sylphiette", "Ariel", "Ghislaine", "Luke", "Ellemoi", "Cleane", "Bandit"]
+  },
+  "ch06-s02": {
+    "location": "The trading city of Rikket and the road south through the Donati Region",
+    "cast": ["Rudeus", "Ariel", "Eris", "Sylphiette", "Ghislaine", "Luke", "Triss", "Ellemoi", "Cleane"]
+  },
+  "ch06-s03": {
+    "location": "The road south from Rikket toward the Royal Region of Asura",
+    "cast": ["Rudeus", "Ariel", "Eris", "Sylphiette", "Ghislaine", "Luke", "Triss", "Ellemoi", "Cleane"]
+  },
+  "ch07-s01": {
+    "location": "The road into Ars, the Royal Capital of Asura, and Ariel's residence",
+    "cast": ["Rudeus", "Ariel", "Eris", "Sylphiette", "Ghislaine", "Luke", "Isolde", "Crowd", "Matsukaze"]
+  },
+  "ch08-s01": {
+    "location": "The Silver Palace, Ars (portraits of the Three Godslayers)",
+    "cast": ["Rudeus", "Ariel", "Luke", "Eris", "Sylphiette", "Ghislaine"]
+  },
+  "ch08-s02": {
+    "location": "Ariel's residence in Ars and the ambush street beyond it",
+    "cast": ["Rudeus", "Ariel", "Eris", "Sylphiette", "Ghislaine", "Luke", "Nucklegard", "Gard", "Wi Taa", "Auber", "Pilemon", "Luke's Brother"]
+  },
+  "ch09-s01": {
+    "location": "Reception hall of the Silver Palace, Ars (Ariel's announcement and Triss's testimony)",
+    "cast": ["Rudeus", "Ariel", "Eris", "Ghislaine", "Triss", "Pilemon", "James", "Darius", "Auber", "Freitus", "Grabel", "Noble"]
+  },
+  "ch09-s02": {
+    "location": "Reception hall of the Silver Palace, Ars (Grabel's challenge and Perugius's arrival)",
+    "cast": ["Rudeus", "Ariel", "Eris", "Ghislaine", "Sylphiette", "Grabel", "Darius", "Freitus", "Triss", "Perugius", "Sylvaril", "Ellemoi", "Noble"]
+  },
+  "ch09-s03": {
+    "location": "Reception hall of the Silver Palace, Ars (the Water God's attack)",
+    "cast": ["Rudeus", "Sylvaril", "Reida", "Ariel", "Perugius", "Grabel", "Darius"]
+  },
+  "ch10-s01": {
+    "location": "Reception hall of the Silver Palace, Ars, and the room where Darius is cornered",
+    "cast": ["Rudeus", "Ariel", "Eris", "Sylphiette", "Ghislaine", "Orsted", "Reida", "Auber", "Isolde", "Darius", "Grabel", "Perugius", "Guard", "Noble"]
+  },
+  "ch10-s02": {
+    "location": "Room next to the party hall in the Silver Palace, Ars",
+    "cast": ["Rudeus", "Eris", "Ghislaine", "Orsted", "Luke"]
+  },
+  "ch11-s01": {
+    "location": "Reception hall of the Silver Palace, Ars (Luke's point of view)",
+    "cast": ["Luke", "Ariel", "Pilemon", "Grabel", "Noble"]
+  },
+  "ch11-s02": {
+    "location": "Reception hall of the Silver Palace, Ars (Luke's point of view)",
+    "cast": ["Luke", "Ariel", "Sylphiette", "Rudeus", "Ghislaine", "Eris", "Pilemon", "Perugius", "Isolde", "Triss", "Grabel", "Noble"]
+  },
+  "ch12-s01": {
+    "location": "Servants' cemetery outside Ars, Ariel's residence, and the Boreas family home",
+    "cast": ["Rudeus", "Orsted", "Isolde", "Eris", "Sylphiette", "Ariel", "Ghislaine", "Luke", "Triss", "James", "Alphonse"]
+  },
+  "ch12-s02": {
+    "location": "Ariel's bedchambers in the Silver Palace, Ars",
+    "cast": ["Rudeus", "Ariel", "Sylphiette"]
+  },
+  "ch13-s01": {
+    "location": "Backyard of Ariel's residence in Ars (Ghislaine's training session)",
+    "cast": ["Rudeus", "Eris", "Ghislaine", "Sylphiette"]
+  },
+  "ch13-s02": {
+    "location": "Ariel's residence in Ars and a guest room in Perugius' floating fortress",
+    "cast": ["Rudeus", "Eris", "Sylphiette", "Luke", "Ellemoi", "Cleane"]
+  },
+  "ch14-s01": {
+    "location": "Rudeus's home, Sharia",
+    "cast": ["Rudeus", "Eris", "Sylphiette", "Roxy", "Aisha", "Lilia", "Zenith", "Lucie", "Leo"]
+  },
+  "ch14-s02": {
+    "location": "Sharia streets and the graveyard where Paul is buried",
+    "cast": ["Rudeus", "Paul Greyrat", "Zanoba", "Cliff", "Elinalise", "Groundskeeper"]
+  },
+  "ch15-s01": {
+    "location": "An unnamed tavern in an unnamed town",
+    "cast": ["Bartender", "Drunkard", "Invisible Stranger"]
+  }
+}

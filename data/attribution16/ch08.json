@@ -1,0 +1,348 @@
+{
+  "ch08-p0007": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0008": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0009": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0010": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0011": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0014": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0016": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0024": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0025": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0026": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0027": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0028": {
+    "speaker": "Perugius"
+  },
+  "ch08-p0031": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0032": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0034": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0035": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0038": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0040": {
+    "speaker": "Perugius"
+  },
+  "ch08-p0041": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0043": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0045": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0046": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0047": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0048": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0049": {
+    "speaker": "Perugius",
+    "embeddedDialogue": true,
+    "note": "Narration with Perugius's quoted recollection of Gaunis."
+  },
+  "ch08-p0051": {
+    "speaker": "Perugius"
+  },
+  "ch08-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0053": {
+    "speaker": "Perugius"
+  },
+  "ch08-p0056": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0057": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0059": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0061": {
+    "speaker": "Perugius"
+  },
+  "ch08-p0064": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0065": {
+    "speaker": "Perugius"
+  },
+  "ch08-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0069": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch08-p0074": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0076": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch08-p0077": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0078": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch08-p0079": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0083": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0087": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch08-p0088": {
+    "speaker": "Sylphiette",
+    "embeddedDialogue": true,
+    "note": "Narration with Sylphiette's quoted question."
+  },
+  "ch08-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0092": {
+    "speaker": "Sylphiette"
+  },
+  "ch08-p0093": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0094": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch08-p0097": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0098": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0099": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0100": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0104": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0105": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch08-p0107": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0110": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0111": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted demurral."
+  },
+  "ch08-p0112": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0115": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0117": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0120": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0121": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0125": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0127": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0128": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted explanation."
+  },
+  "ch08-p0131": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0134": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0138": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch08-p0139": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0141": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0143": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch08-p0144": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0145": {
+    "speaker": "Luke"
+  },
+  "ch08-p0146": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0149": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0150": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch08-p0152": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch08-p0154": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0160": {
+    "speaker": "Ariel"
+  },
+  "ch08-p0161": {
+    "speaker": "Sylvaril",
+    "mixed": true
+  },
+  "ch08-p0162": {
+    "speaker": "Rudeus",
+    "note": "Shocked interjection at Sylvaril's news."
+  },
+  "ch08-p0164": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0165": {
+    "speaker": "Sylvaril"
+  },
+  "ch08-p0167": {
+    "speaker": "Sylvaril"
+  },
+  "ch08-p0171": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0172": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch08-p0173": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch08-p0174": {
+    "speaker": "Luke",
+    "mixed": true
+  }
+}

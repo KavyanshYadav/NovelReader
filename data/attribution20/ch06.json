@@ -1,0 +1,195 @@
+{
+  "ch06-p0014": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0017": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's remark is embedded in the narration."
+  },
+  "ch06-p0020": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0026": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0027": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0029": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0030": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0031": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0033": {
+    "speaker": "Lilia"
+  },
+  "ch06-p0035": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0042": {
+    "speaker": "Eris"
+  },
+  "ch06-p0043": {
+    "speaker": "Sylphiette"
+  },
+  "ch06-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0050": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0051": {
+    "speaker": "Lilia"
+  },
+  "ch06-p0053": {
+    "speaker": "Sylphiette"
+  },
+  "ch06-p0055": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0057": {
+    "speaker": "Eris"
+  },
+  "ch06-p0061": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0062": {
+    "speaker": "Sylphiette",
+    "mixed": true,
+    "note": "Sylphiette's suggestion is embedded in the narration."
+  },
+  "ch06-p0064": {
+    "speaker": "Roxy"
+  },
+  "ch06-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0074": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's murmur is embedded in the narration."
+  },
+  "ch06-p0081": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's parting words are embedded in the narration."
+  },
+  "ch06-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0084": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0086": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0098": {
+    "speaker": "Norn"
+  },
+  "ch06-p0100": {
+    "speaker": "Norn"
+  },
+  "ch06-p0110": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's thanks is embedded in the narration."
+  },
+  "ch06-p0112": {
+    "speaker": "Norn"
+  },
+  "ch06-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0119": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0131": {
+    "speaker": "Eris",
+    "mixed": true,
+    "note": "Eris's warning is embedded in the narration."
+  },
+  "ch06-p0135": {
+    "speaker": "Pursena"
+  },
+  "ch06-p0136": {
+    "speaker": "Linia"
+  },
+  "ch06-p0137": {
+    "speaker": "Pursena"
+  },
+  "ch06-p0138": {
+    "speaker": "Linia"
+  },
+  "ch06-p0139": {
+    "speaker": "Pursena"
+  },
+  "ch06-p0141": {
+    "speaker": "Mercenary"
+  },
+  "ch06-p0142": {
+    "speaker": "Linia"
+  },
+  "ch06-p0144": {
+    "speaker": "Linia"
+  },
+  "ch06-p0145": {
+    "speaker": "Pursena"
+  },
+  "ch06-p0146": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Narration referring back to a quoted word; the classifier typed it as speech."
+  },
+  "ch06-p0147": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0148": {
+    "speaker": "Linia"
+  },
+  "ch06-p0149": {
+    "speaker": "Pursena"
+  },
+  "ch06-p0151": {
+    "speaker": "Mercenary"
+  },
+  "ch06-p0152": {
+    "speaker": "Mercenary"
+  },
+  "ch06-p0154": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0155": {
+    "speaker": "Mercenary"
+  },
+  "ch06-p0157": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0160": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0162": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0172": {
+    "speaker": "Aisha"
+  },
+  "ch06-p0174": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's answer is embedded in the narration."
+  }
+}

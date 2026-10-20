@@ -1,0 +1,133 @@
+{
+  "ch08-p0015": {
+    "speaker": "Norn"
+  },
+  "ch08-p0016": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0017": {
+    "speaker": "Norn"
+  },
+  "ch08-p0018": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch08-p0020": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0022": {
+    "speaker": "Norn"
+  },
+  "ch08-p0023": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0024": {
+    "speaker": "Norn",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Norn's alarmed question about Ruijerd."
+  },
+  "ch08-p0025": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0027": {
+    "speaker": "Cliff"
+  },
+  "ch08-p0028": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch08-p0030": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch08-p0031": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch08-p0035": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch08-p0036": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch08-p0038": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch08-p0039": {
+    "speaker": "Norn"
+  },
+  "ch08-p0040": {
+    "speaker": "Lucie"
+  },
+  "ch08-p0041": {
+    "speaker": "Norn"
+  },
+  "ch08-p0042": {
+    "speaker": "Lucie"
+  },
+  "ch08-p0044": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch08-p0045": {
+    "speaker": "Norn"
+  },
+  "ch08-p0046": {
+    "speaker": "Lucie"
+  },
+  "ch08-p0047": {
+    "speaker": "Norn"
+  },
+  "ch08-p0050": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch08-p0051": {
+    "speaker": "Norn"
+  },
+  "ch08-p0052": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch08-p0053": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch08-p0054": {
+    "speaker": "Lucie"
+  },
+  "ch08-p0056": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch08-p0058": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch08-p0059": {
+    "speaker": "Lucie"
+  },
+  "ch08-p0061": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch08-p0064": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch08-p0065": {
+    "speaker": "Lucie",
+    "mixed": true
+  },
+  "ch08-p0073": {
+    "speaker": "Cliff",
+    "mixed": true
+  },
+  "ch08-p0074": {
+    "speaker": "Norn",
+    "mixed": true
+  }
+}

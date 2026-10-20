@@ -1,0 +1,354 @@
+{
+  "ch10-p0006": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's sigh is embedded in the narration."
+  },
+  "ch10-p0009": {
+    "speaker": "Aisha"
+  },
+  "ch10-p0010": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0014": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0018": {
+    "speaker": "Butler"
+  },
+  "ch10-p0020": {
+    "speaker": "Butler"
+  },
+  "ch10-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0024": {
+    "speaker": "Butler"
+  },
+  "ch10-p0027": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0028": {
+    "speaker": "Aisha"
+  },
+  "ch10-p0029": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0030": {
+    "speaker": "Aisha"
+  },
+  "ch10-p0035": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0042": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's interruption is embedded in the narration."
+  },
+  "ch10-p0043": {
+    "speaker": "Ander Berkeley"
+  },
+  "ch10-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0045": {
+    "speaker": "Ander Berkeley"
+  },
+  "ch10-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0048": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0049": {
+    "speaker": "Claire Latria",
+    "mixed": true,
+    "note": "Claire's scolding is embedded in the narration."
+  },
+  "ch10-p0050": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0051": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's apology is embedded in the narration."
+  },
+  "ch10-p0053": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's answer is embedded in the narration."
+  },
+  "ch10-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0055": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0057": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0058": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0059": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0061": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0064": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0067": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0070": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0074": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0075": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0076": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0083": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0085": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0090": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0093": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0097": {
+    "speaker": "Aisha"
+  },
+  "ch10-p0098": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0102": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0105": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0106": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0108": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0110": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0111": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0114": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0115": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0116": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0119": {
+    "speaker": "Claire Latria",
+    "mixed": true,
+    "note": "Claire's command is embedded in the narration."
+  },
+  "ch10-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0121": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0124": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0125": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0126": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0127": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Narration describing Aisha's shrug; the classifier typed it as speech."
+  },
+  "ch10-p0130": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's declaration is embedded in the narration."
+  },
+  "ch10-p0131": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0133": {
+    "speaker": "Ander Berkeley"
+  },
+  "ch10-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0136": {
+    "speaker": "Ander Berkeley"
+  },
+  "ch10-p0138": {
+    "speaker": "Ander Berkeley"
+  },
+  "ch10-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0140": {
+    "speaker": "Ander Berkeley"
+  },
+  "ch10-p0142": {
+    "speaker": "Ander Berkeley",
+    "mixed": true,
+    "note": "Ander's comment is embedded in the narration."
+  },
+  "ch10-p0143": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0144": {
+    "speaker": "Ander Berkeley"
+  },
+  "ch10-p0145": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0146": {
+    "speaker": "Ander Berkeley"
+  },
+  "ch10-p0147": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0149": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's joke is embedded in the narration."
+  },
+  "ch10-p0151": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0153": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0154": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0155": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0157": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0158": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0159": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Inner thought about a quoted term; the classifier typed it as speech."
+  },
+  "ch10-p0160": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0161": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0163": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0164": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0168": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0170": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0174": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0181": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0183": {
+    "speaker": "Claire Latria"
+  },
+  "ch10-p0192": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0199": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0201": {
+    "speaker": "Aisha"
+  },
+  "ch10-p0203": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0206": {
+    "speaker": "Rudeus"
+  },
+  "ch10-p0207": {
+    "speaker": "Aisha"
+  },
+  "ch10-p0211": {
+    "speaker": "Rudeus"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "ch01-s01": {
+    "location": "Orsted's cottage, outskirts of Sharia",
+    "cast": [
+      "Orsted",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch01-s02": {
+    "location": "Orsted's cottage, outskirts of Sharia",
+    "cast": [
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch02-s01": {
+    "location": "Greyrat family home, Sharia",
+    "cast": [
+      "Aisha",
+      "Ariel",
+      "Eris",
+      "Lilia",
+      "Norn",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch02-s02": {
+    "location": "Greyrat family home, garden, Sharia",
+    "cast": [
+      "Aisha",
+      "Arumanfi",
+      "Crowd",
+      "Eris",
+      "Lilia",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch02-s03": {
+    "location": "Greyrat family home, garden, Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Leo",
+      "Lilia",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch03-s01": {
+    "location": "Greyrat family home, Sharia",
+    "cast": [
+      "Eris",
+      "Leo",
+      "Luke",
+      "Rudeus"
+    ]
+  },
+  "ch03-s02": {
+    "location": "Greyrat family home, living room, Sharia",
+    "cast": [
+      "Eris",
+      "Leo",
+      "Luke",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch04-s01": {
+    "location": "Orsted's cottage and the Greyrat house, Sharia",
+    "cast": [
+      "Orsted",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch05-s01": {
+    "location": "Perugius's floating fortress, garden",
+    "cast": [
+      "Ariel",
+      "Luke",
+      "Nanahoshi",
+      "Rudeus",
+      "Sylphiette",
+      "Sylvaril"
+    ]
+  },
+  "ch06-s01": {
+    "location": "Orsted's cottage and Perugius's floating fortress, Sharia",
+    "cast": [
+      "Ariel",
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch06-s02": {
+    "location": "Teleportation circle on the outskirts of Sharia",
+    "cast": [
+      "Ariel",
+      "Eris",
+      "Ghislaine",
+      "Luke",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch07-s01": {
+    "location": "Library Labyrinth, Hyleth Region",
+    "cast": [
+      "Ariel",
+      "Eris",
+      "Ghislaine",
+      "Luke",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch07-s02": {
+    "location": "Library Labyrinth, Hyleth Region",
+    "cast": [
+      "Ariel",
+      "Eris",
+      "Ghislaine",
+      "Luke",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch07-s03": {
+    "location": "Library Labyrinth, Hyleth Region, base camp",
+    "cast": [
+      "Ariel",
+      "Eris",
+      "Ghislaine",
+      "Luke",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch07-s04": {
+    "location": "Library Labyrinth, Hyleth Region, base camp",
+    "cast": [
+      "Ariel",
+      "Eris",
+      "Ghislaine",
+      "Luke",
+      "Monsters",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch08-s01": {
+    "location": "Perugius's floating fortress, audience chamber",
+    "cast": [
+      "Ariel",
+      "Arumanfi",
+      "Perugius",
+      "Rudeus",
+      "Sylvaril"
+    ]
+  },
+  "ch08-s02": {
+    "location": "Perugius's floating fortress, Ariel's room",
+    "cast": [
+      "Ariel",
+      "Luke",
+      "Rudeus",
+      "Sylphiette",
+      "Sylvaril"
+    ]
+  },
+  "ch09-s01": {
+    "location": "Orsted's cottage, outskirts of Sharia",
+    "cast": [
+      "Orsted",
+      "Rudeus"
+    ]
+  },
+  "ch09-s02": {
+    "location": "Greyrat family home, Sharia",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Eris",
+      "Lilia",
+      "Norn",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch09-s03": {
+    "location": "The Red Sea Eagle restaurant, Sharia",
+    "cast": [
+      "Cliff",
+      "Restaurant",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch09-s04": {
+    "location": "Greyrat family home, second floor bedroom, Sharia",
+    "cast": [
+      "Elinalise",
+      "Eris",
+      "Lilia",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch09-s05": {
+    "location": "Cliff's house and the Greyrat house, Sharia",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Eris",
+      "Leo",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch09-s06": {
+    "location": "Greyrat family home, Sharia",
+    "cast": [
+      "Aisha",
+      "Ariel",
+      "Cleane",
+      "Cliff",
+      "Ellemoi",
+      "Eris",
+      "Ghislaine",
+      "Lilia",
+      "Luke",
+      "Norn",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba",
+      "Zenith"
+    ]
+  },
+  "ch10-s01": {
+    "location": "A pub in Sharia",
+    "cast": [
+      "Elinalise",
+      "Ghislaine",
+      "Patron",
+      "Proprietor"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "ch03-p0009": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0012": {
+    "speaker": "Chandle"
+  },
+  "ch03-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0014": {
+    "speaker": "Chandle"
+  },
+  "ch03-p0016": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0017": {
+    "speaker": "Chandle"
+  },
+  "ch03-p0021": {
+    "speaker": "Old Woman",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the old woman's shout that drives the bounty hunters out of the village."
+  },
+  "ch03-p0022": {
+    "speaker": "Old Woman"
+  },
+  "ch03-p0024": {
+    "speaker": "Mercenary",
+    "note": "One of the bounty hunters at the village square; the speaker is not named."
+  },
+  "ch03-p0025": {
+    "speaker": "Mercenary",
+    "note": "One of the bounty hunters at the village square; the speaker is not named."
+  },
+  "ch03-p0030": {
+    "speaker": "Old Woman",
+    "mixed": true
+  },
+  "ch03-p0031": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0032": {
+    "speaker": "Old Woman"
+  },
+  "ch03-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0035": {
+    "speaker": "Old Woman"
+  },
+  "ch03-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0038": {
+    "speaker": "Old Woman"
+  },
+  "ch03-p0039": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0040": {
+    "speaker": "Old Woman"
+  },
+  "ch03-p0041": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's reasoning about the old woman's age; the quoted phrase is his, not spoken by her."
+  },
+  "ch03-p0044": {
+    "speaker": "Old Woman"
+  },
+  "ch03-p0045": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0055": {
+    "speaker": "Old Woman",
+    "recollection": true,
+    "note": "The old woman's retelling of the People of the Forest's original offer."
+  },
+  "ch03-p0058": {
+    "speaker": "Old Woman",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch03-p0061": {
+    "speaker": "Old Woman",
+    "confidence": "medium",
+    "note": "The village's original proclamation as retold by the old woman; the line is untagged."
+  },
+  "ch03-p0067": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0073": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0075": {
+    "speaker": "Chandle"
+  },
+  "ch03-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0079": {
+    "speaker": "Chandle"
+  },
+  "ch03-p0080": {
+    "speaker": "Dohga"
+  },
+  "ch03-p0084": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0086": {
+    "speaker": "Chandle"
+  },
+  "ch03-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0090": {
+    "speaker": "Chandle"
+  },
+  "ch03-p0094": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0097": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0098": {
+    "speaker": "Chandle"
+  },
+  "ch03-p0099": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0104": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0106": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0116": {
+    "speaker": "Rudeus",
+    "confidence": "medium",
+    "note": "Read as Rudeus voicing the concern he has just been thinking; the line is untagged."
+  },
+  "ch03-p0117": {
+    "speaker": "Chandle",
+    "confidence": "medium",
+    "note": "Chandle asking Rudeus whether he wants to turn back; the line is untagged."
+  },
+  "ch03-p0118": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0120": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0124": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0130": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0132": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0135": {
+    "speaker": "Monster",
+    "note": "The sound of the invisible wolf; a vocalization rather than speech."
+  },
+  "ch03-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0141": {
+    "speaker": "Dohga",
+    "mixed": true
+  },
+  "ch03-p0143": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0145": {
+    "speaker": "Dohga",
+    "mixed": true
+  },
+  "ch03-p0148": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch03-p0152": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0153": {
+    "speaker": "Superd Warrior"
+  },
+  "ch03-p0154": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's own startled reaction."
+  },
+  "ch03-p0156": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0159": {
+    "speaker": "Superd Warrior",
+    "mixed": true
+  },
+  "ch03-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0162": {
+    "speaker": "Superd Warrior",
+    "mixed": true
+  },
+  "ch03-p0163": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0164": {
+    "speaker": "Superd Warrior",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the Superd's confirmation that Ruijerd is there."
+  }
+}

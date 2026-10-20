@@ -1,0 +1,362 @@
+{
+  "ch06-p0007": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0010": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0011": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0012": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0013": {
+    "speaker": "Perugius"
+  },
+  "ch06-p0015": {
+    "speaker": "Perugius"
+  },
+  "ch06-p0019": {
+    "speaker": "Perugius"
+  },
+  "ch06-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0022": {
+    "speaker": "Perugius"
+  },
+  "ch06-p0031": {
+    "speaker": "Perugius"
+  },
+  "ch06-p0032": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0034": {
+    "speaker": "Perugius"
+  },
+  "ch06-p0035": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true,
+    "note": " Narration quoting Rudeus."
+  },
+  "ch06-p0036": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0038": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0039": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0041": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0052": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's inner monologue about how to comfort Nanahoshi; the quoted line is only considered, not spoken."
+  },
+  "ch06-p0054": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's inner monologue speculating about his future self; the quoted line is imagined, not spoken."
+  },
+  "ch06-p0057": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0059": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0060": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0061": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0063": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0065": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0067": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true,
+    "note": " Narration quoting Rudeus."
+  },
+  "ch06-p0070": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0071": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0073": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0076": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0078": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0080": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0084": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0086": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0089": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0090": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0091": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0093": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0095": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0096": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0099": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true,
+    "note": " Narration quoting Rudeus."
+  },
+  "ch06-p0100": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0102": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0105": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0106": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0107": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0109": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0116": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0117": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0119": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0121": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0122": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0123": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0125": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0127": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0129": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0130": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0132": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0133": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true,
+    "note": " Narration quoting Rudeus."
+  },
+  "ch06-p0134": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0136": {
+    "speaker": "Nanahoshi"
+  },
+  "ch06-p0138": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0141": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0147": {
+    "speaker": "Perugius",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Perugius's muttered reply about lending Nanahoshi Scarecoat."
+  },
+  "ch06-p0149": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch06-p0152": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0153": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0154": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0155": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0156": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0158": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0159": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0161": {
+    "speaker": "Perugius",
+    "mixed": true
+  },
+  "ch06-p0163": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0164": {
+    "speaker": "Perugius"
+  },
+  "ch06-p0165": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0176": {
+    "speaker": "Receptionist",
+    "mixed": true
+  },
+  "ch06-p0177": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch06-p0178": {
+    "speaker": "Orsted"
+  },
+  "ch06-p0179": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0180": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0181": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0182": {
+    "speaker": "Orsted",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Orsted's short question."
+  },
+  "ch06-p0183": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0184": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0185": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0186": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0187": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch06-p0188": {
+    "speaker": "Rudeus"
+  },
+  "ch06-p0189": {
+    "speaker": "Orsted"
+  },
+  "ch06-p0190": {
+    "speaker": "Rudeus"
+  }
+}

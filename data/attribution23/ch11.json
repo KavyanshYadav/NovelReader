@@ -1,0 +1,619 @@
+{
+  "ch11-p0005": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0007": {
+    "speaker": "Geese"
+  },
+  "ch11-p0008": {
+    "speaker": "Badigadi",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Badigadi's laughing reply."
+  },
+  "ch11-p0010": {
+    "speaker": "Geese"
+  },
+  "ch11-p0011": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0012": {
+    "speaker": "Geese"
+  },
+  "ch11-p0013": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0015": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0016": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0017": {
+    "speaker": "Geese"
+  },
+  "ch11-p0018": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0020": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0021": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Geese's prompt."
+  },
+  "ch11-p0022": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0023": {
+    "speaker": "Geese"
+  },
+  "ch11-p0024": {
+    "speaker": "Badigadi",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Badigadi's question about Geese's homeland."
+  },
+  "ch11-p0025": {
+    "speaker": "Geese"
+  },
+  "ch11-p0027": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0028": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Geese's answer about the death of his homeland."
+  },
+  "ch11-p0036": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0037": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0038": {
+    "speaker": "Geese"
+  },
+  "ch11-p0040": {
+    "speaker": "Geese"
+  },
+  "ch11-p0041": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0043": {
+    "speaker": "Geese"
+  },
+  "ch11-p0044": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0045": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0046": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0047": {
+    "speaker": "Geese"
+  },
+  "ch11-p0049": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0050": {
+    "speaker": "Geese"
+  },
+  "ch11-p0053": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0054": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Geese's eager agreement."
+  },
+  "ch11-p0055": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0056": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0057": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0059": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0061": {
+    "speaker": "Geese"
+  },
+  "ch11-p0062": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0063": {
+    "speaker": "Geese"
+  },
+  "ch11-p0065": {
+    "speaker": "Geese"
+  },
+  "ch11-p0066": {
+    "speaker": "Badigadi",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Badigadi's answer about a Demon King's duty."
+  },
+  "ch11-p0067": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Geese's question about the contest."
+  },
+  "ch11-p0068": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0069": {
+    "speaker": "Geese"
+  },
+  "ch11-p0072": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0073": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0074": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0075": {
+    "speaker": "Geese"
+  },
+  "ch11-p0076": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0079": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0081": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0083": {
+    "speaker": "Geese"
+  },
+  "ch11-p0085": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Geese's parting taunt."
+  },
+  "ch11-p0086": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0087": {
+    "speaker": "Geese"
+  },
+  "ch11-p0088": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0090": {
+    "speaker": "Soldier",
+    "note": "One of the rough men surrounding Badigadi; the speaker is not named."
+  },
+  "ch11-p0091": {
+    "speaker": "Soldier",
+    "note": "One of the rough men surrounding Badigadi; the speaker is not named."
+  },
+  "ch11-p0092": {
+    "speaker": "Soldier",
+    "note": "One of the rough men surrounding Badigadi; the speaker is not named."
+  },
+  "ch11-p0094": {
+    "speaker": "Soldier",
+    "note": "The man who pours and hands over the tankards; the speaker is not named."
+  },
+  "ch11-p0096": {
+    "speaker": "Geese",
+    "confidence": "medium",
+    "note": "Toast before drinking; read as Geese, who is about to drink."
+  },
+  "ch11-p0097": {
+    "speaker": "Soldier",
+    "note": "One of the rough men goading Geese on; the speaker is not named."
+  },
+  "ch11-p0099": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0100": {
+    "speaker": "Geese"
+  },
+  "ch11-p0101": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0103": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0104": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0105": {
+    "speaker": "Geese"
+  },
+  "ch11-p0106": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0108": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0109": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0110": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Geese's suspicious question."
+  },
+  "ch11-p0111": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0113": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0114": {
+    "speaker": "Geese"
+  },
+  "ch11-p0115": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0117": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0118": {
+    "speaker": "Geese",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Geese's agreement that victory is vague."
+  },
+  "ch11-p0119": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0121": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0122": {
+    "speaker": "Geese"
+  },
+  "ch11-p0125": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0127": {
+    "speaker": "Soldier",
+    "note": "The man handing over the next tankard; the speaker is not named."
+  },
+  "ch11-p0131": {
+    "speaker": "Geese",
+    "mixed": true
+  },
+  "ch11-p0132": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0133": {
+    "speaker": "Geese"
+  },
+  "ch11-p0135": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0136": {
+    "speaker": "Geese"
+  },
+  "ch11-p0138": {
+    "speaker": "Geese",
+    "note": "Geese's retching sound; a vocalization rather than speech."
+  },
+  "ch11-p0140": {
+    "speaker": "Geese",
+    "note": "Geese's retching sound; a vocalization rather than speech."
+  },
+  "ch11-p0142": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0147": {
+    "speaker": "Badigadi",
+    "confidence": "medium",
+    "note": "Curious reaction as Geese gets up with his tankard; the line is untagged."
+  },
+  "ch11-p0149": {
+    "speaker": "Geese"
+  },
+  "ch11-p0150": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0156": {
+    "speaker": "Geese",
+    "note": "Geese's groans as he forces the ale down; a vocalization rather than speech."
+  },
+  "ch11-p0157": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0160": {
+    "speaker": "Adviser",
+    "confidence": "medium",
+    "note": "Unnamed attendant who warns Badigadi that Geese may die; the speaker is never named."
+  },
+  "ch11-p0161": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0162": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0163": {
+    "speaker": "Adviser",
+    "confidence": "medium",
+    "note": "Unnamed attendant who suggests using magic on Geese; the speaker is never named."
+  },
+  "ch11-p0164": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0165": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0184": {
+    "speaker": "Man-God",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch11-p0202": {
+    "speaker": "Badigadi",
+    "type": "narration",
+    "recollection": true,
+    "note": "Badigadi's retelling; the quoted name is the hero's title, not a spoken line."
+  },
+  "ch11-p0210": {
+    "speaker": "Kishirika",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch11-p0215": {
+    "speaker": "Man-God",
+    "recollection": true
+  },
+  "ch11-p0217": {
+    "speaker": "Man-God",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch11-p0219": {
+    "speaker": "Badigadi",
+    "recollection": true
+  },
+  "ch11-p0220": {
+    "speaker": "Man-God",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch11-p0222": {
+    "speaker": "Man-God",
+    "recollection": true
+  },
+  "ch11-p0226": {
+    "speaker": "Man-God",
+    "recollection": true
+  },
+  "ch11-p0251": {
+    "speaker": "Badigadi",
+    "recollection": true
+  },
+  "ch11-p0253": {
+    "speaker": "Kishirika",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch11-p0254": {
+    "speaker": "Badigadi",
+    "recollection": true
+  },
+  "ch11-p0255": {
+    "speaker": "Kishirika",
+    "recollection": true
+  },
+  "ch11-p0256": {
+    "speaker": "Badigadi",
+    "recollection": true
+  },
+  "ch11-p0257": {
+    "speaker": "Kishirika",
+    "recollection": true
+  },
+  "ch11-p0258": {
+    "speaker": "Badigadi",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch11-p0259": {
+    "speaker": "Kishirika",
+    "recollection": true
+  },
+  "ch11-p0260": {
+    "speaker": "Badigadi",
+    "recollection": true
+  },
+  "ch11-p0261": {
+    "speaker": "Kishirika",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch11-p0267": {
+    "speaker": "Man-God",
+    "mixed": true,
+    "recollection": true
+  },
+  "ch11-p0269": {
+    "speaker": "Man-God",
+    "recollection": true
+  },
+  "ch11-p0271": {
+    "speaker": "Man-God",
+    "recollection": true
+  },
+  "ch11-p0276": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0277": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0278": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0279": {
+    "speaker": "Man-God",
+    "mixed": true
+  },
+  "ch11-p0280": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0282": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0283": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0287": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0288": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0289": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0290": {
+    "speaker": "Stranger",
+    "embeddedDialogue": true,
+    "recollection": true,
+    "note": "Narration quoting the unnamed stranger who relayed the Man-God's advice to Badigadi."
+  },
+  "ch11-p0292": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0293": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0300": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0301": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0306": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0307": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0308": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0309": {
+    "speaker": "Man-God",
+    "mixed": true
+  },
+  "ch11-p0310": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0312": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0313": {
+    "speaker": "Man-God",
+    "mixed": true
+  },
+  "ch11-p0314": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0315": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0316": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0318": {
+    "speaker": "Man-God",
+    "mixed": true
+  },
+  "ch11-p0319": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0320": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0322": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0323": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0324": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0325": {
+    "speaker": "Man-God",
+    "mixed": true
+  },
+  "ch11-p0326": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0327": {
+    "speaker": "Man-God",
+    "mixed": true
+  },
+  "ch11-p0329": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0332": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0333": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0334": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0336": {
+    "speaker": "Man-God",
+    "mixed": true
+  },
+  "ch11-p0337": {
+    "speaker": "Badigadi"
+  },
+  "ch11-p0338": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0339": {
+    "speaker": "Badigadi",
+    "mixed": true
+  },
+  "ch11-p0340": {
+    "speaker": "Man-God"
+  },
+  "ch11-p0341": {
+    "speaker": "Badigadi",
+    "embeddedDialogue": true
+  },
+  "ch11-p0343": {
+    "speaker": "Badigadi"
+  }
+}

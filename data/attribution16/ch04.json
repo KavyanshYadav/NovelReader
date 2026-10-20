@@ -1,0 +1,492 @@
+{
+  "ch04-p0004": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0005": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0007": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0008": {
+    "speaker": "Orsted",
+    "embeddedDialogue": true,
+    "note": "Narration with Orsted's quoted assent."
+  },
+  "ch04-p0013": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0015": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0017": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0022": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0028": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0029": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0030": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0031": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0033": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0034": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0035": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0036": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0038": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0039": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0041": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0043": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0046": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0048": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0050": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0054": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0056": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0058": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0059": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0061": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0066": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0067": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0069": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0072": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0073": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0074": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted reply."
+  },
+  "ch04-p0075": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0077": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0079": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0080": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0081": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted question."
+  },
+  "ch04-p0082": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0084": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0085": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted question."
+  },
+  "ch04-p0086": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0090": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0092": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0094": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0095": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0098": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0099": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0100": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0102": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0103": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0105": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0106": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0109": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0111": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0113": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch04-p0115": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0116": {
+    "speaker": "Orsted"
+  },
+  "ch04-p0123": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0125": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0126": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0127": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0128": {
+    "speaker": "Sylphiette",
+    "embeddedDialogue": true,
+    "note": "Narration with Sylphiette's quoted echo."
+  },
+  "ch04-p0129": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0130": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0131": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0133": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0134": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0135": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0136": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0141": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0142": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0145": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0146": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0147": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0149": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0150": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0151": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0152": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0153": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted agreement."
+  },
+  "ch04-p0154": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0157": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0158": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted explanation."
+  },
+  "ch04-p0159": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0160": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0162": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0163": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0164": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0166": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0167": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0168": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0170": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0171": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted reply."
+  },
+  "ch04-p0172": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0174": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0175": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0176": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0177": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0178": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0179": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0180": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0181": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0184": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0185": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0186": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0188": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0189": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0190": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0193": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0194": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0196": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0197": {
+    "speaker": "Sylphiette"
+  },
+  "ch04-p0198": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0199": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0200": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0201": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0202": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0203": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0204": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0205": {
+    "speaker": "Sylphiette",
+    "embeddedDialogue": true,
+    "note": "Narration with Sylphiette's quoted rebuttal."
+  },
+  "ch04-p0206": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0208": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0210": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch04-p0212": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0213": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  }
+}

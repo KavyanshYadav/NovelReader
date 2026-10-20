@@ -1,0 +1,248 @@
+{
+  "ch01-p0005": {
+    "speaker": "Pham"
+  },
+  "ch01-p0006": {
+    "speaker": "Angie"
+  },
+  "ch01-p0008": {
+    "speaker": "Pham"
+  },
+  "ch01-p0009": {
+    "speaker": "Angie"
+  },
+  "ch01-p0010": {
+    "speaker": "Pham"
+  },
+  "ch01-p0011": {
+    "speaker": "Angie"
+  },
+  "ch01-p0013": {
+    "speaker": "Pham"
+  },
+  "ch01-p0016": {
+    "speaker": "Angie"
+  },
+  "ch01-p0017": {
+    "speaker": "Pham"
+  },
+  "ch01-p0020": {
+    "speaker": "Pham"
+  },
+  "ch01-p0021": {
+    "speaker": "Angie"
+  },
+  "ch01-p0022": {
+    "speaker": "Pham"
+  },
+  "ch01-p0023": {
+    "speaker": "Angie"
+  },
+  "ch01-p0031": {
+    "speaker": "Pham"
+  },
+  "ch01-p0032": {
+    "speaker": "Angie"
+  },
+  "ch01-p0034": {
+    "speaker": "Pham"
+  },
+  "ch01-p0035": {
+    "speaker": "Angie"
+  },
+  "ch01-p0042": {
+    "speaker": "Ibri Lizard",
+    "note": "The Ibri Lizard's roar, not human dialogue."
+  },
+  "ch01-p0043": {
+    "speaker": "Pham"
+  },
+  "ch01-p0045": {
+    "speaker": "Angie"
+  },
+  "ch01-p0049": {
+    "speaker": "Pham"
+  },
+  "ch01-p0051": {
+    "speaker": "Pham"
+  },
+  "ch01-p0054": {
+    "speaker": "Ibri Lizard",
+    "note": "The Ibri Lizard's roar, not human dialogue."
+  },
+  "ch01-p0056": {
+    "speaker": "Pham"
+  },
+  "ch01-p0059": {
+    "speaker": "Angie"
+  },
+  "ch01-p0064": {
+    "speaker": "Angie"
+  },
+  "ch01-p0065": {
+    "speaker": "Ibri Lizard",
+    "note": "The Ibri Lizard snarling; attributed as a vocalization."
+  },
+  "ch01-p0067": {
+    "speaker": "Ibri Lizard",
+    "note": "The Ibri Lizard's battle cry."
+  },
+  "ch01-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0073": {
+    "speaker": "Angie"
+  },
+  "ch01-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0080": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0081": {
+    "speaker": "Angie"
+  },
+  "ch01-p0087": {
+    "speaker": "Angie"
+  },
+  "ch01-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0089": {
+    "speaker": "Angie"
+  },
+  "ch01-p0090": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0091": {
+    "speaker": "Angie"
+  },
+  "ch01-p0092": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0093": {
+    "speaker": "Rudeus",
+    "confidence": "medium",
+    "note": "Rudeus speaks here; the surrounding narration is in Angie's viewpoint of the event."
+  },
+  "ch01-p0094": {
+    "speaker": "Angie"
+  },
+  "ch01-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0099": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0104": {
+    "speaker": "Angie"
+  },
+  "ch01-p0105": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0107": {
+    "speaker": "Angie"
+  },
+  "ch01-p0108": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0110": {
+    "speaker": "Angie"
+  },
+  "ch01-p0111": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0113": {
+    "speaker": "Angie"
+  },
+  "ch01-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0115": {
+    "speaker": "Angie"
+  },
+  "ch01-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0118": {
+    "speaker": "Angie"
+  },
+  "ch01-p0119": {
+    "speaker": "Angie"
+  },
+  "ch01-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0122": {
+    "speaker": "Angie"
+  },
+  "ch01-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0125": {
+    "speaker": "Angie"
+  },
+  "ch01-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0132": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0134": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0136": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0138": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0139": {
+    "speaker": "Angie"
+  },
+  "ch01-p0143": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0144": {
+    "speaker": "Angie"
+  },
+  "ch01-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0147": {
+    "speaker": "Angie"
+  },
+  "ch01-p0148": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0149": {
+    "speaker": "Angie"
+  },
+  "ch01-p0151": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0152": {
+    "speaker": "Angie"
+  },
+  "ch01-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0154": {
+    "speaker": "Angie"
+  },
+  "ch01-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0157": {
+    "speaker": "Angie"
+  },
+  "ch01-p0161": {
+    "speaker": "Angie"
+  }
+}

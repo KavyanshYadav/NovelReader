@@ -1,0 +1,469 @@
+{
+  "ch07-p0012": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0014": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0016": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0017": {
+    "speaker": "Eris"
+  },
+  "ch07-p0019": {
+    "speaker": "Swordsman",
+    "note": "One of the two swordsmen duelling in the street; the pair are never named."
+  },
+  "ch07-p0020": {
+    "speaker": "Swordsman",
+    "note": "The other swordsman in the street duel; the pair are never named."
+  },
+  "ch07-p0021": {
+    "speaker": "Swordsman",
+    "note": "One of the two swordsmen duelling in the street; the pair are never named."
+  },
+  "ch07-p0024": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0025": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0027": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0028": {
+    "speaker": "Eris"
+  },
+  "ch07-p0029": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's reply."
+  },
+  "ch07-p0030": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0031": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0033": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0034": {
+    "speaker": "Swordsman",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the townsman who confronts Eris."
+  },
+  "ch07-p0035": {
+    "speaker": "Eris"
+  },
+  "ch07-p0037": {
+    "speaker": "Eris"
+  },
+  "ch07-p0038": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0041": {
+    "speaker": "Crowd",
+    "note": "Murmur from the townspeople; the speaker is not named."
+  },
+  "ch07-p0042": {
+    "speaker": "Crowd",
+    "note": "Murmur from the townspeople; the speaker is not named."
+  },
+  "ch07-p0043": {
+    "speaker": "Crowd",
+    "note": "Murmur from the townspeople; the speaker is not named."
+  },
+  "ch07-p0044": {
+    "speaker": "Crowd",
+    "note": "The same murmuring townsperson continuing the warning about Eris."
+  },
+  "ch07-p0045": {
+    "speaker": "Crowd",
+    "note": "Murmur from the townspeople; the speaker is not named."
+  },
+  "ch07-p0047": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0048": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0050": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0053": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0055": {
+    "speaker": "Eris"
+  },
+  "ch07-p0061": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0063": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0065": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0066": {
+    "speaker": "Eris"
+  },
+  "ch07-p0067": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's narration; the quoted line is what he imagines a complainer would say, not live speech."
+  },
+  "ch07-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0069": {
+    "speaker": "Student",
+    "mixed": true
+  },
+  "ch07-p0070": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0071": {
+    "speaker": "Eris"
+  },
+  "ch07-p0074": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0075": {
+    "speaker": "Eris"
+  },
+  "ch07-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0077": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0081": {
+    "speaker": "Swordsman",
+    "note": "One of the Sword Sanctum practitioners who recognises Eris; the speaker is not named."
+  },
+  "ch07-p0084": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0085": {
+    "speaker": "Nina"
+  },
+  "ch07-p0086": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0087": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0088": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0089": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0091": {
+    "speaker": "Eris"
+  },
+  "ch07-p0092": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0093": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0094": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0095": {
+    "speaker": "Swordsman",
+    "note": "One of the Sword Sanctum practitioners who tries to stop Nina; the speaker is not named."
+  },
+  "ch07-p0096": {
+    "speaker": "Nina"
+  },
+  "ch07-p0098": {
+    "speaker": "Swordsman",
+    "note": "The Sword Sanctum practitioners who stand down; the speaker is not named."
+  },
+  "ch07-p0101": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0107": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0108": {
+    "speaker": "Nina"
+  },
+  "ch07-p0109": {
+    "speaker": "Eris"
+  },
+  "ch07-p0112": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0113": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0115": {
+    "speaker": "Nina",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Nina's surprised question."
+  },
+  "ch07-p0116": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0117": {
+    "speaker": "Nina",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Nina's reply about remembering her conversation with Rudeus."
+  },
+  "ch07-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0120": {
+    "speaker": "Nina"
+  },
+  "ch07-p0121": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0125": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0126": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's puzzled confirmation."
+  },
+  "ch07-p0127": {
+    "speaker": "Nina"
+  },
+  "ch07-p0128": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0129": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0130": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0131": {
+    "speaker": "Eris"
+  },
+  "ch07-p0134": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0135": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0136": {
+    "speaker": "Nina"
+  },
+  "ch07-p0140": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0141": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0143": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0145": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0146": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0147": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0151": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0152": {
+    "speaker": "Eris"
+  },
+  "ch07-p0153": {
+    "speaker": "Nina"
+  },
+  "ch07-p0154": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0155": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0160": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0161": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0164": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0168": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0169": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0170": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0174": {
+    "speaker": "Nina",
+    "mixed": true
+  },
+  "ch07-p0175": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration carrying Rudeus's question about Geese and the demon of the god."
+  },
+  "ch07-p0176": {
+    "speaker": "Nina"
+  },
+  "ch07-p0177": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0178": {
+    "speaker": "Nina",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Nina's curt answer."
+  },
+  "ch07-p0181": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0182": {
+    "speaker": "Nina"
+  },
+  "ch07-p0184": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0185": {
+    "speaker": "Eris"
+  },
+  "ch07-p0188": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0189": {
+    "speaker": "Nina"
+  },
+  "ch07-p0197": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0198": {
+    "speaker": "Eris"
+  },
+  "ch07-p0202": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0204": {
+    "speaker": "Student"
+  },
+  "ch07-p0206": {
+    "speaker": "Student",
+    "mixed": true
+  },
+  "ch07-p0207": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0210": {
+    "speaker": "Student",
+    "note": "The sound of the student's wooden sword cutting the air."
+  },
+  "ch07-p0214": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0215": {
+    "speaker": "Student"
+  },
+  "ch07-p0216": {
+    "speaker": "Eris"
+  },
+  "ch07-p0217": {
+    "speaker": "Student",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the student's grateful reply."
+  },
+  "ch07-p0218": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch07-p0219": {
+    "speaker": "Rudeus"
+  },
+  "ch07-p0221": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch07-p0222": {
+    "speaker": "Eris"
+  }
+}

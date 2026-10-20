@@ -1,0 +1,439 @@
+{
+  "ch04-p0011": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0014": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0015": {
+    "speaker": "Dohga"
+  },
+  "ch04-p0018": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0019": {
+    "speaker": "Dohga"
+  },
+  "ch04-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0022": {
+    "speaker": "Dohga"
+  },
+  "ch04-p0025": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0026": {
+    "speaker": "Dohga"
+  },
+  "ch04-p0027": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0030": {
+    "speaker": "Dohga"
+  },
+  "ch04-p0031": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0033": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0034": {
+    "speaker": "Dohga",
+    "mixed": true
+  },
+  "ch04-p0036": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0038": {
+    "speaker": "Lady-in-Waiting"
+  },
+  "ch04-p0039": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0040": {
+    "speaker": "Lady-in-Waiting",
+    "embeddedDialogue": true,
+    "note": "that carries the lady-in-waiting's rebuke."
+  },
+  "ch04-p0041": {
+    "speaker": "Dohga"
+  },
+  "ch04-p0042": {
+    "speaker": "Lady-in-Waiting"
+  },
+  "ch04-p0043": {
+    "speaker": "Dohga"
+  },
+  "ch04-p0044": {
+    "speaker": "Lady-in-Waiting"
+  },
+  "ch04-p0046": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch04-p0050": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0052": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0053": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0054": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch04-p0058": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0059": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0060": {
+    "speaker": "Ariel",
+    "embeddedDialogue": true,
+    "note": "that carries Ariel's dismissal of the lady-in-waiting."
+  },
+  "ch04-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0063": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0064": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0065": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0068": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0069": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0072": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0073": {
+    "speaker": "Dohga"
+  },
+  "ch04-p0074": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0076": {
+    "speaker": "Ariel",
+    "mixed": true
+  },
+  "ch04-p0078": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0080": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0082": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0084": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0089": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0091": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0092": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0094": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0095": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0097": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0098": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0099": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0100": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0101": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0102": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0105": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0106": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0107": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0109": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0110": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0111": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0114": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0115": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0116": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0120": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0121": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0122": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0129": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0130": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0131": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0132": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0134": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0136": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0137": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0141": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0144": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0145": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0146": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0147": {
+    "speaker": "Ariel"
+  },
+  "ch04-p0148": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0152": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0156": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch04-p0158": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0159": {
+    "speaker": "Ghislaine"
+  },
+  "ch04-p0160": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0161": {
+    "speaker": "Ghislaine"
+  },
+  "ch04-p0162": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0163": {
+    "speaker": "Ghislaine"
+  },
+  "ch04-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0165": {
+    "speaker": "Ghislaine"
+  },
+  "ch04-p0167": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0168": {
+    "speaker": "Ghislaine"
+  },
+  "ch04-p0170": {
+    "speaker": "Ghislaine"
+  },
+  "ch04-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0173": {
+    "speaker": "Ghislaine"
+  },
+  "ch04-p0175": {
+    "speaker": "Sylvester Ifrit"
+  },
+  "ch04-p0176": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0178": {
+    "speaker": "Sylvester Ifrit"
+  },
+  "ch04-p0179": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0180": {
+    "speaker": "Sylvester Ifrit"
+  },
+  "ch04-p0181": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0183": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0184": {
+    "speaker": "Sylvester Ifrit"
+  },
+  "ch04-p0186": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0187": {
+    "speaker": "Sylvester Ifrit"
+  },
+  "ch04-p0190": {
+    "speaker": "Sylvester Ifrit"
+  },
+  "ch04-p0191": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0192": {
+    "speaker": "Sylvester Ifrit"
+  },
+  "ch04-p0193": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0195": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0196": {
+    "speaker": "Sylvester Ifrit",
+    "mixed": true
+  },
+  "ch04-p0197": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0198": {
+    "speaker": "Sylvester Ifrit"
+  },
+  "ch04-p0200": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0201": {
+    "speaker": "Chandle",
+    "embeddedDialogue": true,
+    "note": "that carries Chandle's laugh."
+  },
+  "ch04-p0202": {
+    "speaker": "Chandle"
+  },
+  "ch04-p0204": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0205": {
+    "speaker": "Chandle"
+  },
+  "ch04-p0206": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0207": {
+    "speaker": "Chandle"
+  },
+  "ch04-p0208": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0209": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch04-p0211": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0212": {
+    "speaker": "Ghislaine",
+    "embeddedDialogue": true,
+    "note": "that carries Ghislaine's answer."
+  },
+  "ch04-p0214": {
+    "speaker": "Ghislaine"
+  },
+  "ch04-p0149": {
+    "speaker": "Ariel",
+    "embeddedDialogue": true,
+    "note": "that carries Ariel's aside."
+  }
+}

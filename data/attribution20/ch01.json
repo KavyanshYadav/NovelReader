@@ -1,0 +1,192 @@
+{
+  "ch01-p0015": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0016": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0018": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0020": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0022": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0025": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0026": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0027": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0029": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0030": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0039": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's greeting is embedded in the narration."
+  },
+  "ch01-p0041": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0043": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's reply is embedded in the narration."
+  },
+  "ch01-p0045": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0048": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0049": {
+    "speaker": "Elinalise"
+  },
+  "ch01-p0050": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0051": {
+    "speaker": "Elinalise",
+    "mixed": true,
+    "note": "Elinalise's answer is embedded in the narration."
+  },
+  "ch01-p0053": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0057": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0059": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's question is embedded in the narration."
+  },
+  "ch01-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0063": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's reply is embedded in the narration."
+  },
+  "ch01-p0065": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0069": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's explanation is embedded in the narration."
+  },
+  "ch01-p0073": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's explanation is embedded in the narration."
+  },
+  "ch01-p0074": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's reaction is embedded in the narration."
+  },
+  "ch01-p0075": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's reasoning is embedded in the narration."
+  },
+  "ch01-p0077": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0079": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0081": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0083": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0086": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0088": {
+    "speaker": "Rudeus",
+    "type": "quotation",
+    "note": "A quoted phrase Rudeus considers but does not say; the classifier typed it as speech."
+  },
+  "ch01-p0089": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0090": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0091": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's question is embedded in the narration."
+  },
+  "ch01-p0092": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0094": {
+    "speaker": "Cliff",
+    "type": "narration",
+    "note": "A pause in Cliff's reply; the classifier typed the quoted ellipsis as speech."
+  },
+  "ch01-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0096": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's murmur is embedded in the narration."
+  },
+  "ch01-p0098": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's answer is embedded in the narration."
+  },
+  "ch01-p0100": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0101": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0105": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0106": {
+    "speaker": "Rudeus"
+  }
+}

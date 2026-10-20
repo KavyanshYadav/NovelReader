@@ -1,0 +1,322 @@
+{
+  "ch08-p0013": {
+    "speaker": "Rudeus",
+    "note": "Rudeus's groan as he stretches."
+  },
+  "ch08-p0016": {
+    "speaker": "Soldier"
+  },
+  "ch08-p0017": {
+    "speaker": "Soldier"
+  },
+  "ch08-p0018": {
+    "speaker": "Soldier"
+  },
+  "ch08-p0021": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0023": {
+    "speaker": "Soldier"
+  },
+  "ch08-p0025": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0026": {
+    "speaker": "Soldier"
+  },
+  "ch08-p0027": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's remark is embedded in the narration."
+  },
+  "ch08-p0031": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0033": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0036": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's internal reading of Zanoba's wording; nobody speaks aloud."
+  },
+  "ch08-p0038": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0041": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0044": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0049": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0050": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0051": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0055": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0061": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0064": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's guess about the messenger is embedded in the narration."
+  },
+  "ch08-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0066": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0068": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0071": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0073": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0074": {
+    "speaker": "Ginger",
+    "note": "Ginger's exhausted gasping."
+  },
+  "ch08-p0076": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0078": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0103": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0108": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's decision is embedded in the narration."
+  },
+  "ch08-p0110": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0111": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0113": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reassurance is embedded in the narration."
+  },
+  "ch08-p0114": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0115": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch08-p0118": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0119": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0120": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0121": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's rebuke is embedded in the narration."
+  },
+  "ch08-p0122": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0123": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0124": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0127": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0129": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's question is embedded in the narration."
+  },
+  "ch08-p0130": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0131": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0134": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0136": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0137": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0138": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0139": {
+    "speaker": "Ginger",
+    "mixed": true,
+    "note": "Ginger's answer is embedded in the narration."
+  },
+  "ch08-p0142": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0143": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0144": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0145": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0148": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0149": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0150": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0151": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's reply is embedded in the narration."
+  },
+  "ch08-p0152": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0154": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0155": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0157": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0159": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0160": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0165": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0168": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0169": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0170": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0172": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0174": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's argument is embedded in the narration."
+  },
+  "ch08-p0176": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0178": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0181": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0187": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0192": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0193": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0194": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0195": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0203": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0206": {
+    "speaker": "Rudeus"
+  },
+  "ch08-p0208": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0210": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0212": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0213": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0214": {
+    "speaker": "Ginger"
+  },
+  "ch08-p0216": {
+    "speaker": "Zanoba"
+  },
+  "ch08-p0217": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's promise is embedded in the narration."
+  },
+  "ch08-p0219": {
+    "speaker": "Ginger"
+  }
+}

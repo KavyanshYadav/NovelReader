@@ -1,0 +1,331 @@
+{
+  "ch00-s01": {
+    "location": "Rudeus's office cottage on the outskirts of Sharia (diary)",
+    "cast": [
+      "Rudeus"
+    ]
+  },
+  "ch01-s01": {
+    "location": "Ibri Lizard territory in the forest at the western edge of the King Dragon Realm (flashback)",
+    "cast": [
+      "Angie",
+      "Ibri Lizard",
+      "Pham",
+      "Rudeus"
+    ]
+  },
+  "ch02-s01": {
+    "location": "Ibri Lizard territory in the King Dragon Realm forest, then Rudeus's home in Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Lara",
+      "Leo",
+      "Lilia",
+      "Linia",
+      "Lucie",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch02-s02": {
+    "location": "Rudeus's living room, Sharia",
+    "cast": [
+      "Aisha",
+      "Bald Thug",
+      "Eris",
+      "Kincho",
+      "Leo",
+      "Lilia",
+      "Linia",
+      "Lucie",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch03-s01": {
+    "location": "Rudeus's home, Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Leo",
+      "Linia",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch03-s02": {
+    "location": "University of Magic campus, Sharia",
+    "cast": [
+      "Gilbert",
+      "Grannel",
+      "Headmaster",
+      "Linia",
+      "Mi'nal",
+      "Norn",
+      "Rayfort",
+      "Roxy",
+      "Rudeus",
+      "Student"
+    ]
+  },
+  "ch04-s01": {
+    "location": "Orsted Corporation office, the university research rooms, and Rudeus's home in Sharia",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Eris",
+      "Julie",
+      "Lilia",
+      "Linia",
+      "Lucie",
+      "Norn",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zanoba",
+      "Zenith"
+    ]
+  },
+  "ch05-s01": {
+    "location": "Orsted Corporation office and Rudeus's home in Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Lara",
+      "Leo",
+      "Lilia",
+      "Linia",
+      "Lucie",
+      "Orsted",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch05-s02": {
+    "location": "Rudeus's bedroom and hallway, Sharia",
+    "cast": [
+      "Eris",
+      "Lara",
+      "Linia",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch06-s01": {
+    "location": "Rudeus's home, the university research rooms, and the University of Magic, Sharia",
+    "cast": [
+      "Cliff",
+      "Ginger",
+      "Julie",
+      "Linia",
+      "Rudeus",
+      "Student",
+      "Zanoba"
+    ]
+  },
+  "ch06-s02": {
+    "location": "The new company office and Rudeus's home, Sharia",
+    "cast": [
+      "Aisha",
+      "Linia",
+      "Rudeus"
+    ]
+  },
+  "ch07-s01": {
+    "location": "Quagmire Tower in the Great Forest (the story recounted to Rudeus)",
+    "cast": [
+      "Gertrude",
+      "Lienhard",
+      "Rudeus",
+      "Ruquag Mire"
+    ]
+  },
+  "ch07-s02": {
+    "location": "Quagmire Tower in the Great Forest, then Rudeus's home in Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Leo",
+      "Lilia",
+      "Linia",
+      "Lucie",
+      "Rudeus",
+      "Sylphiette"
+    ]
+  },
+  "ch07-s03": {
+    "location": "Ruquag's Mercenary Band headquarters, third block of the adventurers' district, Sharia",
+    "cast": [
+      "Aisha",
+      "Beastman",
+      "Linia",
+      "Mercenaries",
+      "Mercenary",
+      "Rudeus",
+      "Silent Sevenstar"
+    ]
+  },
+  "ch08-s01": {
+    "location": "Rudeus's home in Sharia, before the trip to the Great Forest",
+    "cast": [
+      "Eris",
+      "Leo",
+      "Linia",
+      "Rudeus"
+    ]
+  },
+  "ch08-s02": {
+    "location": "Nanahoshi's floating fortress: Perugius's hall, guest room, and the basement teleportation room",
+    "cast": [
+      "Leo",
+      "Linia",
+      "Nanahoshi",
+      "Perugius",
+      "Rudeus",
+      "Sylvaril",
+      "Yuzuru"
+    ]
+  },
+  "ch08-s03": {
+    "location": "The flooded teleportation ruins and the Doldia Village in the Great Forest",
+    "cast": [
+      "Beastman",
+      "Gyes",
+      "Leo",
+      "Linia",
+      "Minitona",
+      "Rudeus",
+      "Tersena"
+    ]
+  },
+  "ch08-s04": {
+    "location": "The village jail, Doldia Village",
+    "cast": [
+      "Gyes",
+      "Linia",
+      "Pursena",
+      "Rudeus"
+    ]
+  },
+  "ch09-s01": {
+    "location": "The village jail, Doldia Village",
+    "cast": [
+      "Gyes",
+      "Linia",
+      "Pursena",
+      "Rudeus"
+    ]
+  },
+  "ch09-s02": {
+    "location": "Doldia Village: First Witness Testimony",
+    "cast": [
+      "Gimel",
+      "Linia",
+      "Rudeus"
+    ]
+  },
+  "ch09-s03": {
+    "location": "Doldia Village: Second Witness Testimony",
+    "cast": [
+      "Kanaluna",
+      "Linia",
+      "Rudeus"
+    ]
+  },
+  "ch09-s04": {
+    "location": "Doldia Village: Watson's Input",
+    "cast": [
+      "Gyes",
+      "Linia",
+      "Pursena",
+      "Rudeus"
+    ]
+  },
+  "ch10-s01": {
+    "location": "The Magic Armor workshop on the outskirts of Sharia",
+    "cast": [
+      "Julie",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch10-s02": {
+    "location": "Belfried's workshop in the artisan quarter, Sharia",
+    "cast": [
+      "Belfried",
+      "Julie",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch11-s01": {
+    "location": "Julie's childhood: the dwarven homeland of the Millis Continent and a slave market in the Northern Territories (flashback)",
+    "cast": [
+      "Bazar",
+      "Cliff",
+      "Febrito",
+      "Julie",
+      "Lilitella",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch11-s02": {
+    "location": "Zanoba's dorm room and Belfried's shop in the artisan quarter, Sharia",
+    "cast": [
+      "Belfried",
+      "Ginger",
+      "Julie",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch11-s03": {
+    "location": "Zanoba's dorm room, Sharia",
+    "cast": [
+      "Belfried",
+      "Ginger",
+      "Julie",
+      "Rudeus",
+      "Zanoba"
+    ]
+  },
+  "ch12-s01": {
+    "location": "Rudeus's home, Sharia",
+    "cast": [
+      "Aisha",
+      "Eris",
+      "Lara",
+      "Leo",
+      "Lilia",
+      "Linia",
+      "Lucie",
+      "Norn",
+      "Pursena",
+      "Roxy",
+      "Rudeus",
+      "Sylphiette",
+      "Zenith"
+    ]
+  },
+  "ch12-s02": {
+    "location": "Ruquag's Mercenary Band headquarters, the Orsted Corporation office, and the university research building in Sharia",
+    "cast": [
+      "Aisha",
+      "Cliff",
+      "Elinalise",
+      "Ginger",
+      "Julie",
+      "Linia",
+      "Orsted",
+      "Pursena",
+      "Rudeus",
+      "Zanoba"
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "ch03-p0017": {
+    "speaker": "Ghislaine",
+    "recollection": true,
+    "note": "Recalled remark from Ghislaine's earlier visit about Leo."
+  },
+  "ch03-p0024": {
+    "speaker": "Luke"
+  },
+  "ch03-p0028": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0031": {
+    "speaker": "Luke"
+  },
+  "ch03-p0034": {
+    "speaker": "Luke"
+  },
+  "ch03-p0040": {
+    "speaker": "Eris"
+  },
+  "ch03-p0043": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch03-p0048": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0050": {
+    "speaker": "Eris"
+  },
+  "ch03-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0052": {
+    "speaker": "Eris"
+  },
+  "ch03-p0054": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted reply to Eris."
+  },
+  "ch03-p0055": {
+    "speaker": "Eris"
+  },
+  "ch03-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0059": {
+    "speaker": "Eris"
+  },
+  "ch03-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0061": {
+    "speaker": "Eris"
+  },
+  "ch03-p0063": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0065": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch03-p0076": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0079": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0081": {
+    "speaker": "Luke"
+  },
+  "ch03-p0083": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch03-p0085": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0086": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0088": {
+    "speaker": "Luke"
+  },
+  "ch03-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0090": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0093": {
+    "speaker": "Luke"
+  },
+  "ch03-p0094": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0095": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0100": {
+    "speaker": "Luke"
+  },
+  "ch03-p0102": {
+    "speaker": "Luke"
+  },
+  "ch03-p0104": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0106": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0107": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0109": {
+    "speaker": "Luke"
+  },
+  "ch03-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0114": {
+    "speaker": "Luke"
+  },
+  "ch03-p0116": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0118": {
+    "speaker": "Luke"
+  },
+  "ch03-p0120": {
+    "speaker": "Luke"
+  },
+  "ch03-p0121": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0122": {
+    "speaker": "Luke"
+  },
+  "ch03-p0124": {
+    "speaker": "Luke",
+    "embeddedDialogue": true,
+    "note": "Narration containing Luke's quoted remark."
+  },
+  "ch03-p0125": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0126": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0128": {
+    "speaker": "Luke"
+  },
+  "ch03-p0132": {
+    "speaker": "Luke"
+  },
+  "ch03-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0134": {
+    "speaker": "Luke"
+  },
+  "ch03-p0135": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration with Rudeus's quoted self-deprecation."
+  },
+  "ch03-p0136": {
+    "speaker": "Luke"
+  },
+  "ch03-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0141": {
+    "speaker": "Luke"
+  },
+  "ch03-p0142": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0143": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0144": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0145": {
+    "speaker": "Luke"
+  },
+  "ch03-p0147": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0153": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0156": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0159": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0161": {
+    "speaker": "Luke"
+  },
+  "ch03-p0165": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch03-p0166": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0167": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0170": {
+    "speaker": "Eris"
+  },
+  "ch03-p0171": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0172": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch03-p0173": {
+    "speaker": "Luke"
+  },
+  "ch03-p0175": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch03-p0176": {
+    "speaker": "Luke"
+  },
+  "ch03-p0177": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0178": {
+    "speaker": "Luke"
+  },
+  "ch03-p0179": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0180": {
+    "speaker": "Luke",
+    "mixed": true
+  },
+  "ch03-p0181": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  }
+}

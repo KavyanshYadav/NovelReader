@@ -1,0 +1,329 @@
+{
+  "ch11-p0016": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0018": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0020": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0027": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0033": {
+    "speaker": "Eris",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch11-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0036": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0042": {
+    "speaker": "Eris"
+  },
+  "ch11-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0044": {
+    "speaker": "Eris"
+  },
+  "ch11-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0046": {
+    "speaker": "Eris"
+  },
+  "ch11-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0048": {
+    "speaker": "Eris"
+  },
+  "ch11-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0053": {
+    "speaker": "Eris"
+  },
+  "ch11-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0055": {
+    "speaker": "Eris"
+  },
+  "ch11-p0057": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0058": {
+    "speaker": "Eris"
+  },
+  "ch11-p0059": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0061": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0063": {
+    "speaker": "Eris"
+  },
+  "ch11-p0070": {
+    "speaker": "Sylphiette"
+  },
+  "ch11-p0071": {
+    "speaker": "Roxy"
+  },
+  "ch11-p0072": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch11-p0077": {
+    "speaker": "Lilia",
+    "mixed": true
+  },
+  "ch11-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0081": {
+    "speaker": "Aisha",
+    "mixed": true
+  },
+  "ch11-p0085": {
+    "speaker": "Norn"
+  },
+  "ch11-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0088": {
+    "speaker": "Norn"
+  },
+  "ch11-p0089": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0090": {
+    "speaker": "Norn"
+  },
+  "ch11-p0091": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0093": {
+    "speaker": "Lilia"
+  },
+  "ch11-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0096": {
+    "speaker": "Lilia"
+  },
+  "ch11-p0097": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0098": {
+    "speaker": "Lilia"
+  },
+  "ch11-p0100": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0103": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0105": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0106": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0107": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch11-p0111": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0112": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0114": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch11-p0116": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0117": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0123": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0124": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0125": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0127": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch11-p0128": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0129": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0134": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0140": {
+    "speaker": "Ghislaine"
+  },
+  "ch11-p0142": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0143": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch11-p0144": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0146": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0148": {
+    "speaker": "Norn",
+    "mixed": true
+  },
+  "ch11-p0149": {
+    "speaker": "Ghislaine",
+    "mixed": true
+  },
+  "ch11-p0150": {
+    "speaker": "Aisha"
+  },
+  "ch11-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0167": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0169": {
+    "speaker": "Eris"
+  },
+  "ch11-p0171": {
+    "speaker": "Eris"
+  },
+  "ch11-p0172": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0173": {
+    "speaker": "Eris"
+  },
+  "ch11-p0176": {
+    "speaker": "Rudeus",
+    "note": "Coming up for air after a kiss."
+  },
+  "ch11-p0179": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0180": {
+    "speaker": "Eris"
+  },
+  "ch11-p0181": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0182": {
+    "speaker": "Eris"
+  },
+  "ch11-p0184": {
+    "speaker": "Eris"
+  },
+  "ch11-p0187": {
+    "speaker": "Eris"
+  },
+  "ch11-p0188": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0189": {
+    "speaker": "Eris"
+  },
+  "ch11-p0192": {
+    "speaker": "Eris"
+  },
+  "ch11-p0193": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0194": {
+    "speaker": "Eris"
+  },
+  "ch11-p0196": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0199": {
+    "speaker": "Eris"
+  },
+  "ch11-p0202": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0209": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0217": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0221": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0228": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0235": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0238": {
+    "speaker": "Wise Old Hermit",
+    "imagined": true
+  },
+  "ch11-p0241": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0244": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0250": {
+    "speaker": "Rudeus"
+  },
+  "ch11-p0263": {
+    "speaker": "Aisha",
+    "mixed": true
+  }
+}

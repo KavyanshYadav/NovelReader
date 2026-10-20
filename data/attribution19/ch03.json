@@ -1,0 +1,431 @@
+{
+  "ch03-p0005": {
+    "speaker": "Eris"
+  },
+  "ch03-p0006": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0009": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0010": {
+    "speaker": "Eris"
+  },
+  "ch03-p0014": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0015": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0016": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0017": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0022": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0024": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0027": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0029": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0031": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0032": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0033": {
+    "speaker": "Orsted",
+    "mixed": true,
+    "note": "Orsted's answer is embedded in the narration."
+  },
+  "ch03-p0036": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0037": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0038": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0040": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0042": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0044": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0046": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0048": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0050": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0052": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0053": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0054": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0056": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0057": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Inner monologue; the classifier typed it as speech but nobody speaks aloud."
+  },
+  "ch03-p0058": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0059": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0062": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0063": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0072": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0073": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0075": {
+    "speaker": "Orsted"
+  },
+  "ch03-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0081": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0082": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0083": {
+    "speaker": "Sylphiette"
+  },
+  "ch03-p0085": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0086": {
+    "speaker": "Eris"
+  },
+  "ch03-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0089": {
+    "speaker": "Aisha"
+  },
+  "ch03-p0090": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0091": {
+    "speaker": "Aisha"
+  },
+  "ch03-p0093": {
+    "speaker": "Norn"
+  },
+  "ch03-p0094": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0095": {
+    "speaker": "Norn"
+  },
+  "ch03-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0098": {
+    "speaker": "Lilia"
+  },
+  "ch03-p0099": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0103": {
+    "speaker": "Lucie"
+  },
+  "ch03-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0108": {
+    "speaker": "Lucie"
+  },
+  "ch03-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0113": {
+    "speaker": "Julie"
+  },
+  "ch03-p0114": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0115": {
+    "speaker": "Julie"
+  },
+  "ch03-p0117": {
+    "speaker": "Julie"
+  },
+  "ch03-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0121": {
+    "speaker": "Leo",
+    "note": "Leo's bark; not human speech."
+  },
+  "ch03-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0124": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0131": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0134": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0136": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's words to Zanoba are embedded in the narration."
+  },
+  "ch03-p0137": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0138": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0141": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0142": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0145": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0146": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0147": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0148": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0151": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0152": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0157": {
+    "speaker": "Sylvaril"
+  },
+  "ch03-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0166": {
+    "speaker": "Sylvaril"
+  },
+  "ch03-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0170": {
+    "speaker": "Sylvaril"
+  },
+  "ch03-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0172": {
+    "speaker": "Sylvaril"
+  },
+  "ch03-p0175": {
+    "speaker": "Nanahoshi"
+  },
+  "ch03-p0178": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0180": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0182": {
+    "speaker": "Nanahoshi"
+  },
+  "ch03-p0183": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's farewell is embedded in the narration."
+  },
+  "ch03-p0185": {
+    "speaker": "Nanahoshi"
+  },
+  "ch03-p0186": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0189": {
+    "speaker": "Nanahoshi"
+  },
+  "ch03-p0190": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0192": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0193": {
+    "speaker": "Nanahoshi"
+  },
+  "ch03-p0196": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0200": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0202": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0203": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0204": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0205": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0206": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's answer is embedded in the narration."
+  },
+  "ch03-p0208": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0216": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0218": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0219": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0220": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0221": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0226": {
+    "speaker": "Ginger"
+  },
+  "ch03-p0228": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0229": {
+    "speaker": "Ginger"
+  },
+  "ch03-p0230": {
+    "speaker": "Zanoba"
+  },
+  "ch03-p0231": {
+    "speaker": "Ginger"
+  },
+  "ch03-p0232": {
+    "speaker": "Ginger",
+    "mixed": true,
+    "note": "Ginger's look and Rudeus's nod are described in the narration."
+  },
+  "ch03-p0243": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0245": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0246": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0247": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0251": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0252": {
+    "speaker": "Roxy",
+    "mixed": true,
+    "note": "Roxy's teasing is embedded in the narration."
+  },
+  "ch03-p0253": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0254": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0255": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0256": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0259": {
+    "speaker": "Roxy"
+  },
+  "ch03-p0260": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0263": {
+    "speaker": "Rudeus"
+  },
+  "ch03-p0264": {
+    "speaker": "Roxy"
+  }
+}

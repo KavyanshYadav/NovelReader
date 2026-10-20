@@ -1,0 +1,270 @@
+{
+  "ch12-p0003": {
+    "speaker": "Guard"
+  },
+  "ch12-p0007": {
+    "speaker": "Guard"
+  },
+  "ch12-p0008": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0010": {
+    "speaker": "Cliff"
+  },
+  "ch12-p0012": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0015": {
+    "speaker": "Cliff"
+  },
+  "ch12-p0017": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0020": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0024": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0027": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0028": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0030": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0031": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0032": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0034": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0035": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0037": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0038": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0041": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0044": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0047": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0049": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0051": {
+    "speaker": "Harry Grimor",
+    "mixed": true,
+    "note": "The pope's remark is embedded in the narration."
+  },
+  "ch12-p0053": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0055": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0057": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0061": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0062": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0063": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0065": {
+    "speaker": "Harry Grimor"
+  },
+  "ch12-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0079": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0088": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0089": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0091": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0092": {
+    "speaker": "Wendy"
+  },
+  "ch12-p0093": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0094": {
+    "speaker": "Wendy"
+  },
+  "ch12-p0095": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0098": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0099": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0101": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0105": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0107": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0108": {
+    "speaker": "Wendy"
+  },
+  "ch12-p0110": {
+    "speaker": "Wendy"
+  },
+  "ch12-p0112": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0113": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0118": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0119": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0121": {
+    "speaker": "Geese",
+    "mixed": true,
+    "recollection": true,
+    "note": "Geese's words are repeated by Rudeus in his retelling; Geese is not in the scene."
+  },
+  "ch12-p0124": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0126": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0128": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0129": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0132": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0140": {
+    "speaker": "Aisha",
+    "confidence": "medium",
+    "note": "An apology for Wendy's scolding; it could be Rudeus pleading with Cliff instead."
+  },
+  "ch12-p0143": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0144": {
+    "speaker": "Cliff"
+  },
+  "ch12-p0154": {
+    "speaker": "Aisha",
+    "mixed": true,
+    "note": "Aisha's question is embedded in the narration."
+  },
+  "ch12-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0157": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0158": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Narration quoting a single word; the classifier typed it as speech."
+  },
+  "ch12-p0162": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0165": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0166": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0167": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0168": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0170": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "note": "Rudeus's remark is embedded in the narration."
+  },
+  "ch12-p0171": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0172": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0174": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0175": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0177": {
+    "speaker": "Rudeus"
+  },
+  "ch12-p0178": {
+    "speaker": "Aisha"
+  },
+  "ch12-p0180": {
+    "speaker": "Aisha"
+  }
+}

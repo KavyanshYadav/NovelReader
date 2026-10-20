@@ -1,0 +1,289 @@
+{
+  "ch01-p0006": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0007": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0009": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0018": {
+    "speaker": "Pax",
+    "type": "quotation",
+    "recollection": true,
+    "note": "Quotation from King Pax's letter, quoted from the page; Pax is not in the room."
+  },
+  "ch01-p0024": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0025": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0029": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0030": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0031": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0033": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0034": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0035": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0037": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0043": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0045": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0046": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0047": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0049": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0050": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0051": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0052": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0054": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0055": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0058": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0060": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0061": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0062": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0064": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0065": {
+    "speaker": "Cliff"
+  },
+  "ch01-p0066": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0068": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0069": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0071": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0073": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0075": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0082": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0087": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0089": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0091": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0103": {
+    "speaker": "Zanoba"
+  },
+  "ch01-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0115": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0121": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0123": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0126": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0128": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0131": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0134": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0141": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0143": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0144": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0145": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0148": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0150": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0151": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0154": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0158": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0159": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0160": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0162": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0165": {
+    "speaker": "Rudeus",
+    "confidence": "medium",
+    "note": "Rudeus's murmured reaction to Orsted's theory; it could also be Orsted thinking aloud."
+  },
+  "ch01-p0166": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0170": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0172": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0174": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0175": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0176": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0177": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0178": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0181": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0183": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0187": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0189": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0192": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0193": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0195": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0196": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0198": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0199": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0200": {
+    "speaker": "Orsted"
+  },
+  "ch01-p0202": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0207": {
+    "speaker": "Rudeus"
+  },
+  "ch01-p0208": {
+    "speaker": "Orsted"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "ch04-p0008": {
+    "speaker": "Jenius"
+  },
+  "ch04-p0011": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0012": {
+    "speaker": "Jenius"
+  },
+  "ch04-p0019": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0020": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's thanks is embedded in the narration."
+  },
+  "ch04-p0021": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0022": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0024": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0025": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0034": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0036": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0038": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0039": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0042": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0044": {
+    "speaker": "Brooklyn von Elsass",
+    "mixed": true,
+    "note": "Brooklyn's preamble is embedded in the narration."
+  },
+  "ch04-p0045": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0048": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0049": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0051": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0053": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0055": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0056": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0057": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0061": {
+    "speaker": "Brooklyn von Elsass",
+    "mixed": true,
+    "note": "Brooklyn's explanation is embedded in the narration."
+  },
+  "ch04-p0064": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0065": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0070": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0072": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0074": {
+    "speaker": "Brooklyn von Elsass"
+  },
+  "ch04-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0077": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0090": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0092": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0093": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0094": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's remark is embedded in the narration."
+  },
+  "ch04-p0095": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0097": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0101": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0102": {
+    "speaker": "Ginger"
+  },
+  "ch04-p0103": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0104": {
+    "speaker": "Ginger"
+  },
+  "ch04-p0106": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0107": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0110": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0114": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0115": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0117": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0118": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's answer is embedded in the narration."
+  },
+  "ch04-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0121": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0126": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0130": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0132": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0134": {
+    "speaker": "Zanoba"
+  },
+  "ch04-p0136": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0139": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0141": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0142": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0143": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0145": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0146": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0148": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0149": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0150": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0152": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0154": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0156": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0158": {
+    "speaker": "Zanoba",
+    "mixed": true,
+    "note": "Zanoba's question is embedded in the narration."
+  },
+  "ch04-p0160": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0162": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0166": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0170": {
+    "speaker": "Cliff"
+  },
+  "ch04-p0175": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0176": {
+    "speaker": "Cliff"
+  }
+}

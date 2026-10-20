@@ -1,0 +1,376 @@
+{
+  "ch02-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0025": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0027": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0030": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0031": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0032": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0033": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0034": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0037": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0038": {
+    "speaker": "Dohga",
+    "mixed": true
+  },
+  "ch02-p0040": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0041": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0043": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0044": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0045": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0046": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0048": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0049": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0050": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0051": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0053": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0054": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0055": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0056": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0057": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0059": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0060": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0061": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0063": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0064": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0066": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0075": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0077": {
+    "speaker": "Ogre"
+  },
+  "ch02-p0079": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0080": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0082": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0085": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0086": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0087": {
+    "speaker": "Dohga"
+  },
+  "ch02-p0090": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0091": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0092": {
+    "speaker": "Dohga"
+  },
+  "ch02-p0096": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0100": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0101": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0102": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0103": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0104": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0105": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0106": {
+    "speaker": "Server",
+    "mixed": true
+  },
+  "ch02-p0107": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0108": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0109": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0110": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0111": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0112": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0114": {
+    "speaker": "Informant",
+    "mixed": true
+  },
+  "ch02-p0115": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0116": {
+    "speaker": "Informant"
+  },
+  "ch02-p0117": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0118": {
+    "speaker": "Informant",
+    "mixed": true
+  },
+  "ch02-p0119": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0120": {
+    "speaker": "Informant",
+    "mixed": true
+  },
+  "ch02-p0121": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0122": {
+    "speaker": "Informant"
+  },
+  "ch02-p0124": {
+    "speaker": "Informant"
+  },
+  "ch02-p0125": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0126": {
+    "speaker": "Informant"
+  },
+  "ch02-p0128": {
+    "speaker": "Informant"
+  },
+  "ch02-p0129": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0130": {
+    "speaker": "Informant",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the informant's warning about the Earthwyrm Ravine."
+  },
+  "ch02-p0132": {
+    "speaker": "Informant"
+  },
+  "ch02-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0134": {
+    "speaker": "Informant",
+    "mixed": true
+  },
+  "ch02-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0136": {
+    "speaker": "Informant"
+  },
+  "ch02-p0138": {
+    "speaker": "Informant"
+  },
+  "ch02-p0139": {
+    "speaker": "Informant",
+    "embeddedDialogue": true,
+    "note": "Narration quoting the informant's story about the king's hunting party."
+  },
+  "ch02-p0143": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0144": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0145": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0146": {
+    "speaker": "Informant"
+  },
+  "ch02-p0147": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0148": {
+    "speaker": "Informant"
+  },
+  "ch02-p0149": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0150": {
+    "speaker": "Informant",
+    "mixed": true
+  },
+  "ch02-p0153": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0154": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0157": {
+    "speaker": "Rudeus",
+    "embeddedDialogue": true,
+    "note": "Narration quoting Rudeus's question about the next step."
+  },
+  "ch02-p0158": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0159": {
+    "speaker": "Dohga"
+  },
+  "ch02-p0160": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0161": {
+    "speaker": "Server",
+    "mixed": true
+  },
+  "ch02-p0163": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0165": {
+    "speaker": "Dohga"
+  },
+  "ch02-p0167": {
+    "speaker": "Dohga",
+    "mixed": true
+  },
+  "ch02-p0168": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0170": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0172": {
+    "speaker": "Chandle",
+    "mixed": true
+  },
+  "ch02-p0173": {
+    "speaker": "Server"
+  },
+  "ch02-p0175": {
+    "speaker": "Server"
+  },
+  "ch02-p0176": {
+    "speaker": "Chandle"
+  },
+  "ch02-p0178": {
+    "speaker": "Server"
+  },
+  "ch02-p0179": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0180": {
+    "speaker": "Server"
+  },
+  "ch02-p0181": {
+    "speaker": "Rudeus"
+  }
+}

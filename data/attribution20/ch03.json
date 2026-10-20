@@ -1,0 +1,674 @@
+{
+  "ch03-p0003": {
+    "speaker": "Jenius"
+  },
+  "ch03-p0005": {
+    "speaker": "Jenius"
+  },
+  "ch03-p0016": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0018": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0023": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0027": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0029": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0031": {
+    "speaker": "Student",
+    "note": "A voice from the arguing students down the hall; the speaker is not identified."
+  },
+  "ch03-p0032": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0034": {
+    "speaker": "Student"
+  },
+  "ch03-p0035": {
+    "speaker": "Student"
+  },
+  "ch03-p0037": {
+    "speaker": "Student"
+  },
+  "ch03-p0038": {
+    "speaker": "Student"
+  },
+  "ch03-p0040": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0042": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0043": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0045": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0047": {
+    "speaker": "Norn"
+  },
+  "ch03-p0048": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0049": {
+    "speaker": "Norn"
+  },
+  "ch03-p0050": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0052": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0053": {
+    "speaker": "Norn"
+  },
+  "ch03-p0054": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0056": {
+    "speaker": "Norn"
+  },
+  "ch03-p0058": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0060": {
+    "speaker": "Norn"
+  },
+  "ch03-p0068": {
+    "speaker": "Norn"
+  },
+  "ch03-p0069": {
+    "speaker": "Student"
+  },
+  "ch03-p0070": {
+    "speaker": "Student"
+  },
+  "ch03-p0071": {
+    "speaker": "Student"
+  },
+  "ch03-p0072": {
+    "speaker": "Student"
+  },
+  "ch03-p0074": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0075": {
+    "speaker": "Norn"
+  },
+  "ch03-p0076": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0078": {
+    "speaker": "Norn"
+  },
+  "ch03-p0080": {
+    "speaker": "Norn"
+  },
+  "ch03-p0081": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0084": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0086": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0087": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's surprised reply is embedded in the narration."
+  },
+  "ch03-p0090": {
+    "speaker": "Student"
+  },
+  "ch03-p0091": {
+    "speaker": "Student"
+  },
+  "ch03-p0093": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's rebuke is embedded in the narration."
+  },
+  "ch03-p0094": {
+    "speaker": "Student"
+  },
+  "ch03-p0095": {
+    "speaker": "Student"
+  },
+  "ch03-p0098": {
+    "speaker": "Norn"
+  },
+  "ch03-p0099": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0101": {
+    "speaker": "Norn"
+  },
+  "ch03-p0102": {
+    "speaker": "Student"
+  },
+  "ch03-p0116": {
+    "speaker": "Norn"
+  },
+  "ch03-p0117": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0119": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0124": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0126": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0127": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0128": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0129": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0131": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0132": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0133": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's reply is embedded in the narration."
+  },
+  "ch03-p0135": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0137": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0138": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0139": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0140": {
+    "speaker": "Beastman",
+    "mixed": true,
+    "note": "The beastman's protest is embedded in the narration."
+  },
+  "ch03-p0142": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0143": {
+    "speaker": "Norn"
+  },
+  "ch03-p0144": {
+    "speaker": "Student"
+  },
+  "ch03-p0145": {
+    "speaker": "Norn"
+  },
+  "ch03-p0147": {
+    "speaker": "Norn"
+  },
+  "ch03-p0149": {
+    "speaker": "Norn"
+  },
+  "ch03-p0150": {
+    "speaker": "Student"
+  },
+  "ch03-p0156": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0159": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0160": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's order is embedded in the narration."
+  },
+  "ch03-p0162": {
+    "speaker": "Norn"
+  },
+  "ch03-p0165": {
+    "speaker": "Beastman",
+    "note": "The beastman's grunt as he hauls the stone door open."
+  },
+  "ch03-p0172": {
+    "speaker": "Norn"
+  },
+  "ch03-p0173": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0177": {
+    "speaker": "Norn"
+  },
+  "ch03-p0179": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0181": {
+    "speaker": "Norn"
+  },
+  "ch03-p0185": {
+    "speaker": "Wraith",
+    "note": "The Wraith's ghostly whisper."
+  },
+  "ch03-p0187": {
+    "speaker": "Wraith"
+  },
+  "ch03-p0189": {
+    "speaker": "Wraith"
+  },
+  "ch03-p0190": {
+    "speaker": "Student"
+  },
+  "ch03-p0191": {
+    "speaker": "Student"
+  },
+  "ch03-p0195": {
+    "speaker": "Student"
+  },
+  "ch03-p0200": {
+    "speaker": "Student"
+  },
+  "ch03-p0202": {
+    "speaker": "Student"
+  },
+  "ch03-p0203": {
+    "speaker": "Student"
+  },
+  "ch03-p0205": {
+    "speaker": "Norn"
+  },
+  "ch03-p0213": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0215": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0217": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0219": {
+    "speaker": "Norn"
+  },
+  "ch03-p0222": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0225": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0228": {
+    "speaker": "Wraith",
+    "note": "The Wraith's death cry."
+  },
+  "ch03-p0230": {
+    "speaker": "Student"
+  },
+  "ch03-p0231": {
+    "speaker": "Student"
+  },
+  "ch03-p0233": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0234": {
+    "speaker": "Norn"
+  },
+  "ch03-p0236": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's sigh of relief is embedded in the narration."
+  },
+  "ch03-p0237": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's thanks is embedded in the narration."
+  },
+  "ch03-p0238": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0239": {
+    "speaker": "Norn"
+  },
+  "ch03-p0240": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's answer is embedded in the narration."
+  },
+  "ch03-p0242": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0243": {
+    "speaker": "Norn"
+  },
+  "ch03-p0244": {
+    "speaker": "Student"
+  },
+  "ch03-p0246": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0247": {
+    "speaker": "Norn"
+  },
+  "ch03-p0260": {
+    "speaker": "Norn"
+  },
+  "ch03-p0261": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0262": {
+    "speaker": "Norn"
+  },
+  "ch03-p0263": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0264": {
+    "speaker": "Norn"
+  },
+  "ch03-p0266": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0267": {
+    "speaker": "Norn"
+  },
+  "ch03-p0268": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0269": {
+    "speaker": "Norn"
+  },
+  "ch03-p0270": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's self-encouragement is embedded in the narration."
+  },
+  "ch03-p0271": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0272": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0273": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's blank reply is embedded in the narration."
+  },
+  "ch03-p0274": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0275": {
+    "speaker": "Norn"
+  },
+  "ch03-p0276": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0277": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's answer is embedded in the narration."
+  },
+  "ch03-p0280": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0281": {
+    "speaker": "Norn"
+  },
+  "ch03-p0283": {
+    "speaker": "Beastman",
+    "mixed": true,
+    "note": "The beastman's shout is embedded in the narration."
+  },
+  "ch03-p0284": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0285": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0286": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0287": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0288": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0289": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's remark is embedded in the narration."
+  },
+  "ch03-p0290": {
+    "speaker": "Norn"
+  },
+  "ch03-p0291": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0292": {
+    "speaker": "Norn"
+  },
+  "ch03-p0293": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0294": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0295": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0296": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0299": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0300": {
+    "speaker": "Student"
+  },
+  "ch03-p0301": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0302": {
+    "speaker": "Beastman"
+  },
+  "ch03-p0303": {
+    "speaker": "Sheila"
+  },
+  "ch03-p0304": {
+    "speaker": "Student"
+  },
+  "ch03-p0305": {
+    "speaker": "Student"
+  },
+  "ch03-p0309": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0310": {
+    "speaker": "Student"
+  },
+  "ch03-p0312": {
+    "speaker": "Norn"
+  },
+  "ch03-p0313": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0315": {
+    "speaker": "Norn"
+  },
+  "ch03-p0316": {
+    "speaker": "Norn"
+  },
+  "ch03-p0317": {
+    "speaker": "Norn"
+  },
+  "ch03-p0318": {
+    "speaker": "Cliff",
+    "mixed": true,
+    "note": "Cliff's question is embedded in the narration."
+  },
+  "ch03-p0319": {
+    "speaker": "Norn"
+  },
+  "ch03-p0320": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0322": {
+    "speaker": "Norn"
+  },
+  "ch03-p0333": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0334": {
+    "speaker": "Norn"
+  },
+  "ch03-p0335": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0336": {
+    "speaker": "Norn",
+    "mixed": true,
+    "note": "Norn's answer is embedded in the narration."
+  },
+  "ch03-p0340": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0341": {
+    "speaker": "Student",
+    "mixed": true,
+    "note": "The student council members bow and say \"Congratulations\" together."
+  },
+  "ch03-p0342": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0344": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0349": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0351": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0352": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0354": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0355": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0356": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0358": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0363": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0364": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0365": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0366": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0368": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0369": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0371": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0372": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0373": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0374": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0375": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0376": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0377": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0379": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0380": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0381": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0382": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0384": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0385": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0386": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0388": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0389": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0390": {
+    "speaker": "Elinalise",
+    "mixed": true,
+    "note": "Elinalise's interruption is embedded in the narration."
+  },
+  "ch03-p0392": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0394": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0395": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0396": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0398": {
+    "speaker": "Clive",
+    "note": "The baby Clive's crying."
+  },
+  "ch03-p0400": {
+    "speaker": "Elinalise"
+  },
+  "ch03-p0401": {
+    "speaker": "Cliff"
+  },
+  "ch03-p0403": {
+    "speaker": "Elinalise"
+  }
+}

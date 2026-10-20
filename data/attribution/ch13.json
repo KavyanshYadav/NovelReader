@@ -1,0 +1,363 @@
+{
+  "ch13-p0007": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0008": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0009": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0010": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0015": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0016": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0017": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0022": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0025": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0026": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0027": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0030": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0031": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0032": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0035": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch13-p0036": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0037": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0039": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0041": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0043": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0045": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0048": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0050": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0051": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0058": {
+    "speaker": "Eris",
+    "note": "Irritated vocalization."
+  },
+  "ch13-p0061": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0062": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0065": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0066": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0067": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0069": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0070": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0071": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0074": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0076": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0079": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0080": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0082": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0084": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0085": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch13-p0086": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0087": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0088": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0090": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0091": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0092": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0093": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0095": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0096": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0101": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch13-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0103": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0105": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0109": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0110": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0111": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0112": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0114": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0116": {
+    "type": "thought",
+    "speaker": "Rudeus",
+    "note": "Internal observation; the quoted words are Eris's glare, not speech."
+  },
+  "ch13-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0119": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0121": {
+    "speaker": "Orsted",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch13-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0124": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0125": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0127": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0128": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0129": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0130": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0131": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch13-p0132": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0133": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0135": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0136": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0139": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0140": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0142": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0146": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0150": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0151": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0152": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0154": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0155": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0157": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0158": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0162": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0163": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch13-p0164": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0167": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch13-p0170": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0172": {
+    "speaker": "Orsted",
+    "mixed": true
+  },
+  "ch13-p0173": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0174": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0175": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0176": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0178": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0179": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0180": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0181": {
+    "speaker": "Orsted"
+  },
+  "ch13-p0182": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0192": {
+    "speaker": "Eris"
+  },
+  "ch13-p0194": {
+    "speaker": "Eris"
+  },
+  "ch13-p0196": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0197": {
+    "speaker": "Eris"
+  },
+  "ch13-p0198": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0201": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch13-p0202": {
+    "speaker": "Rudeus"
+  },
+  "ch13-p0206": {
+    "speaker": "Eris",
+    "mixed": true
+  }
+}

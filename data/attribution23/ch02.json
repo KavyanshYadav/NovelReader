@@ -1,0 +1,229 @@
+{
+  "ch02-p0008": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0012": {
+    "speaker": "Orsted"
+  },
+  "ch02-p0013": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0015": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0016": {
+    "speaker": "Orsted"
+  },
+  "ch02-p0019": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0021": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0022": {
+    "speaker": "Orsted"
+  },
+  "ch02-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0024": {
+    "speaker": "Orsted"
+  },
+  "ch02-p0025": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0026": {
+    "speaker": "Orsted"
+  },
+  "ch02-p0028": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0029": {
+    "speaker": "Orsted"
+  },
+  "ch02-p0030": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0031": {
+    "speaker": "Orsted"
+  },
+  "ch02-p0033": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0034": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0036": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0037": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0039": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0052": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0055": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch02-p0057": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0058": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0061": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0062": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0063": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0066": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0067": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0070": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0072": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0075": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0102": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0103": {
+    "speaker": "Aisha",
+    "confidence": "medium",
+    "note": "Farewell at the door; read as Aisha from the brisk \"Gotcha!\" and the three-way goodbye."
+  },
+  "ch02-p0104": {
+    "speaker": "Lilia",
+    "confidence": "medium",
+    "note": "Farewell at the door; read as Lilia from the maternal \"Take care, now.\""
+  },
+  "ch02-p0105": {
+    "speaker": "Lucie",
+    "confidence": "medium",
+    "note": "Farewell at the door; read as Lucie, the hesitant child who was holding Aisha's hand."
+  },
+  "ch02-p0116": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0119": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch02-p0121": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0123": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0125": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0126": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch02-p0127": {
+    "speaker": "Sylphiette",
+    "confidence": "medium",
+    "note": "Short squeal as the elevator starts; read as Sylphiette, who is uneasy about heights."
+  },
+  "ch02-p0129": {
+    "speaker": "Roxy"
+  },
+  "ch02-p0134": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0135": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0136": {
+    "speaker": "Eris"
+  },
+  "ch02-p0148": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0149": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch02-p0150": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0151": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0158": {
+    "speaker": "Sieg",
+    "note": "Sieg's cry after biting Rudeus's finger; a vocalization rather than speech."
+  },
+  "ch02-p0161": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0163": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch02-p0164": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0168": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0169": {
+    "speaker": "Sylphiette"
+  },
+  "ch02-p0170": {
+    "speaker": "Eris",
+    "confidence": "medium",
+    "note": "Remark on Sieg's grip strength; read as Eris from the swordsmanship turn that follows."
+  },
+  "ch02-p0171": {
+    "speaker": "Rudeus"
+  },
+  "ch02-p0174": {
+    "speaker": "Eris"
+  },
+  "ch02-p0176": {
+    "speaker": "Sylphiette",
+    "mixed": true
+  },
+  "ch02-p0178": {
+    "speaker": "Eris",
+    "mixed": true
+  },
+  "ch02-p0180": {
+    "speaker": "Rudeus",
+    "type": "narration",
+    "note": "Rudeus's aside about teaching styles; the quoted 'Do you understand?' is Ruijerd's stock line, not live speech."
+  },
+  "ch02-p0182": {
+    "speaker": "Roxy",
+    "mixed": true
+  },
+  "ch02-p0184": {
+    "speaker": "Rudeus",
+    "mixed": true
+  }
+}

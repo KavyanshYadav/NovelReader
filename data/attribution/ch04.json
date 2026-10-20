@@ -1,0 +1,540 @@
+{
+  "ch04-p0002": {
+    "type": "quotation",
+    "speaker": null,
+    "quoteSource": "Future Rudeus",
+    "note": "Recalled advice, not spoken in the scene."
+  },
+  "ch04-p0020": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0021": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0023": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0024": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0026": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch04-p0027": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch04-p0028": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0029": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0030": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0035": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0036": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0037": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0038": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0039": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0040": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0041": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0042": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0043": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0044": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0045": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0046": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch04-p0047": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0048": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0049": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0050": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0051": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0052": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0054": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0055": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0056": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0057": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0058": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0062": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0063": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0064": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0067": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0068": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch04-p0069": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0070": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0071": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0073": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0074": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0075": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch04-p0076": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0077": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0078": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0079": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0081": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0082": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0083": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0097": {
+    "speaker": "Sylphiette",
+    "note": "Sleep talk."
+  },
+  "ch04-p0100": {
+    "speaker": "Arumanfi"
+  },
+  "ch04-p0101": {
+    "speaker": "Rudeus",
+    "note": "Startled exclamation."
+  },
+  "ch04-p0102": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch04-p0103": {
+    "speaker": "Arumanfi"
+  },
+  "ch04-p0104": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0105": {
+    "speaker": "Arumanfi"
+  },
+  "ch04-p0106": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0112": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0113": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0114": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0115": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0116": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0118": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0119": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0120": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0121": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0122": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0123": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0125": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0129": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0130": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0131": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0132": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0133": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0134": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0136": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0137": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0138": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0139": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0140": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0141": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch04-p0142": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0143": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0144": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0145": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0147": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0148": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0149": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0151": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0153": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0154": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0155": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0156": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0157": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0159": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0161": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0163": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0164": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0165": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0166": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0169": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0170": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0171": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch04-p0172": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0173": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0174": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0175": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0178": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0180": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0183": {
+    "type": "thought",
+    "speaker": "Rudeus",
+    "note": "Internal recollection with an embedded quote from Sauros."
+  },
+  "ch04-p0184": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0185": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0186": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0190": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0191": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0192": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0193": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0194": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0195": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0196": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0197": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0198": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0200": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0201": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0203": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0204": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0205": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0213": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0214": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0215": {
+    "speaker": "Rudeus",
+    "mixed": true,
+    "embeddedDialogue": true
+  },
+  "ch04-p0216": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0217": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0218": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0219": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0220": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch04-p0221": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0222": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0223": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0226": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0227": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0228": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0229": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0230": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0231": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0232": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0233": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0234": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0235": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0236": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0238": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0239": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0240": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0241": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0242": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0244": {
+    "speaker": "Rudeus",
+    "mixed": true
+  },
+  "ch04-p0248": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0249": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0250": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0251": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0254": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0256": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0258": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0260": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0263": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0265": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0266": {
+    "speaker": "Nanahoshi"
+  },
+  "ch04-p0267": {
+    "speaker": "Rudeus"
+  },
+  "ch04-p0268": {
+    "speaker": "Nanahoshi",
+    "mixed": true
+  },
+  "ch04-p0271": {
+    "speaker": "Rudeus"
+  }
+}
