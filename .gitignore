@@ -1,6 +1,9 @@
 # Build output
 dist/
 
+# Vercel
+.vercel/
+
 # Python
 __pycache__/
 *.py[cod]
