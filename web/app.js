@@ -148,67 +148,15 @@
       const script = document.createElement("script");
       script.src = entry.file;
       script.onload = () => {
-        script.remove();
-        store[number]
-          ? resolve(store[number])
-          : reject(new Error(`Volume ${number} loaded without metadata`));
+        if (store[number]) {
+          resolve(store[number]);
+        } else {
+          reject(new Error(`Volume ${number} loaded without data`));
+        }
       };
-      script.onerror = () => {
-        script.remove();
-        reject(new Error(`Could not load ${entry.file}`));
-      };
+      script.onerror = () => reject(new Error(`Could not load ${entry.file}`));
       document.head.appendChild(script);
     });
-  }
-
-  const CONTENT_KEY_HEX = "5f907a1d7ff6e8cc7a20c9200a7b043ff8bdcc525431298eedb011179dc0d579";
-  let contentKeyPromise = null;
-  const chapterLoads = new Map();
-
-  function contentKey() {
-    if (!contentKeyPromise) {
-      const bytes = Uint8Array.from(CONTENT_KEY_HEX.match(/.{2}/g), (byte) => parseInt(byte, 16));
-      contentKeyPromise = crypto.subtle.importKey("raw", bytes, "AES-GCM", false, ["decrypt"]);
-    }
-    return contentKeyPromise;
-  }
-
-  function loadChapter(chapter) {
-    if (chapter._loaded) return Promise.resolve(chapter);
-    if (chapterLoads.has(chapter.chunk)) return chapterLoads.get(chapter.chunk);
-    const key = `${data.meta.volume}/${chapter.id}`;
-    const payload = window.MUSOKU_ENCRYPTED_CHUNKS && window.MUSOKU_ENCRYPTED_CHUNKS[key];
-    const payloadPromise = payload ? Promise.resolve(payload) : new Promise((resolve, reject) => {
-      const script = document.createElement("script");
-      script.src = chapter.chunk;
-      script.onload = () => {
-        script.remove();
-        const chunk = window.MUSOKU_ENCRYPTED_CHUNKS && window.MUSOKU_ENCRYPTED_CHUNKS[key];
-        if (chunk) resolve(chunk);
-        else reject(new Error(`Chapter chunk loaded without payload: ${chapter.chunk}`));
-      };
-      script.onerror = () => {
-        script.remove();
-        reject(new Error(`Could not load ${chapter.chunk}`));
-      };
-      document.head.appendChild(script);
-    });
-    const task = payloadPromise
-      .then(async (payloadData) => {
-        const iv = Uint8Array.from(atob(payloadData.iv), (character) => character.charCodeAt(0));
-        const ciphertext = Uint8Array.from(atob(payloadData.data), (character) => character.charCodeAt(0));
-        const plaintext = await crypto.subtle.decrypt({ name: "AES-GCM", iv }, await contentKey(), ciphertext);
-        const complete = JSON.parse(new TextDecoder().decode(plaintext));
-        if (window.MUSOKU_ENCRYPTED_CHUNKS) delete window.MUSOKU_ENCRYPTED_CHUNKS[key];
-        Object.assign(chapter, complete, { chunk: chapter.chunk, _loaded: true });
-        return chapter;
-      })
-      .catch((error) => {
-        chapterLoads.delete(chapter.chunk);
-        throw error;
-      });
-    chapterLoads.set(chapter.chunk, task);
-    return task;
   }
 
   const SPEAKER_HUES = {
@@ -515,25 +463,17 @@
     return `<div class="chapter-art${images.length > 1 ? " chapter-art--multi" : ""}">${figures}</div>`;
   }
 
-  function renderScenePlaceholder(scene) {
-    return `<section class="scene scene--loading" id="${escapeHtml(scene.id)}" data-scene-id="${escapeHtml(scene.id)}" aria-label="Loading scene">
-      <div class="chapter-skeleton" aria-hidden="true"><span></span><span></span><span></span></div>
-    </section>`;
-  }
-
   function renderChapter(chapter) {
     const title = chapterTitle(chapter);
     const headingId = `${chapter.id}-title`;
-    const scenes = chapter._loaded
-      ? chapter.scenes.map(renderScene).join("")
-      : chapter.scenes.map(renderScenePlaceholder).join("");
+    const scenes = chapter.scenes.map(renderScene).join("");
 
     return `
       <section class="chapter" id="${escapeHtml(chapter.id)}" data-chapter-id="${escapeHtml(chapter.id)}" aria-labelledby="${headingId}">
         <header class="chapter-header" data-number="${chapterNumber(chapter)}">
+          <p class="chapter-kicker">${chapterKicker(chapter)}</p>
           <h2 id="${headingId}">${escapeHtml(title)}</h2>
           <div class="chapter-meta">
-            <span class="chapter-sequence">${chapterKicker(chapter)}</span>
             <span class="meta-pill">POV ${escapeHtml(chapter.pov)}</span>
             <span>${formatNumber(chapter.wordCount)} words</span>
             <span>${chapter.sceneCount} ${chapter.sceneCount === 1 ? "scene" : "scenes"}</span>
@@ -651,85 +591,7 @@
     );
     currentSceneIndex = 0;
     lastSavedChapterId = null;
-    observeChapterChunks();
     updateScrollUi();
-  }
-
-  let chapterObserver = null;
-
-  function observeChapterChunks() {
-    if (chapterObserver) chapterObserver.disconnect();
-    const observedVolume = data;
-    if (!("IntersectionObserver" in window)) {
-      data.chapters.forEach((chapter) => loadChapter(chapter).then(() => {
-        const section = document.getElementById(chapter.id);
-        if (section && data.meta.volume === activeVolume) section.innerHTML = renderChapterContent(chapter);
-      }).catch(() => showChapterLoadError(chapter, document.getElementById(chapter.id))));
-      return;
-    }
-    chapterObserver = new IntersectionObserver((entries) => {
-      if (data !== observedVolume) return;
-      entries.forEach((entry) => {
-        if (!entry.isIntersecting) return;
-        const chapter = data.chapters.find((item) => item.id === entry.target.dataset.chapterId);
-        if (!chapter) return;
-        chapterObserver.unobserve(entry.target);
-        loadChapter(chapter)
-          .then(() => {
-            const section = document.getElementById(chapter.id);
-            if (section && data.meta.volume === activeVolume) section.innerHTML = renderChapterContent(chapter);
-          })
-          .catch(() => {
-            const section = document.getElementById(chapter.id);
-            showChapterLoadError(chapter, section);
-          });
-      });
-    }, { rootMargin: "1200px 0px" });
-    chapterSections.forEach((section) => {
-      const chapter = data.chapters.find((item) => item.id === section.dataset.chapterId);
-      if (chapter && !chapter._loaded) chapterObserver.observe(section);
-    });
-  }
-
-  function renderChapterContent(chapter) {
-    const title = chapterTitle(chapter);
-    const headingId = `${chapter.id}-title`;
-    const scenes = chapter.scenes.map(renderScene).join("");
-    return `<header class="chapter-header" data-number="${chapterNumber(chapter)}">
-      <h2 id="${headingId}">${escapeHtml(title)}</h2>
-      <div class="chapter-meta"><span class="chapter-sequence">${chapterKicker(chapter)}</span><span class="meta-pill">POV ${escapeHtml(chapter.pov)}</span><span>${formatNumber(chapter.wordCount)} words</span><span>${chapter.sceneCount} ${chapter.sceneCount === 1 ? "scene" : "scenes"}</span></div>
-    </header>${renderChapterArt(chapter)}${scenes}`;
-  }
-
-  function showChapterLoadError(chapter, section) {
-    if (!section) return;
-    section.classList.add("chapter--load-error");
-    section.querySelector(".chapter-load-error")?.remove();
-    const notice = document.createElement("div");
-    notice.className = "chapter-load-error";
-    notice.setAttribute("role", "alert");
-    notice.innerHTML = `<span>This chapter couldn’t load.</span><button class="button button--quiet" type="button" data-chapter-retry="${escapeHtml(chapter.id)}">Try again</button>`;
-    section.appendChild(notice);
-  }
-
-  function retryChapter(chapter, button) {
-    const volumeAtStart = data;
-    button.disabled = true;
-    button.textContent = "Loading…";
-    loadChapter(chapter)
-      .then(() => {
-        if (data !== volumeAtStart) return;
-        const section = document.getElementById(chapter.id);
-        if (section) {
-          section.classList.remove("chapter--load-error");
-          section.innerHTML = renderChapterContent(chapter);
-        }
-      })
-      .catch(() => {
-        if (data !== volumeAtStart) return;
-        button.disabled = false;
-        button.textContent = "Try again";
-      });
   }
 
   function volumeFromUrl() {
@@ -769,6 +631,10 @@
     if (settingsOpen) closeSettings();
     if (data) saveCurrentScroll();
 
+    const targetScroll =
+      Number(storage.get(volumeStorageKey("scroll", number))) ||
+      (number === 15 ? Number(storage.get("mt15:scroll")) || 0 : 0);
+
     loadVolumeData(number)
       .then((volumeData) => {
         data = volumeData;
@@ -777,7 +643,15 @@
         closeNav();
         updateUrlForVolume(number);
         renderCurrentVolume();
-        restoreReadingPosition(number, `Opened Volume ${number} where you left off.`);
+        jumpTo(targetScroll > 240 ? targetScroll : 0);
+        updateScrollUi();
+        if (targetScroll > 240) {
+          showToast(
+            `Opened Volume ${number} where you left off.`,
+            "Start over",
+            () => jumpTo(0)
+          );
+        }
         finish();
       })
       .catch(() => {
@@ -792,13 +666,6 @@
       if (button) switchVolume(Number(button.dataset.volume));
     });
   }
-
-  chaptersRoot.addEventListener("click", (event) => {
-    const button = event.target.closest("[data-chapter-retry]");
-    if (!button) return;
-    const chapter = data.chapters.find((item) => item.id === button.dataset.chapterRetry);
-    if (chapter) retryChapter(chapter, button);
-  });
 
   // ---------------------------------------------------------------------
   // Reading preferences
@@ -983,26 +850,11 @@
     });
   }
 
-  async function showFocusScene(index) {
+  function showFocusScene(index) {
     if (!sceneItems.length) return;
 
     currentSceneIndex = Math.max(0, Math.min(sceneItems.length - 1, index));
     const item = sceneItems[currentSceneIndex];
-    if (!item.chapter._loaded) {
-      focusMain.innerHTML = '<div class="focus-load-pending" role="status"><span>Loading scene…</span><div class="chapter-skeleton" aria-hidden="true"><span></span><span></span><span></span></div></div>';
-      try {
-        await loadChapter(item.chapter);
-      } catch {
-        focusMain.innerHTML = '<div class="focus-load-error" role="alert"><p>This scene couldn’t load.</p><button class="button button--quiet" type="button" data-focus-retry>Try again</button></div>';
-        return;
-      }
-      if (currentSceneIndex !== item.globalIndex) return;
-      item.scene = item.chapter.scenes[item.sceneIndex];
-      const chapterSection = document.getElementById(item.chapter.id);
-      if (chapterSection) chapterSection.innerHTML = renderChapterContent(item.chapter);
-    } else {
-      item.scene = item.chapter.scenes[item.sceneIndex];
-    }
 
     focusChapterKicker.textContent = `${chapterKicker(item.chapter)} · Scene ${item.sceneIndex + 1} of ${item.sceneCount}`;
     focusChapterTitle.textContent = chapterTitle(item.chapter);
@@ -1238,10 +1090,6 @@
   focusReader.addEventListener("keydown", trapFocus);
 
   focusMain.addEventListener("click", (event) => {
-    if (event.target.closest("[data-focus-retry]")) {
-      showFocusScene(currentSceneIndex);
-      return;
-    }
     if (event.target.closest(".focus-next-inline")) {
       showFocusScene(currentSceneIndex + 1);
       focusMain.focus({ preventScroll: true });
@@ -1565,18 +1413,6 @@
       volumeStorageKey("scroll"),
       String(Math.max(0, Math.round(window.scrollY)))
     );
-    const marker = window.scrollY + Math.min(160, window.innerHeight * 0.22);
-    let active = null;
-    chapterSections.forEach((section) => {
-      if (section.getBoundingClientRect().top + window.scrollY <= marker) active = section;
-    });
-    if (active) {
-      storage.set(volumeStorageKey("chapter-id"), active.dataset.chapterId);
-      storage.set(
-        volumeStorageKey("chapter-offset"),
-        String(Math.max(0, Math.round(window.scrollY - (active.getBoundingClientRect().top + window.scrollY))))
-      );
-    }
   }
 
   function updateScrollUi() {
@@ -1814,7 +1650,7 @@
   // Render and restore
   // ---------------------------------------------------------------------
 
-  function restoreReadingPosition(volume, resumeMessage = "Returned to where you left off.") {
+  function restoreReadingPosition(volume) {
     const savedScroll =
       Number(storage.get(volumeStorageKey("scroll"))) ||
       (volume === 15 ? Number(storage.get("mt15:scroll")) || 0 : 0);
@@ -1823,40 +1659,25 @@
     if (hasHash) {
       const target = document.querySelector(window.location.hash);
       if (target) {
-        const chapter = data.chapters.find((item) => item.id === target.dataset.chapterId);
-        const ready = chapter ? loadChapter(chapter).catch(() => null) : Promise.resolve();
-        ready.then(() => window.requestAnimationFrame(() => {
-          const scrollOffset = parseFloat(getComputedStyle(root).scrollPaddingTop) || 82;
-          const targetTop = target.getBoundingClientRect().top + window.scrollY - scrollOffset;
+        window.requestAnimationFrame(() => {
+          const targetTop =
+            target.getBoundingClientRect().top + window.scrollY - 82;
           jumpTo(targetTop);
           updateScrollUi();
-        }));
+        });
       }
       return;
     }
 
-    if (savedScroll <= 240) {
-      jumpTo(0);
-      updateScrollUi();
-      return;
-    }
-
-    const savedChapterId = storage.get(volumeStorageKey("chapter-id"));
-    const chapter = data.chapters.find((item) => item.id === savedChapterId);
-    const savedOffset = Number(storage.get(volumeStorageKey("chapter-offset"))) || 0;
-    const ready = chapter ? loadChapter(chapter).catch(() => null) : Promise.resolve();
-    ready.then(() => window.requestAnimationFrame(() => {
-      const section = chapter && document.getElementById(chapter.id);
-      if (section) {
-        jumpTo(section.getBoundingClientRect().top + window.scrollY + savedOffset);
-      } else {
+    if (savedScroll > 240) {
+      window.requestAnimationFrame(() => {
         jumpTo(savedScroll);
-      }
-      updateScrollUi();
-      showToast(resumeMessage, "Start over", () => {
-        window.scrollTo({ top: 0, behavior: reducedMotion ? "auto" : "smooth" });
+        updateScrollUi();
+        showToast("Returned to where you left off.", "Start over", () => {
+          window.scrollTo({ top: 0, behavior: reducedMotion ? "auto" : "smooth" });
+        });
       });
-    }));
+    }
   }
 
   const storedVolume = Number(storage.get("mt15:last-volume"));
@@ -1882,6 +1703,6 @@
     .catch(() => {
       reader.classList.remove("is-loading");
       reader.innerHTML =
-        '<p class="load-error">The volume data could not be loaded. Make sure <code>data.js</code> and the <code>encrypted</code> folder are next to <code>reader.html</code>.</p>';
+        '<p class="load-error">The volume data could not be loaded. Make sure <code>data.js</code> and the <code>volumes</code> folder are next to <code>index.html</code>.</p>';
     });
 })();
