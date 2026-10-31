@@ -1,0 +1,4353 @@
+{
+ "volume": 16,
+ "chapter": "ch02",
+ "title": "Guardian Beast",
+ "pov": "Rudeus",
+ "dataset": "/home/aufvim/projects/mushokuTensei/character_voices_eng",
+ "blocks": [
+  {
+   "id": "ch02-p0002",
+   "scene": "ch02-s01",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    0
+   ]
+  },
+  {
+   "id": "ch02-p0003",
+   "scene": "ch02-s01",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    1
+   ]
+  },
+  {
+   "id": "ch02-p0004",
+   "scene": "ch02-s01",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    2
+   ]
+  },
+  {
+   "id": "ch02-p0008",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    3
+   ]
+  },
+  {
+   "id": "ch02-p0009",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    4
+   ]
+  },
+  {
+   "id": "ch02-p0010",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Crowd",
+   "segments": [
+    5
+   ]
+  },
+  {
+   "id": "ch02-p0011",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    6
+   ]
+  },
+  {
+   "id": "ch02-p0012",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    7
+   ]
+  },
+  {
+   "id": "ch02-p0013",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    8
+   ]
+  },
+  {
+   "id": "ch02-p0014",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Sylphiette",
+   "segments": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "ch02-p0015",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    11
+   ]
+  },
+  {
+   "id": "ch02-p0016",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    12
+   ]
+  },
+  {
+   "id": "ch02-p0017",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    13
+   ]
+  },
+  {
+   "id": "ch02-p0018",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Sylphiette",
+   "segments": [
+    14
+   ]
+  },
+  {
+   "id": "ch02-p0019",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    15
+   ]
+  },
+  {
+   "id": "ch02-p0020",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    16,
+    17
+   ]
+  },
+  {
+   "id": "ch02-p0021",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    18
+   ]
+  },
+  {
+   "id": "ch02-p0022",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    19
+   ]
+  },
+  {
+   "id": "ch02-p0023",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Eris",
+   "segments": [
+    20,
+    21
+   ]
+  },
+  {
+   "id": "ch02-p0024",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    22
+   ]
+  },
+  {
+   "id": "ch02-p0025",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Eris",
+   "segments": [
+    23,
+    24
+   ]
+  },
+  {
+   "id": "ch02-p0026",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    25
+   ]
+  },
+  {
+   "id": "ch02-p0027",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    26
+   ]
+  },
+  {
+   "id": "ch02-p0028",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "id": "ch02-p0029",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    30
+   ]
+  },
+  {
+   "id": "ch02-p0030",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Roxy",
+   "segments": [
+    31,
+    32
+   ]
+  },
+  {
+   "id": "ch02-p0031",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    33
+   ]
+  },
+  {
+   "id": "ch02-p0032",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    34
+   ]
+  },
+  {
+   "id": "ch02-p0033",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    35
+   ]
+  },
+  {
+   "id": "ch02-p0034",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    36
+   ]
+  },
+  {
+   "id": "ch02-p0035",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    37,
+    38
+   ]
+  },
+  {
+   "id": "ch02-p0036",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Roxy",
+   "segments": [
+    39,
+    40
+   ]
+  },
+  {
+   "id": "ch02-p0037",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Norn",
+   "segments": [
+    41,
+    42
+   ]
+  },
+  {
+   "id": "ch02-p0038",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Aisha",
+   "segments": [
+    43,
+    44
+   ]
+  },
+  {
+   "id": "ch02-p0039",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    45
+   ]
+  },
+  {
+   "id": "ch02-p0040",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    46
+   ]
+  },
+  {
+   "id": "ch02-p0041",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Lilia",
+   "segments": [
+    47,
+    48
+   ]
+  },
+  {
+   "id": "ch02-p0042",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    49
+   ]
+  },
+  {
+   "id": "ch02-p0043",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    50
+   ]
+  },
+  {
+   "id": "ch02-p0044",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    51
+   ]
+  },
+  {
+   "id": "ch02-p0045",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    52,
+    53,
+    54
+   ]
+  },
+  {
+   "id": "ch02-p0046",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    55
+   ]
+  },
+  {
+   "id": "ch02-p0047",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    56
+   ]
+  },
+  {
+   "id": "ch02-p0048",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    57
+   ]
+  },
+  {
+   "id": "ch02-p0049",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    58
+   ]
+  },
+  {
+   "id": "ch02-p0050",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    59
+   ]
+  },
+  {
+   "id": "ch02-p0051",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    60
+   ]
+  },
+  {
+   "id": "ch02-p0052",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    61
+   ]
+  },
+  {
+   "id": "ch02-p0053",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    62
+   ]
+  },
+  {
+   "id": "ch02-p0054",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    63
+   ]
+  },
+  {
+   "id": "ch02-p0055",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    64
+   ]
+  },
+  {
+   "id": "ch02-p0056",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    65
+   ]
+  },
+  {
+   "id": "ch02-p0057",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    66
+   ]
+  },
+  {
+   "id": "ch02-p0058",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    67
+   ]
+  },
+  {
+   "id": "ch02-p0059",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    68
+   ]
+  },
+  {
+   "id": "ch02-p0060",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    69
+   ]
+  },
+  {
+   "id": "ch02-p0061",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    70
+   ]
+  },
+  {
+   "id": "ch02-p0062",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    71,
+    72
+   ]
+  },
+  {
+   "id": "ch02-p0063",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    73
+   ]
+  },
+  {
+   "id": "ch02-p0064",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    74
+   ]
+  },
+  {
+   "id": "ch02-p0065",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    75
+   ]
+  },
+  {
+   "id": "ch02-p0066",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    76
+   ]
+  },
+  {
+   "id": "ch02-p0067",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    77
+   ]
+  },
+  {
+   "id": "ch02-p0068",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    78,
+    79
+   ]
+  },
+  {
+   "id": "ch02-p0069",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    80
+   ]
+  },
+  {
+   "id": "ch02-p0070",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    81
+   ]
+  },
+  {
+   "id": "ch02-p0071",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    82
+   ]
+  },
+  {
+   "id": "ch02-p0072",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    83,
+    84
+   ]
+  },
+  {
+   "id": "ch02-p0073",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    85
+   ]
+  },
+  {
+   "id": "ch02-p0074",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    86
+   ]
+  },
+  {
+   "id": "ch02-p0075",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    87
+   ]
+  },
+  {
+   "id": "ch02-p0076",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    88
+   ]
+  },
+  {
+   "id": "ch02-p0077",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    89
+   ]
+  },
+  {
+   "id": "ch02-p0078",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    90
+   ]
+  },
+  {
+   "id": "ch02-p0079",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    91
+   ]
+  },
+  {
+   "id": "ch02-p0080",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    92,
+    93
+   ]
+  },
+  {
+   "id": "ch02-p0081",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    94
+   ]
+  },
+  {
+   "id": "ch02-p0082",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    95
+   ]
+  },
+  {
+   "id": "ch02-p0083",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    96
+   ]
+  },
+  {
+   "id": "ch02-p0084",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    97
+   ]
+  },
+  {
+   "id": "ch02-p0085",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    98,
+    99
+   ]
+  },
+  {
+   "id": "ch02-p0086",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    100
+   ]
+  },
+  {
+   "id": "ch02-p0087",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    101
+   ]
+  },
+  {
+   "id": "ch02-p0088",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    102
+   ]
+  },
+  {
+   "id": "ch02-p0089",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    103
+   ]
+  },
+  {
+   "id": "ch02-p0090",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    104
+   ]
+  },
+  {
+   "id": "ch02-p0091",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    105
+   ]
+  },
+  {
+   "id": "ch02-p0092",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    106
+   ]
+  },
+  {
+   "id": "ch02-p0093",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    107
+   ]
+  },
+  {
+   "id": "ch02-p0094",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    108
+   ]
+  },
+  {
+   "id": "ch02-p0095",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": "Rudeus",
+   "segments": [
+    109,
+    110
+   ]
+  },
+  {
+   "id": "ch02-p0096",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    111
+   ]
+  },
+  {
+   "id": "ch02-p0097",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    112
+   ]
+  },
+  {
+   "id": "ch02-p0098",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Arumanfi",
+   "segments": [
+    113
+   ]
+  },
+  {
+   "id": "ch02-p0099",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    114
+   ]
+  },
+  {
+   "id": "ch02-p0100",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    115
+   ]
+  },
+  {
+   "id": "ch02-p0101",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    116
+   ]
+  },
+  {
+   "id": "ch02-p0102",
+   "scene": "ch02-s02",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    117,
+    118
+   ]
+  },
+  {
+   "id": "ch02-p0103",
+   "scene": "ch02-s02",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    119
+   ]
+  },
+  {
+   "id": "ch02-p0107",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    120
+   ]
+  },
+  {
+   "id": "ch02-p0108",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    121
+   ]
+  },
+  {
+   "id": "ch02-p0109",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    122
+   ]
+  },
+  {
+   "id": "ch02-p0110",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    123
+   ]
+  },
+  {
+   "id": "ch02-p0111",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    124
+   ]
+  },
+  {
+   "id": "ch02-p0112",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    125
+   ]
+  },
+  {
+   "id": "ch02-p0113",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    126
+   ]
+  },
+  {
+   "id": "ch02-p0114",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    127
+   ]
+  },
+  {
+   "id": "ch02-p0115",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    128
+   ]
+  },
+  {
+   "id": "ch02-p0116",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    129
+   ]
+  },
+  {
+   "id": "ch02-p0117",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    130
+   ]
+  },
+  {
+   "id": "ch02-p0118",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    131
+   ]
+  },
+  {
+   "id": "ch02-p0119",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    132
+   ]
+  },
+  {
+   "id": "ch02-p0120",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    133,
+    134
+   ]
+  },
+  {
+   "id": "ch02-p0121",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    135
+   ]
+  },
+  {
+   "id": "ch02-p0122",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Leo",
+   "segments": [
+    136
+   ]
+  },
+  {
+   "id": "ch02-p0123",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    137
+   ]
+  },
+  {
+   "id": "ch02-p0124",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    138
+   ]
+  },
+  {
+   "id": "ch02-p0125",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    139
+   ]
+  },
+  {
+   "id": "ch02-p0126",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    140
+   ]
+  },
+  {
+   "id": "ch02-p0127",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    141
+   ]
+  },
+  {
+   "id": "ch02-p0128",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    142
+   ]
+  },
+  {
+   "id": "ch02-p0129",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Aisha",
+   "segments": [
+    143,
+    144
+   ]
+  },
+  {
+   "id": "ch02-p0130",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Norn",
+   "segments": [
+    145,
+    146
+   ]
+  },
+  {
+   "id": "ch02-p0131",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Sylphiette",
+   "segments": [
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "id": "ch02-p0132",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Roxy",
+   "segments": [
+    150,
+    151
+   ]
+  },
+  {
+   "id": "ch02-p0133",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    152
+   ]
+  },
+  {
+   "id": "ch02-p0134",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Lilia",
+   "segments": [
+    153,
+    154
+   ]
+  },
+  {
+   "id": "ch02-p0135",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    155
+   ]
+  },
+  {
+   "id": "ch02-p0136",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    156
+   ]
+  },
+  {
+   "id": "ch02-p0137",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    157
+   ]
+  },
+  {
+   "id": "ch02-p0138",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Eris",
+   "segments": [
+    158,
+    159,
+    160
+   ]
+  },
+  {
+   "id": "ch02-p0139",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    161
+   ]
+  },
+  {
+   "id": "ch02-p0140",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    162,
+    163
+   ]
+  },
+  {
+   "id": "ch02-p0141",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Leo",
+   "segments": [
+    164,
+    165
+   ]
+  },
+  {
+   "id": "ch02-p0142",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    166
+   ]
+  },
+  {
+   "id": "ch02-p0143",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    167
+   ]
+  },
+  {
+   "id": "ch02-p0144",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    168
+   ]
+  },
+  {
+   "id": "ch02-p0145",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    169
+   ]
+  },
+  {
+   "id": "ch02-p0146",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    170
+   ]
+  },
+  {
+   "id": "ch02-p0147",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    171
+   ]
+  },
+  {
+   "id": "ch02-p0148",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    172
+   ]
+  },
+  {
+   "id": "ch02-p0149",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    173
+   ]
+  },
+  {
+   "id": "ch02-p0150",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    174,
+    175
+   ]
+  },
+  {
+   "id": "ch02-p0151",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Leo",
+   "segments": [
+    176
+   ]
+  },
+  {
+   "id": "ch02-p0152",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "id": "ch02-p0153",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Leo",
+   "segments": [
+    180
+   ]
+  },
+  {
+   "id": "ch02-p0154",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    181
+   ]
+  },
+  {
+   "id": "ch02-p0155",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    182
+   ]
+  },
+  {
+   "id": "ch02-p0156",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    183
+   ]
+  },
+  {
+   "id": "ch02-p0157",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    184
+   ]
+  },
+  {
+   "id": "ch02-p0158",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    185
+   ]
+  },
+  {
+   "id": "ch02-p0159",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    186
+   ]
+  },
+  {
+   "id": "ch02-p0160",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    187
+   ]
+  },
+  {
+   "id": "ch02-p0161",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    188,
+    189
+   ]
+  },
+  {
+   "id": "ch02-p0162",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    190
+   ]
+  },
+  {
+   "id": "ch02-p0163",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Roxy",
+   "segments": [
+    191,
+    192
+   ]
+  },
+  {
+   "id": "ch02-p0164",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    193
+   ]
+  },
+  {
+   "id": "ch02-p0165",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Roxy",
+   "segments": [
+    194,
+    195
+   ]
+  },
+  {
+   "id": "ch02-p0166",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    196
+   ]
+  },
+  {
+   "id": "ch02-p0167",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    197,
+    198,
+    199
+   ]
+  },
+  {
+   "id": "ch02-p0168",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Leo",
+   "segments": [
+    200,
+    201
+   ]
+  },
+  {
+   "id": "ch02-p0169",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    202
+   ]
+  },
+  {
+   "id": "ch02-p0170",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    203
+   ]
+  },
+  {
+   "id": "ch02-p0171",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    204
+   ]
+  },
+  {
+   "id": "ch02-p0172",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Leo",
+   "segments": [
+    205
+   ]
+  },
+  {
+   "id": "ch02-p0173",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    206
+   ]
+  },
+  {
+   "id": "ch02-p0174",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    207
+   ]
+  },
+  {
+   "id": "ch02-p0175",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Leo",
+   "segments": [
+    208,
+    209
+   ]
+  },
+  {
+   "id": "ch02-p0176",
+   "scene": "ch02-s03",
+   "type": "speech",
+   "speaker": "Rudeus",
+   "segments": [
+    210,
+    211
+   ]
+  },
+  {
+   "id": "ch02-p0177",
+   "scene": "ch02-s03",
+   "type": "narration",
+   "speaker": null,
+   "segments": [
+    212
+   ]
+  }
+ ],
+ "segments": [
+  {
+   "id": "ch02-p0002-s01",
+   "blockId": "ch02-p0002",
+   "scene": "ch02-s01",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "WE HAD A MONTH until Asura Kingdom sent word that its king had fallen ill. In that time, I had to work with Ariel to convince Perugius to join her side. To that end, I needed to pump Sylphie for all the details I could. But she probably had her guard up thanks to Orsted’s curse, so I might not be able to persuade her to bring me into Ariel’s plans. I was torn about whether to trust her and tell her the whole truth, or to give up fighting Orsted’s curse and avoid mentioning him altogether.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0003-s01",
+   "blockId": "ch02-p0003",
+   "scene": "ch02-s01",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "But first, I had another objective to complete. Namely, the very reason why I’d agreed to work under Orsted to begin with—so I could protect my family. Now that I was his little errand boy, I’d be away from home more often. I needed someone—or something—to take my place.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0004-s01",
+   "blockId": "ch02-p0004",
+   "scene": "ch02-s01",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Thus, my first order of business was summoning this Guardian Beast.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0008-s01",
+   "blockId": "ch02-p0008",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "It was still morning when I gathered all the members of my household in the garden. That included Aisha, Lilia, and Zenith, who normally spent all their time inside, as well as Eris, who had newly joined the family. Roxy and Norn were present too, as were Dillo and Byt. Sylphie carried Lucie, who had just recently learned to stand while holding onto something.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0009-s01",
+   "blockId": "ch02-p0009",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "In a moment, I will be summoning the Guardian Beast that will serve our family. Feel free to clap.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0010-s01",
+   "blockId": "ch02-p0010",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Crowd",
+   "voice": "Aisha Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.02,
+   "text": "Yay!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0011-s01",
+   "blockId": "ch02-p0011",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Applause rang from the crowd. The audience’s fervor was hitting its peak. Tonight’s concert would be legendary!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0012-s01",
+   "blockId": "ch02-p0012",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Hold up, Dillo and Byt. Why aren’t the two of you clapping? This just won’t do. What? They’re pets so they can’t clap? Well, I suppose it can’t be helped.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0013-s01",
+   "blockId": "ch02-p0013",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "As for exactly what I will be summoning, I am afraid I don’t know for sure. However, we can expect something particularly powerful. And this creature, whatever it is, will keep our family safe and secure.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0014-s01",
+   "blockId": "ch02-p0014",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Sylphiette",
+   "voice": "Sylphiette Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "Are you sure this will be okay? That this thing won’t eat us all while you’re gone?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0014-s02",
+   "blockId": "ch02-p0014",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Sylphie asked, worried.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0015-s01",
+   "blockId": "ch02-p0015",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "That’s a terrifying thought.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0016-s01",
+   "blockId": "ch02-p0016",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "That said, I did recall reading a story like that a long time ago. Something about someone calling forth a beast they couldn’t control and it killing everyone.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0017-s01",
+   "blockId": "ch02-p0017",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "I get you’re worried, but this was made by the meticulous hand of the Dragon God.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0018-s01",
+   "blockId": "ch02-p0018",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Sylphiette",
+   "voice": "Sylphiette Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "Which is precisely why I’m worried.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0019-s01",
+   "blockId": "ch02-p0019",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Logically speaking, Orsted would never use such a roundabout way to get rid of us, but Sylphie probably wasn’t thinking straight thanks to his curse.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0020-s01",
+   "blockId": "ch02-p0020",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "But wait, could this be his way of putting a leash on me in case I betray him? Like, if I turn my back on him, will he threaten me?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0020-s02",
+   "blockId": "ch02-p0020",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "With a snap of my fingers, that beast residing at your house will devour your entire family.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0021-s01",
+   "blockId": "ch02-p0021",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "That really didn’t seem likely.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0022-s01",
+   "blockId": "ch02-p0022",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "In any case, I’m going to summon it now. If it seems dangerous, we’ll get rid of it together, and then I can give Orsted an earful.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0023-s01",
+   "blockId": "ch02-p0023",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Eris",
+   "voice": "Eris Boreas Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.02,
+   "text": "Sounds good to me!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0023-s02",
+   "blockId": "ch02-p0023",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Eris declared in excitement. She pulled a sword from its scabbard with a majestic clang. She had two at her hip. On the right was Eminence, a magic blade the Sword God had gifted her. On her left was one she had grown attached to and used for a long time.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0024-s01",
+   "blockId": "ch02-p0024",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Isn’t it cumbersome, carrying both at the same time?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0025-s01",
+   "blockId": "ch02-p0025",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Eris",
+   "voice": "Eris Boreas Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.02,
+   "text": "When that happens, all of us will be able to fight Orsted together!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0025-s02",
+   "blockId": "ch02-p0025",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "she declared.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0026-s01",
+   "blockId": "ch02-p0026",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "We’re not going to fight. We’re just going to file a complaint, like a normal dissatisfied customer. If we tried to take him down, we’d be the ones kicking the bucket instead.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0027-s01",
+   "blockId": "ch02-p0027",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "That said, she looked awfully happy. She wasn’t just looking for an excuse to pick a fight with him, was she?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0028-s01",
+   "blockId": "ch02-p0028",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "We won’t be fighting Orsted,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0028-s02",
+   "blockId": "ch02-p0028",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I said.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0028-s03",
+   "blockId": "ch02-p0028",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "But we’ll have plenty of chances to fight together in the future. I hope you’ll save your strength until then.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0029-s01",
+   "blockId": "ch02-p0029",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Her face sank, as if the idea bored her. It was fine if she wanted to fight other people, but Orsted was off limits. Never in my life did I want to fight another battle that hopeless if I could help it. I’d pee myself if I had to do it a second time.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0030-s01",
+   "blockId": "ch02-p0030",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Roxy",
+   "voice": "Roxy Migurdia",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "Still, are you really sure this magic circle is safe? Perhaps it might be a good idea to have someone like Lord Perugius look at it first?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0030-s02",
+   "blockId": "ch02-p0030",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "said Roxy. Apparently, she was also leery of something Orsted had made.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0031-s01",
+   "blockId": "ch02-p0031",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "That curse on him really is powerful.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0032-s01",
+   "blockId": "ch02-p0032",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "As absurd as the whole curse nonsense seemed, the intensity of their reactions made its existence impossible to deny. That made my decision an easy one, though I did decide to take a second look at the scroll before I used it. I wouldn’t go so far as to have Perugius check it, but it couldn’t hurt to examine it once more myself.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0033-s01",
+   "blockId": "ch02-p0033",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "Hm.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0034-s01",
+   "blockId": "ch02-p0034",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "It seemed like a normal summoning circle. The part that restricted the conditions of the summoning had some symbols I wasn’t familiar with, but there was nothing too suspicious, as far as I could tell. Perhaps I could have Nanahoshi take a look? No, that would be rude. Orsted only made this for me because I didn’t know how to do it myself. What good did it do to be this distrustful?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0035-s01",
+   "blockId": "ch02-p0035",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "I’m sure it’s fine,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0035-s02",
+   "blockId": "ch02-p0035",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I said.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0036-s01",
+   "blockId": "ch02-p0036",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Roxy",
+   "voice": "Roxy Migurdia",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.85,
+   "text": "Well, if you say so. I believe you. But wait just a second while I get my staff.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0036-s02",
+   "blockId": "ch02-p0036",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Roxy, it seemed, was not entirely convinced. She said she trusted me, but still disappeared inside the house to retrieve her weapon in case things got ugly.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0037-s01",
+   "blockId": "ch02-p0037",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Norn",
+   "voice": "Norn Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "I have no idea why everyone seems so on guard, but…you’re sure this isn’t dangerous, Big Brother?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0037-s02",
+   "blockId": "ch02-p0037",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Norn furrowed her brow.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0038-s01",
+   "blockId": "ch02-p0038",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Aisha clapped a hand on Norn’s shoulder.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0038-s02",
+   "blockId": "ch02-p0038",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Aisha",
+   "voice": "Aisha Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 1.0,
+   "text": "Don’t be stupid. If it were that dangerous, he wouldn’t activate it with us around.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0039-s01",
+   "blockId": "ch02-p0039",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "Her trust felt like a dagger to the heart. Honestly, I hadn’t confirmed if this summoning circle was safe. Could I really just use it like this? Perhaps I should wait until I could get Perugius to check it, just to be sure?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0040-s01",
+   "blockId": "ch02-p0040",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "But if I did, Aisha’s affectionate gaze would turn to disappointment. And she’d only be suspicious of Orsted, after that.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0041-s01",
+   "blockId": "ch02-p0041",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Lilia",
+   "voice": "Lilia Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.98,
+   "text": "Should the worst come to pass, I will act as a shield for everyone. Please, do what you need,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0041-s02",
+   "blockId": "ch02-p0041",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "said Lilia.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0042-s01",
+   "blockId": "ch02-p0042",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Well, that sounds ominous.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0043-s01",
+   "blockId": "ch02-p0043",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "I didn’t think it would come to that, but everyone else was so jumpy that I was on edge. Were we really going to be okay?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0044-s01",
+   "blockId": "ch02-p0044",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "No! I need to have faith in Orsted. He said he trusted me.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0045-s01",
+   "blockId": "ch02-p0045",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "All right then,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0045-s02",
+   "blockId": "ch02-p0045",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I said.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0045-s03",
+   "blockId": "ch02-p0045",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "I’m going to use it.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0046-s01",
+   "blockId": "ch02-p0046",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Everyone nodded.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0047-s01",
+   "blockId": "ch02-p0047",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I set the scroll down on a table I’d erected using my earth magic.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0048-s01",
+   "blockId": "ch02-p0048",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "Here goes.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0049-s01",
+   "blockId": "ch02-p0049",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "I steeled myself and placed my hands on the circle. I concentrated, letting the magic flow through my veins and gather in my fingertips. From there, I poured it into the circle.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0050-s01",
+   "blockId": "ch02-p0050",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "I kept pumping more and more of my mana in. This creature was supposed to be something that could protect my family. Even if I drained myself dry, it still wouldn’t be enough in my eyes. I’d gladly take every last bit of Orsted’s mana too, if I could. Using more mana didn’t necessarily guarantee a strong Guardian Beast, but I would still give this everything I had.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0051-s01",
+   "blockId": "ch02-p0051",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Orsted also said it was important to imagine what I wanted.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0052-s01",
+   "blockId": "ch02-p0052",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Something to protect my family…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0053-s01",
+   "blockId": "ch02-p0053",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "That was awfully vague.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0054-s01",
+   "blockId": "ch02-p0054",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "I needed something incredibly powerful. Powerful enough that a normal opponent wouldn’t stand a chance. Something that was incredibly loyal and would never oppose me. And since they were supposed to be protecting my family, preferably not something crude and indecent. I definitely didn’t want some tentacle monster covered in mucus. That wouldn’t be good for my little sisters or Lucie. This Guardian Beast was going to be Lucie’s knight, so I needed something respectable.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0055-s01",
+   "blockId": "ch02-p0055",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 0.92,
+   "text": "That’s right. A creature of high moral character, who is loyal and strong. Okay, order up, let’s go!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0056-s01",
+   "blockId": "ch02-p0056",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.05,
+   "text": "Come on out, Guardian Beast!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0057-s01",
+   "blockId": "ch02-p0057",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "The circle began emitting a bright light, not a pure white but a mix of blue, red, yellow, and green. It was a whole rainbow. But I felt as if the summoning had caught on something—as if there was something stopping it.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0058-s01",
+   "blockId": "ch02-p0058",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "What could it be?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0059-s01",
+   "blockId": "ch02-p0059",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "I ignored it and continued pouring in more mana. Whatever had been blocking the spell snapped.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0060-s01",
+   "blockId": "ch02-p0060",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.06,
+   "text": "Aaaah!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0061-s01",
+   "blockId": "ch02-p0061",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "A voice groaned, though I couldn’t tell where the sound came from. Was it the Guardian Beast that would now be protecting my family? It sounded rather ominous, as if the creature was in pain. I simply increased my mana output, yanking whatever it was through the summoning circle.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0062-s01",
+   "blockId": "ch02-p0062",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.05,
+   "text": "Aaaaah!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0062-s02",
+   "blockId": "ch02-p0062",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "A voice rang out as the mana flow I’d been feeding into the circle was abruptly cut off.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0063-s01",
+   "blockId": "ch02-p0063",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "The light faded, and from within it appeared…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0064-s01",
+   "blockId": "ch02-p0064",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.9,
+   "text": "Khh…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0065-s01",
+   "blockId": "ch02-p0065",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "A man in a yellow mask and white uniform, a large dagger hanging by his side. He was perched atop the earthen platform I had created, down on one knee with his arms wrapped around himself.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0066-s01",
+   "blockId": "ch02-p0066",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.95,
+   "text": "How can this be… How could my contract with Lord Perugius be destroyed like this…?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0067-s01",
+   "blockId": "ch02-p0067",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "He remained in that pose as he lifted his head and looked around. The mask obscured his eyes, but I could swear he was staring straight at me.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0068-s01",
+   "blockId": "ch02-p0068",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.05,
+   "text": "What’s the meaning of this?!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0068-s02",
+   "blockId": "ch02-p0068",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "the masked man demanded.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0069-s01",
+   "blockId": "ch02-p0069",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "No, it was wrong to call him that. I knew exactly who this was.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0070-s01",
+   "blockId": "ch02-p0070",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Arumanfi the Bright.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0071-s01",
+   "blockId": "ch02-p0071",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "The way he’s posed reminds me of a fallen angel. Not that I’m trying to make light of him, I swear. I’d never be able to hold a candle to his brightness. He’s way more lit than I am. Just kidd—",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0072-s01",
+   "blockId": "ch02-p0072",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.06,
+   "text": "I asked you, Rudeus Greyrat, what your intention is here?!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0072-s02",
+   "blockId": "ch02-p0072",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "He leapt from the table and tried to seize me by the collar, only to freeze midway through, his entire body trembling.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0073-s01",
+   "blockId": "ch02-p0073",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Eris immediately moved into battle stance, but I held a hand up to stay her.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0074-s01",
+   "blockId": "ch02-p0074",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Bad girl. Go to your pen, Eris.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0075-s01",
+   "blockId": "ch02-p0075",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "Seriously, what was going on? I had summoned the bright and noble Arumanfi, of all people. Was that even possible? Although—despite his human form, he was actually a spirit. Perhaps this wasn’t so surprising, after all. Not that that explained everything. Was this all a ploy by Orsted? Was he trying to provoke Perugius, to get him to kill me instead?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0076-s01",
+   "blockId": "ch02-p0076",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Oh, come on, if you’re going to go that far, then just do the job yourself.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0077-s01",
+   "blockId": "ch02-p0077",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.02,
+   "text": "Uh, no, you see… This just kinda happened… I was activating a magic circle that Sir Orsted gave me, and it sort of…summoned you here by accident.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0078-s01",
+   "blockId": "ch02-p0078",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "Orsted’s magic circle, you say? What precisely were you trying to summon?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0079-s01",
+   "blockId": "ch02-p0079",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "A Guardian Beast to watch over my family.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0080-s01",
+   "blockId": "ch02-p0080",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Arumanfi snatched up the scroll with the magic circle. He studied it before gaping.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0080-s02",
+   "blockId": "ch02-p0080",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "These are some bothersome stipulations he’s placed on the summoned entity…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0081-s01",
+   "blockId": "ch02-p0081",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "Um, what conditions are they?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0082-s01",
+   "blockId": "ch02-p0082",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "The one this circle summons must be absolutely obedient to you, and they are to defend your family against any calamities that might befall them in perpetuity. In other words, they are to serve for eternity.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0083-s01",
+   "blockId": "ch02-p0083",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "Wow. So this magic circle was basically a slave contract?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0084-s01",
+   "blockId": "ch02-p0084",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Well, the good news is that Orsted didn’t lie to me. Looks like he’s trustworthy after all!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0085-s01",
+   "blockId": "ch02-p0085",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "Anything else?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0085-s02",
+   "blockId": "ch02-p0085",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I asked.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0086-s01",
+   "blockId": "ch02-p0086",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "The summoner will be the one who determines precisely what is called forth.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0087-s01",
+   "blockId": "ch02-p0087",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "So basically, I could decide what Guardian Beast I received. Great.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0088-s01",
+   "blockId": "ch02-p0088",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "Then I’d like to make an exchange.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0089-s01",
+   "blockId": "ch02-p0089",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.03,
+   "text": "An exchange?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0090-s01",
+   "blockId": "ch02-p0090",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "Yes, I didn’t mean to summon you, Mister Arumanfi. So I’d like to trade you out for someone else.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0091-s01",
+   "blockId": "ch02-p0091",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.04,
+   "text": "Then hurry up and dissolve your contract with me. I am Lord Perugius’s proud servant, not yours.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0092-s01",
+   "blockId": "ch02-p0092",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "Uh, yeah. Right.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0093-s01",
+   "blockId": "ch02-p0093",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Honestly, it wasn’t a terrible idea having Arumanfi to protect our family. He moved at the speed of light, so if anything unforeseen happened, he’d be the perfect person to relay a message to me.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0094-s01",
+   "blockId": "ch02-p0094",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "Yeah, but Perugius values him too much. If I took him away, it might cause discord between us.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0095-s01",
+   "blockId": "ch02-p0095",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "I furrowed my brow.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0095-s02",
+   "blockId": "ch02-p0095",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "Um, so how do I go about doing that, exactly?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0096-s01",
+   "blockId": "ch02-p0096",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "Order me to return to Lord Perugius’s side immediately. Dotbath of Destruction will be able to sever the contract.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0097-s01",
+   "blockId": "ch02-p0097",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "All right.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0098-s01",
+   "blockId": "ch02-p0098",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Arumanfi",
+   "voice": "Almanfi",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.05,
+   "text": "Order me. Now.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0099-s01",
+   "blockId": "ch02-p0099",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Due to the absolute obedience clause, he needed a direct order from me to leave.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0100-s01",
+   "blockId": "ch02-p0100",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 1.0,
+   "text": "Okay, then by the power of this summoning circle, I command you to go to Lord Perugius and request advice from him as to how best to call forth a good Guardian Beast.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0101-s01",
+   "blockId": "ch02-p0101",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Arumanfi kept the magic circle in his hands as he disappeared in a flash of light.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0102-s01",
+   "blockId": "ch02-p0102",
+   "scene": "ch02-s02",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "Sorry everyone, looks like I screwed up,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0102-s02",
+   "blockId": "ch02-p0102",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I said as I glanced back at my family.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0103-s01",
+   "blockId": "ch02-p0103",
+   "scene": "ch02-s02",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "They were all staring at me, slack-jawed.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0107-s01",
+   "blockId": "ch02-p0107",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Arumanfi returned after a while. He delivered a message from Perugius before, hissing about how he’d let this transgression slide but it had better never happen again. Arumanfi was extremely proud of his status as Perugius’s servant, after all. I did feel genuinely guilty about stealing that from him, however temporarily.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0108-s01",
+   "blockId": "ch02-p0108",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "The circle that Orsted had drawn me apparently lost its power when the contract was annulled, so Perugius made me a new one. It was hard to believe he’d show me such kindness after I so rudely swiped one of his servants. He really was as magnanimous as Sylvaril claimed.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0109-s01",
+   "blockId": "ch02-p0109",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "The truly terrifying part of the whole ordeal was the level of power Orsted’s circle had commanded. Or maybe it was my own magic that was to blame? Perhaps both. Each was merely a spark on its own, but combined, they made a raging flame.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0110-s01",
+   "blockId": "ch02-p0110",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Since the previous summoning hadn’t depleted much of my mana, I decided to collect myself and try again immediately. According to Perugius, it was better not to imagine vague concepts like majestic, omniscient, or omnipotent, but rather, an animal.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0111-s01",
+   "blockId": "ch02-p0111",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "If that was all, I wish Orsted had simply said so. But knowing him, he’d probably have told me to keep Arumanfi, as crazy as that idea sounded.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0112-s01",
+   "blockId": "ch02-p0112",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.02,
+   "text": "Okay, let’s try this again.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0113-s01",
+   "blockId": "ch02-p0113",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "I surveyed the area before putting my hands on the magic circle once more. This time, I was going to keep a concrete image in my mind. I wanted a strong, proud animal.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0114-s01",
+   "blockId": "ch02-p0114",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 0.92,
+   "text": "A lion!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0115-s01",
+   "blockId": "ch02-p0115",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I had no idea if they existed here as I knew them, but the word existed in the language, so surely there was something similar. I wanted the king of beasts—the strongest creature this world had to offer. Although, if I wanted something loyal, I might be better served by a canine, rather than a feline.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0116-s01",
+   "blockId": "ch02-p0116",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "Nah, that doesn’t matter. The magic circle requires absolute obedience, so I just need to focus on something that’s strong. I want the most noble beast that exists in this world.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0117-s01",
+   "blockId": "ch02-p0117",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.92,
+   "text": "I focused all the magic I had in every corner of my body into my right hand. For a few moments, I squeezed my eyes shut, but as the last drops of mana left my body and poured into the circle, I snapped them open again.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0118-s01",
+   "blockId": "ch02-p0118",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 0.92,
+   "text": "Come on! Bring home the bacon!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0119-s01",
+   "blockId": "ch02-p0119",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 0.92,
+   "text": "I sucked in a breath as the magic circle emitted a dazzling light. It was the same colorful rainbow I had seen earlier, but this time, I didn’t experience the sensation of the spell snagging on something. My mana flowed smoothly into the circle, and whatever was on the other end heeded my call. In fact, it felt as though a hand was being extended toward me, and all I had to do was take it and pull. I was confident that I would be successful this time.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0120-s01",
+   "blockId": "ch02-p0120",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.05,
+   "text": "All right, come on out!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0120-s02",
+   "blockId": "ch02-p0120",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I hollered.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0121-s01",
+   "blockId": "ch02-p0121",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "A faint howl echoed through the air.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0122-s01",
+   "blockId": "ch02-p0122",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Leo",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.98,
+   "text": "Awoooo!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0123-s01",
+   "blockId": "ch02-p0123",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "It grew louder and louder, ringing in my ears.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0124-s01",
+   "blockId": "ch02-p0124",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Is there something I should be saying right now as I’m summoning this thing? I guess it doesn’t matter…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0125-s01",
+   "blockId": "ch02-p0125",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "As I debated that, the light disappeared. What stood before me was a white lion, over two meters tall. I assumed it was female since it had no mane. The way its snout extended, however, reminded me more of a dog than a cat.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0126-s01",
+   "blockId": "ch02-p0126",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "Wait, this is no lion. It’s a dog. And judging by how short its legs are, it’s a pup at that.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0127-s01",
+   "blockId": "ch02-p0127",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "In fact, upon closer inspection, I realized its fur wasn’t white, but silver. It looked like a baby Shiba Inu, but far more massive.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0128-s01",
+   "blockId": "ch02-p0128",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Hmm… Did I botch it again?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0129-s01",
+   "blockId": "ch02-p0129",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Aisha",
+   "voice": "Aisha Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.02,
+   "text": "It’s adorable!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0129-s02",
+   "blockId": "ch02-p0129",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Aisha exclaimed.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0130-s01",
+   "blockId": "ch02-p0130",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Norn",
+   "voice": "Norn Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "But do you really think this thing can protect us?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0130-s02",
+   "blockId": "ch02-p0130",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Norn frowned.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0131-s01",
+   "blockId": "ch02-p0131",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Sylphiette",
+   "voice": "Sylphiette Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 1.0,
+   "text": "Well,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0131-s02",
+   "blockId": "ch02-p0131",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "said Sylphie,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0131-s03",
+   "blockId": "ch02-p0131",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Sylphiette",
+   "voice": "Sylphiette Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 1.0,
+   "text": "for a pup, it does look confident.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0132-s01",
+   "blockId": "ch02-p0132",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Roxy nodded.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0132-s02",
+   "blockId": "ch02-p0132",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Roxy",
+   "voice": "Roxy Migurdia",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "At the very least, it looks too innocent for anyone to suspect it’s a Guardian Beast.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0133-s01",
+   "blockId": "ch02-p0133",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "The two of them seemed approving enough.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0134-s01",
+   "blockId": "ch02-p0134",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Lilia",
+   "voice": "Lilia Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "It does look intelligent,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0134-s02",
+   "blockId": "ch02-p0134",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Lilia commented. She had a perfect poker face so it was hard to tell what she was thinking, but she wasn’t knitting her brows or frowning at least.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0135-s01",
+   "blockId": "ch02-p0135",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Zenith was expressionless as ever. I had no idea what Byt thought of our newest addition, but Dillo was already on his back, expressing submission toward our Guardian Beast.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0136-s01",
+   "blockId": "ch02-p0136",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "happy",
+   "requestedTone": "happy",
+   "speed": 0.92,
+   "text": "Not too bad as far as first impressions went.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0137-s01",
+   "blockId": "ch02-p0137",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 0.92,
+   "text": "Although, I’m pretty sure I’ve seen this pup before.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0138-s01",
+   "blockId": "ch02-p0138",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Eris",
+   "voice": "Eris Boreas Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 1.02,
+   "text": "Hold on,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0138-s02",
+   "blockId": "ch02-p0138",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "said Eris.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0138-s03",
+   "blockId": "ch02-p0138",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Eris",
+   "voice": "Eris Boreas Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 1.02,
+   "text": "Isn’t this the Sacred Beast that was so attached to you back in Doldia Village, Rudeus?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0139-s01",
+   "blockId": "ch02-p0139",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "That’s right! I just remembered. Uh, what were the words in Beast God Tongue again…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0140-s01",
+   "blockId": "ch02-p0140",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I cleared my throat and said,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0140-s02",
+   "blockId": "ch02-p0140",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "Are you perhaps the Sacred Beast from Doldia?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0141-s01",
+   "blockId": "ch02-p0141",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Leo",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 1.0,
+   "text": "Woof.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0141-s02",
+   "blockId": "ch02-p0141",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "The great dog bobbed its head in response before licking my face.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0142-s01",
+   "blockId": "ch02-p0142",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "annoyed",
+   "requestedTone": "annoyed",
+   "speed": 0.92,
+   "text": "Ugh, it stinks. Dammit, what does this thing take me for? A piece of meat?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0143-s01",
+   "blockId": "ch02-p0143",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "At least I finally knew exactly what I had summoned.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0144-s01",
+   "blockId": "ch02-p0144",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 1.0,
+   "text": "I see.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0145-s01",
+   "blockId": "ch02-p0145",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "The Sacred Beast, huh? The same one the Doldia tribe treasured so much that they locked it away deep within their village…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0146-s01",
+   "blockId": "ch02-p0146",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "Crap. If they found out that I summoned it to serve as my personal guardian, they would be absolutely livid, wouldn’t they? If they put me on their wanted list, it would only cause more problems. I already had enough on my plate.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0147-s01",
+   "blockId": "ch02-p0147",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "annoyed",
+   "requestedTone": "annoyed",
+   "speed": 0.92,
+   "text": "Guess I gotta exchange this one too…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0148-s01",
+   "blockId": "ch02-p0148",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "Although annulling the contract would cause more trouble for either Perugius or Orsted. And there was no guarantee I’d get anything better on the third try.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0149-s01",
+   "blockId": "ch02-p0149",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 0.92,
+   "text": "Hmm…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0150-s01",
+   "blockId": "ch02-p0150",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.98,
+   "text": "I spoke in Beast God Tongue.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0150-s02",
+   "blockId": "ch02-p0150",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.98,
+   "text": "O Sacred Beast, if I might humbly ask, do you possess the power to protect my family from any calamity that might befall them?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0151-s01",
+   "blockId": "ch02-p0151",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Leo",
+   "voice": "Rudeus Greyrat",
+   "tone": "happy",
+   "requestedTone": "happy",
+   "speed": 1.02,
+   "text": "Woof!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0152-s01",
+   "blockId": "ch02-p0152",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "He seemed to be saying,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0152-s02",
+   "blockId": "ch02-p0152",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Leave everything to me!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0152-s03",
+   "blockId": "ch02-p0152",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "He seemed motivated enough, but on the other hand, he had gotten himself kidnapped before. Could I really rely on him to protect them? Orsted assured me that the Man-God probably wouldn’t come after my family much anymore, so maybe I didn’t have anything to worry about, but…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0153-s01",
+   "blockId": "ch02-p0153",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Leo",
+   "voice": "Rudeus Greyrat",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 1.02,
+   "text": "Arf?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0154-s01",
+   "blockId": "ch02-p0154",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "As I was lost in thought, the Sacred Beast leaped from the summoning table and pressed its body against me, licking at my face again.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0155-s01",
+   "blockId": "ch02-p0155",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "affectionate",
+   "requestedTone": "affectionate",
+   "speed": 0.92,
+   "text": "Ahh, he’s so soft… They definitely have to be using some kinda conditioner on him. And if he’s our Guardian Beast, that means I’ll be able to enjoy his fluffy fur every single day.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0156-s01",
+   "blockId": "ch02-p0156",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 1.0,
+   "text": "Yep, I’ve gotta be mistaken. This definitely isn’t the Sacred Beast.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0157-s01",
+   "blockId": "ch02-p0157",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Nope. This was not the holy creature the beastfolk looked up to with such reverence. Definitely not. There was no way their protector god would show up here of all places. It had to be a look-alike.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0158-s01",
+   "blockId": "ch02-p0158",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "That’s right. This thing is a…a lion, that’s it!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0159-s01",
+   "blockId": "ch02-p0159",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "It was clearly a lion cub I had called here from one of an infinite number of alternate worlds. At least, that was the explanation I decided upon in my mind. It was good enough for me. Although that excuse probably wouldn’t hold water when it came to protecting me from the wrath of the Doldia.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0160-s01",
+   "blockId": "ch02-p0160",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Well, if things started going sideways, I could always ask Lord Perugius for a favor and swap this lion cub for something else. Until then, we’d have a trial period of sorts.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0161-s01",
+   "blockId": "ch02-p0161",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "excited",
+   "requestedTone": "excited",
+   "speed": 1.04,
+   "text": "All right. From today forth, your name is Leo!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0161-s02",
+   "blockId": "ch02-p0161",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I proclaimed, thrusting my hand into the air.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0162-s01",
+   "blockId": "ch02-p0162",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "The Sacred Beast promptly licked my fingers before snorting in response. Then, suddenly, he lifted his head as if he had noticed something. His gaze turned toward Roxy. Leo trotted over to her before promptly shoving his face up her skirt.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0163-s01",
+   "blockId": "ch02-p0163",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Roxy",
+   "voice": "Roxy Migurdia",
+   "tone": "surprised",
+   "requestedTone": "surprised",
+   "speed": 1.04,
+   "text": "Ack! Hey! What are you doing?!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0163-s02",
+   "blockId": "ch02-p0163",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Roxy cried, bonking him with her staff.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0164-s01",
+   "blockId": "ch02-p0164",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Our perverted canine merely sniffed and licked at her leg before wrapping his enormous body around her.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0165-s01",
+   "blockId": "ch02-p0165",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Roxy",
+   "voice": "Roxy Migurdia",
+   "tone": "worried",
+   "requestedTone": "worried",
+   "speed": 1.0,
+   "text": "Um, Rudy… What am I supposed to do about this?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0165-s02",
+   "blockId": "ch02-p0165",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "Nervously, she peered over at me.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0166-s01",
+   "blockId": "ch02-p0166",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "affectionate",
+   "requestedTone": "affectionate",
+   "speed": 0.92,
+   "text": "I had no idea what was going on exactly, but it was clear that our new family member was attached to Roxy.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0167-s01",
+   "blockId": "ch02-p0167",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.98,
+   "text": "Leo, now that I have summoned you here, you’re my servant,",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0167-s02",
+   "blockId": "ch02-p0167",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I said in Beast God Tongue.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0167-s03",
+   "blockId": "ch02-p0167",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.98,
+   "text": "Your duty is to protect my family. Understood?",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0168-s01",
+   "blockId": "ch02-p0168",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Leo",
+   "voice": "Rudeus Greyrat",
+   "tone": "happy",
+   "requestedTone": "happy",
+   "speed": 1.02,
+   "text": "Woof!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0168-s02",
+   "blockId": "ch02-p0168",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "he barked back cheerfully.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0169-s01",
+   "blockId": "ch02-p0169",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I had no idea how useful a pup would be for watching over everyone, but since this was what I had summoned, it was going to be our Guardian Beast henceforth.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0170-s01",
+   "blockId": "ch02-p0170",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "affectionate",
+   "requestedTone": "affectionate",
+   "speed": 0.92,
+   "text": "Surely, he’ll prove his worth.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0171-s01",
+   "blockId": "ch02-p0171",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.98,
+   "text": "Leo, allow me to explain a bit about what your employment here entails. I know you’re used to getting your way and having people spoil you, but that won’t fly here. You’re going to have to wear a collar and live in a dog house like a normal canine. If anyone suspicious appears, you bark at them, bite them, and render them powerless. If they’re too strong, you have my permission to kill them. You’ll have three meals a day here, and you’re free to take naps whenever you want. If you so desire, we’ll even take you for walks when you want. If you find these conditions acceptable, please bark once.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0172-s01",
+   "blockId": "ch02-p0172",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Leo",
+   "voice": "Rudeus Greyrat",
+   "tone": "happy",
+   "requestedTone": "happy",
+   "speed": 1.02,
+   "text": "Woof!",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0173-s01",
+   "blockId": "ch02-p0173",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "playful",
+   "requestedTone": "playful",
+   "speed": 0.92,
+   "text": "Great, that’s the kind of answer I like to hear. And one more thing…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0174-s01",
+   "blockId": "ch02-p0174",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "serious",
+   "requestedTone": "serious",
+   "speed": 0.98,
+   "text": "It goes without saying that if you dare do anything to hurt my family…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0175-s01",
+   "blockId": "ch02-p0175",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Leo",
+   "voice": "Rudeus Greyrat",
+   "tone": "sad",
+   "requestedTone": "sad",
+   "speed": 0.95,
+   "text": "Arf…",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0175-s02",
+   "blockId": "ch02-p0175",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "His throat rumbled, as if he were offended by the mere idea.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0176-s01",
+   "blockId": "ch02-p0176",
+   "scene": "ch02-s03",
+   "role": "speech",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "happy",
+   "requestedTone": "happy",
+   "speed": 1.0,
+   "text": "Great. Then our contract is sealed. Now let’s shake on it.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0176-s02",
+   "blockId": "ch02-p0176",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "neutral",
+   "requestedTone": "neutral",
+   "speed": 0.92,
+   "text": "I held out my hand and he promptly offered up his paw.",
+   "tags": []
+  },
+  {
+   "id": "ch02-p0177-s01",
+   "blockId": "ch02-p0177",
+   "scene": "ch02-s03",
+   "role": "narration",
+   "speaker": "Rudeus",
+   "voice": "Rudeus Greyrat",
+   "tone": "affectionate",
+   "requestedTone": "affectionate",
+   "speed": 0.92,
+   "text": "And with that, our family had a new pet.",
+   "tags": []
+  }
+ ]
+}

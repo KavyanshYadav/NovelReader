@@ -16,6 +16,14 @@
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="preload" href="data.js" as="script">
+  <script>
+    try {
+      var savedTheme = localStorage.getItem("mt15:theme");
+      if (savedTheme === "dark" || savedTheme === "light") {
+        document.documentElement.dataset.theme = savedTheme;
+      }
+    } catch (error) {}
+  </script>
   <link rel="stylesheet" href="home.css">
 </head>
 <body>
@@ -23,20 +31,17 @@
 
   <header class="masthead">
     <div class="masthead__inner">
-      <p class="eyebrow">Mushoku Tensei: Jobless Reincarnation</p>
-      <h1>The Mushoku Tensei Reader</h1>
+      <h1>Mushoku Tensei <em>Reader</em></h1>
       <p class="lede">
-        A personal, offline reading edition of Volumes&nbsp;15 to&nbsp;26. Every line of
-        dialogue is attributed to the person who says it, and every volume can be read
-        as a scrolling chapter or one scene at a time on a fullscreen timeline.
+        A personal reading edition of Volumes&nbsp;15 to&nbsp;26. Every line of dialogue
+        is attributed, every scene is placed, and your page is kept.
       </p>
+      <p class="masthead__library" id="libraryLine"></p>
 
-      <div class="masthead__stats" id="mastheadStats" aria-label="Library statistics"></div>
-
+      <button class="icon-button" id="themeToggle" type="button" aria-label="Switch theme" title="Switch theme"></button>
       <div class="masthead__actions">
-        <a class="button" href="#volumes">Browse the volumes <span aria-hidden="true">↓</span></a>
-        <a class="button button--quiet" href="reader.html">Open the reader</a>
-        <button class="icon-button" id="themeToggle" type="button" aria-label="Switch theme" title="Switch theme"></button>
+        <a class="button masthead__continue" id="continueReading" href="reader.html" hidden>Continue reading</a>
+        <a class="button" id="browseVolumes" href="#volumes">Browse the volumes <span aria-hidden="true">↓</span></a>
       </div>
     </div>
   </header>
@@ -44,60 +49,34 @@
   <main class="wrap">
     <section id="volumes" aria-labelledby="volumes-title">
       <div class="section-head">
-        <h2 id="volumes-title">Volumes</h2>
-        <p class="section-note">Pick a volume to start reading. Your place is remembered per volume.</p>
+        <h2 id="volumes-title">Bookshelf</h2>
+        <p class="section-note">Pick up where you left off, or start anywhere.</p>
       </div>
       <div class="volume-grid" id="volumeGrid"></div>
     </section>
 
-    <section aria-labelledby="features-title">
-      <div class="section-head">
-        <h2 id="features-title">What you get</h2>
+    <details class="about">
+      <summary>About this edition</summary>
+      <div class="about__body">
+        <p>
+          Dialogue is attributed to its speaker, and paragraphs that mix narration with
+          a quote are marked <em>quoted</em> rather than passed off as a spoken line.
+          Diary entries and letters keep their own paper treatment.
+        </p>
+        <p>
+          The focus reader shows one scene at a time with a timeline of every scene and
+          chapter, and <kbd>←</kbd> <kbd>→</kbd> move between them. Paper themes, three
+          typefaces, text size, line height, measure and alignment are all stored
+          locally, along with your position in each volume.
+        </p>
+        <p>
+          The reader is plain HTML, CSS and JavaScript with no dependencies and no
+          network calls, so it opens straight from a folder. It is rebuilt from the
+          source books with <code>scripts/rebuild_all.py</code>.
+        </p>
       </div>
-      <ul class="features">
-        <li>
-          <h3>Every voice labelled</h3>
-          <p>Dialogue is tagged with its speaker, and paragraphs that mix narration with a
-             quote are marked <em>quoted</em> rather than passed off as a spoken line.</p>
-        </li>
-        <li>
-          <h3>Scene timeline</h3>
-          <p>The focus reader shows one scene at a time with a clickable timeline of every
-             scene and chapter in the volume, plus <kbd>←</kbd> <kbd>→</kbd> and
-             <kbd>H</kbd> <kbd>L</kbd> to move between them.</p>
-        </li>
-        <li>
-          <h3>Built for reading</h3>
-          <p>Paper themes, three typefaces, adjustable size, line height, measure and
-             alignment — all stored locally, along with your position in each volume.</p>
-        </li>
-        <li>
-          <h3>Works offline</h3>
-          <p>The reader is plain HTML, CSS and JavaScript with no dependencies and no
-             network calls, so it opens straight from a folder as well as from a host.</p>
-        </li>
-      </ul>
-    </section>
+    </details>
 
-    <section aria-labelledby="how-title">
-      <div class="section-head">
-        <h2 id="how-title">How it was made</h2>
-      </div>
-      <div class="prose">
-        <p>
-          Each EPUB is parsed into a stable list of blocks, the blocks are classified
-          (narration, dialogue, diary, letter, inscription, quotation, silence), and the
-          dialogue is then attributed by reading every chapter in context — speech tags,
-          vocatives, turn-taking and action beats — rather than by pattern matching.
-          Scenes are given a location and a cast, and every volume is checked for
-          coverage before it reaches the reader.
-        </p>
-        <p>
-          The whole pipeline is reproducible: <code>python3 scripts/rebuild_all.py</code>
-          rebuilds every volume from the source books.
-        </p>
-      </div>
-    </section>
   </main>
 
   <footer class="site-footer">

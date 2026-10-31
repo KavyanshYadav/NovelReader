@@ -70,6 +70,10 @@ a {
   color: inherit;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 button {
   font: inherit;
 }
@@ -118,21 +122,29 @@ a:focus-visible {
 /* Masthead ------------------------------------------------------------- */
 
 .masthead {
-  padding: clamp(3.5rem, 9vw, 7rem) 0 clamp(2.5rem, 6vw, 4.5rem);
+  padding: clamp(2.6rem, 6vw, 4.5rem) 0 clamp(2rem, 4vw, 3rem);
   border-bottom: 1px solid var(--line);
 }
 
 .masthead__inner {
-  width: min(100% - 2.5rem, 820px);
+  position: relative;
+  width: min(100% - 2.5rem, var(--measure));
   margin-inline: auto;
-  text-align: center;
+  text-align: left;
+}
+
+.masthead__inner > .icon-button {
+  position: absolute;
+  top: 0.15rem;
+  right: 0;
 }
 
 .masthead h1 {
-  margin: 0.5rem 0 0;
-  font-size: clamp(2.4rem, 6vw, 4.1rem);
+  max-width: 20ch;
+  margin: 0;
+  font-size: clamp(2.3rem, 5.4vw, 3.7rem);
   font-weight: 600;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.025em;
   line-height: 1.05;
 }
 
@@ -142,41 +154,38 @@ a:focus-visible {
 }
 
 .lede {
-  margin: 1.1rem auto 0;
-  max-width: 44rem;
+  max-width: 54ch;
+  margin: 1.1rem 0 0;
   color: var(--ink-soft);
-  font-size: clamp(1rem, 1.5vw, 1.16rem);
+  font-size: clamp(1rem, 1.5vw, 1.14rem);
   line-height: 1.7;
 }
 
-.masthead__stats {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.4rem 2.4rem;
-  margin: 2rem 0 0;
-  color: var(--ink-faint);
+.masthead__library {
+  margin: 1rem 0 0;
+  color: var(--ink-soft);
   font-family: var(--ui);
-  font-size: 0.78rem;
+  font-size: 0.82rem;
 }
 
-.masthead__stats strong {
-  display: block;
-  color: var(--ink);
-  font-family: var(--serif);
-  font-size: 1.5rem;
-  font-variant-numeric: tabular-nums;
-  font-weight: 600;
-  line-height: 1.2;
+.button.masthead__continue {
+  color: var(--paper-raised);
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.button.masthead__continue:hover {
+  background: var(--ink);
+  border-color: var(--ink);
 }
 
 .masthead__actions {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 0.7rem;
-  margin-top: 2rem;
+  margin-top: 1.8rem;
 }
 
 .button {
@@ -275,20 +284,20 @@ section {
 }
 
 .volume-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   overflow: hidden;
   background: var(--paper-raised);
   border: 1px solid var(--line);
   border-radius: 14px;
-  box-shadow: var(--shadow-soft);
   transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
 }
 
 .volume-card:hover {
-  transform: translateY(-3px);
+  transform: translateY(-2px);
   border-color: var(--line-strong);
-  box-shadow: 0 18px 44px rgba(60, 43, 25, 0.14);
+  box-shadow: 0 16px 38px rgba(60, 43, 25, 0.12);
 }
 
 .volume-card__cover {
@@ -310,26 +319,13 @@ section {
   padding: 1.1rem 1.2rem 1.25rem;
 }
 
-.volume-card__kicker {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.75rem;
-  color: var(--ink-faint);
+.volume-card__index {
+  margin: 0;
+  color: var(--ink-soft);
   font-family: var(--ui);
-  font-size: 0.66rem;
-  font-weight: 600;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
-.volume-card__number {
-  color: var(--accent);
-  font-family: var(--serif);
-  font-size: 1.5rem;
+  font-size: 0.72rem;
   font-variant-numeric: tabular-nums;
-  letter-spacing: -0.01em;
-  line-height: 1;
+  font-weight: 600;
 }
 
 .volume-card h3 {
@@ -346,11 +342,33 @@ section {
   line-height: 1.6;
 }
 
+.volume-card__blurb {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+}
+
+.volume-card__resume {
+  margin: 0;
+  color: var(--ink-soft);
+  font-family: var(--ui);
+  font-size: 0.74rem;
+  font-weight: 500;
+}
+
+.volume-card__footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  margin-top: auto;
+  padding-top: 0.25rem;
+}
+
 .volume-card__meta {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem 0.9rem;
-  margin-top: auto;
   padding-top: 0.85rem;
   border-top: 1px solid var(--line);
   color: var(--ink-faint);
@@ -363,20 +381,27 @@ section {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  margin-top: 0.2rem;
+  min-height: 44px;
+  margin-top: 0.15rem;
   color: var(--accent);
   font-family: var(--ui);
-  font-size: 0.8rem;
+  font-size: 0.86rem;
   font-weight: 600;
   text-decoration: none;
 }
 
+/* The whole card is the hit area, not just the label. */
 .volume-card__link::after {
-  content: "→";
+  position: absolute;
+  inset: 0;
+  content: "";
+}
+
+.volume-card__arrow {
   transition: transform 140ms ease;
 }
 
-.volume-card__link:hover::after {
+.volume-card:hover .volume-card__arrow {
   transform: translateX(3px);
 }
 
@@ -468,21 +493,81 @@ kbd {
   text-align: center;
 }
 
-@media (max-width: 560px) {
-  .masthead__stats {
-    gap: 0.4rem 1.4rem;
-  }
+/* About ---------------------------------------------------------------- */
 
+.about {
+  margin-top: clamp(2.6rem, 5vw, 3.6rem);
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+}
+
+.about summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 44px;
+  color: var(--ink-soft);
+  cursor: pointer;
+  font-family: var(--ui);
+  font-size: 0.84rem;
+  font-weight: 600;
+  list-style: none;
+}
+
+.about summary::-webkit-details-marker {
+  display: none;
+}
+
+.about summary::after {
+  color: var(--ink-faint);
+  content: "+";
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.about[open] summary::after {
+  content: "−";
+}
+
+.about__body {
+  max-width: 64ch;
+  margin-top: 0.8rem;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  line-height: 1.72;
+}
+
+.about__body p {
+  margin: 0 0 0.9rem;
+}
+
+@media (max-width: 560px) {
   .volume-grid {
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.9rem;
   }
 
   .volume-card__body {
-    padding: 0.85rem 0.9rem 1rem;
+    padding: 0.8rem 0.85rem 0.95rem;
   }
 
-  .volume-card p {
+  .volume-card h3 {
+    font-size: 1rem;
+  }
+
+  .volume-card__blurb {
+    -webkit-line-clamp: 3;
+    font-size: 0.84rem;
+  }
+
+  .volume-card__meta {
+    gap: 0.3rem 0.6rem;
+    font-size: 0.66rem;
+  }
+
+  .volume-card__meta span:nth-child(2),
+  .volume-card__meta span:nth-child(4) {
     display: none;
   }
 }

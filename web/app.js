@@ -93,9 +93,9 @@
     airy: "2.02",
   };
   const READING_WIDTH_VALUES = {
-    narrow: "660px",
-    standard: "760px",
-    wide: "900px",
+    narrow: "520px",
+    standard: "600px",
+    wide: "690px",
   };
   const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   const SUN_ICON = `<svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -104,6 +104,12 @@
   </svg>`;
   const MOON_ICON = `<svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
     <path d="M20 15.5A8.5 8.5 0 0 1 8.5 4 8.5 8.5 0 1 0 20 15.5Z"/>
+  </svg>`;
+  const EXPAND_ICON = `<svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true">
+    <path d="M9 4H4v5M15 4h5v5M15 20h5v-5M9 20H4v-5"/>
+  </svg>`;
+  const COLLAPSE_ICON = `<svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true">
+    <path d="M4 9h5V4M20 9h-5V4M20 15h-5v5M4 15h5v5"/>
   </svg>`;
 
   const storage = {
@@ -514,8 +520,8 @@
     volumeButtons.innerHTML = volumeOrder
       .map((number) => {
         const entry = volumeManifest[number] || {};
-        const label = entry.title
-          ? `Volume ${number}: ${entry.title.replace(/^.*Vol\.\s*/, "")}`
+        const label = entry.label
+          ? `Volume ${number}: ${entry.label}`
           : `Volume ${number}`;
         return `
           <button class="volume-nav__button" type="button" data-volume="${number}"
@@ -546,7 +552,22 @@
     }
     if (volumeEndTitle) volumeEndTitle.textContent = label;
     if (beginReading && data.chapters.length) {
-      beginReading.href = `#${data.chapters[0].id}`;
+      const savedChapter = storage.get(volumeStorageKey("chapter-id"));
+      const savedLabel = storage.get(volumeStorageKey("chapter-label"));
+      if (savedChapter && document.getElementById(savedChapter)) {
+        beginReading.href = `#${savedChapter}`;
+        beginReading.innerHTML =
+          'Continue reading <span aria-hidden="true">↓</span>';
+        beginReading.setAttribute(
+          "aria-label",
+          `Continue reading${savedLabel ? ` at ${savedLabel}` : ""}`
+        );
+      } else {
+        beginReading.href = `#${data.chapters[0].id}`;
+        beginReading.innerHTML =
+          'Begin reading <span aria-hidden="true">↓</span>';
+        beginReading.removeAttribute("aria-label");
+      }
     }
     if (focusChapterTitle) focusChapterTitle.textContent = label;
     if (timeline) timeline.setAttribute("aria-label", `Scenes in ${label}`);
@@ -569,6 +590,7 @@
       ])
     );
     currentSceneIndex = 0;
+    lastSavedChapterId = null;
     updateScrollUi();
   }
 
@@ -623,6 +645,13 @@
         renderCurrentVolume();
         jumpTo(targetScroll > 240 ? targetScroll : 0);
         updateScrollUi();
+        if (targetScroll > 240) {
+          showToast(
+            `Opened Volume ${number} where you left off.`,
+            "Start over",
+            () => jumpTo(0)
+          );
+        }
         finish();
       })
       .catch(() => {
@@ -785,7 +814,7 @@
     const ticks = sceneItems
       .map((item) => {
         const label = `${chapterKicker(item.chapter)} · Scene ${item.sceneIndex + 1}: ${item.scene.location || "Scene"}`;
-        return `<button class="timeline__tick" type="button" data-scene-index="${item.globalIndex}" title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}"><span class="timeline__dot" aria-hidden="true"></span></button>`;
+        return `<button class="timeline__tick" type="button" data-scene-index="${item.globalIndex}" tabindex="-1" title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}"><span class="timeline__dot" aria-hidden="true"></span></button>`;
       })
       .join("");
 
@@ -832,16 +861,22 @@
     focusSceneMeta.textContent = item.scene.location || "";
     focusMain.innerHTML = renderFocusScene(item);
     focusMain.scrollTop = 0;
-    focusStatus.textContent = `Scene ${currentSceneIndex + 1} of ${sceneItems.length}`;
+    focusStatus.textContent = `Scene ${currentSceneIndex + 1} of ${sceneItems.length} in the volume`;
     focusPrev.disabled = currentSceneIndex === 0;
     focusNext.disabled = currentSceneIndex === sceneItems.length - 1;
 
     timelineTicks.forEach((tick, tickIndex) => {
       const isActive = tickIndex === currentSceneIndex;
       tick.classList.toggle("is-active", isActive);
+      tick.tabIndex = isActive ? 0 : -1;
       if (isActive) tick.setAttribute("aria-current", "step");
       else tick.removeAttribute("aria-current");
     });
+
+    if (document.activeElement && document.activeElement.classList.contains("timeline__tick")) {
+      const activeTick = timelineTicks[currentSceneIndex];
+      if (activeTick) activeTick.focus({ preventScroll: true });
+    }
 
     timelineChapterEls.forEach((label, chapterIndex) => {
       label.classList.toggle("is-active", chapterIndex === item.chapterIndex);
@@ -954,11 +989,7 @@
       "title",
       active ? "Exit fullscreen" : "Enter fullscreen"
     );
-    focusFullscreen.textContent = active ? "⤡" : "⛶";
-
-    if (focusOpen) {
-      setChromeHidden(active);
-    }
+    focusFullscreen.innerHTML = active ? COLLAPSE_ICON : EXPAND_ICON;
   }
 
   function openFocus() {
@@ -985,15 +1016,6 @@
     showFocusScene(start);
     focusMain.focus({ preventScroll: true });
     updateFullscreenButton();
-
-    if (
-      typeof focusReader.requestFullscreen === "function" &&
-      !document.fullscreenElement
-    ) {
-      focusReader.requestFullscreen().catch(() => {
-        /* The full-viewport overlay still works without native fullscreen. */
-      });
-    }
   }
 
   function closeFocus() {
@@ -1082,7 +1104,17 @@
     }
   });
 
-  document.addEventListener("fullscreenchange", updateFullscreenButton);
+  function hostFocusOverlays() {
+    const target = document.fullscreenElement ? focusReader : document.body;
+    [settingsScrim, settingsPanel, toast].forEach((node) => {
+      if (node && node.parentElement !== target) target.appendChild(node);
+    });
+  }
+
+  document.addEventListener("fullscreenchange", () => {
+    hostFocusOverlays();
+    updateFullscreenButton();
+  });
 
   if (!document.fullscreenEnabled) {
     focusFullscreen.hidden = true;
@@ -1300,10 +1332,23 @@
   // Mobile contents drawer
   // ---------------------------------------------------------------------
 
+  function mobileNav() {
+    return window.matchMedia("(max-width: 1000px)").matches;
+  }
+
+  function syncSidebarInert() {
+    const hidden =
+      mobileNav() && !document.body.classList.contains("nav-open");
+    sidebar.inert = hidden;
+    if (hidden) sidebar.setAttribute("aria-hidden", "true");
+    else sidebar.removeAttribute("aria-hidden");
+  }
+
   function openNav() {
     document.body.classList.add("nav-open");
     menuToggle.setAttribute("aria-expanded", "true");
     menuToggle.setAttribute("aria-label", "Close contents");
+    syncSidebarInert();
     sidebar.focus({ preventScroll: true });
   }
 
@@ -1312,6 +1357,7 @@
     document.body.classList.remove("nav-open");
     menuToggle.setAttribute("aria-expanded", "false");
     menuToggle.setAttribute("aria-label", "Open contents");
+    syncSidebarInert();
     if (wasOpen && window.matchMedia("(max-width: 1000px)").matches) {
       menuToggle.focus({ preventScroll: true });
     }
@@ -1332,7 +1378,24 @@
   });
 
   sidebar.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") closeNav();
+    if (event.key === "Escape") {
+      closeNav();
+      return;
+    }
+    if (event.key !== "Tab" || !mobileNav()) return;
+    const focusables = Array.from(
+      sidebar.querySelectorAll('a[href], button:not([disabled])')
+    ).filter((element) => element.offsetParent !== null);
+    if (!focusables.length) return;
+    const first = focusables[0];
+    const last = focusables[focusables.length - 1];
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault();
+      last.focus();
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault();
+      first.focus();
+    }
   });
 
   // ---------------------------------------------------------------------
@@ -1341,6 +1404,7 @@
 
   let chapterSections = [];
   let tocLinks = new Map();
+  let lastSavedChapterId = null;
   let ticking = false;
   let saveTimer = null;
 
@@ -1381,6 +1445,12 @@
     if (active) {
       const chapter = data.chapters.find((item) => item.id === activeId);
       currentChapter.textContent = chapter ? chapterShortLabel(chapter) : volumeLabel();
+      if (chapter && lastSavedChapterId !== chapter.id) {
+        lastSavedChapterId = chapter.id;
+        storage.set(volumeStorageKey("chapter-id"), chapter.id);
+        storage.set(volumeStorageKey("chapter-label"), chapterShortLabel(chapter));
+        storage.set("mt15:last-volume", String(data.meta.volume));
+      }
     } else {
       currentChapter.textContent = volumeLabel();
     }
@@ -1409,6 +1479,19 @@
 
   window.addEventListener("scroll", requestScrollUpdate, { passive: true });
   window.addEventListener("resize", requestScrollUpdate);
+  window.addEventListener("resize", syncSidebarInert);
+
+  const skipLink = document.querySelector(".skip-link");
+  if (skipLink) {
+    skipLink.addEventListener("click", (event) => {
+      event.preventDefault();
+      reader.focus({ preventScroll: true });
+      reader.scrollIntoView({
+        behavior: reducedMotion ? "auto" : "smooth",
+        block: "start",
+      });
+    });
+  }
 
   backToTop.addEventListener("click", () => {
     window.scrollTo({
@@ -1539,6 +1622,8 @@
       } else if (event.key === "-" || event.key === "_") {
         event.preventDefault();
         fontSize = setFontSize(fontSize - 1);
+      } else if (event.key === "Escape") {
+        closeFocus();
       }
       return;
     }
@@ -1612,6 +1697,7 @@
       storage.set("mt15:last-volume", String(initialVolume));
       reader.classList.remove("is-loading");
       renderCurrentVolume();
+      syncSidebarInert();
       restoreReadingPosition(initialVolume);
     })
     .catch(() => {

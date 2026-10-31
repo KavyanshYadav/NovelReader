@@ -5,7 +5,9 @@
   const manifest = window.MUSOKU_MANIFEST || {};
   const root = document.documentElement;
   const grid = document.getElementById("volumeGrid");
-  const stats = document.getElementById("mastheadStats");
+  const libraryLine = document.getElementById("libraryLine");
+  const continueReading = document.getElementById("continueReading");
+  const browseVolumes = document.getElementById("browseVolumes");
   const themeToggle = document.getElementById("themeToggle");
 
   const SUN_ICON = `<svg class="icon-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -55,6 +57,32 @@
     return entry.label || entry.title || `Volume ${entry.number}`;
   }
 
+  function readStored(key, fallback) {
+    try {
+      const value = localStorage.getItem(key);
+      return value === null ? fallback : value;
+    } catch {
+      return fallback;
+    }
+  }
+
+  function resumeFor(number) {
+    return readStored(`mt15:v${number}:chapter-label`, "");
+  }
+
+  function setContinue() {
+    if (!continueReading) return;
+    const last = Number(readStored("mt15:last-volume", "0"));
+    if (!manifest[String(last)]) return;
+    const chapter = resumeFor(last);
+    continueReading.href = `reader.html?volume=${last}`;
+    continueReading.textContent = chapter
+      ? `Continue Volume ${last} — ${chapter}`
+      : `Continue Volume ${last}`;
+    continueReading.hidden = false;
+    if (browseVolumes) browseVolumes.classList.add("button--quiet");
+  }
+
   function render() {
     const numbers = Object.keys(manifest)
       .map((key) => Number(key))
@@ -68,17 +96,14 @@
     }
 
     let chapters = 0;
-    let scenes = 0;
     let words = 0;
-    let lines = 0;
 
     grid.innerHTML = numbers
       .map((number) => {
         const entry = manifest[String(number)];
         chapters += entry.chapters || 0;
-        scenes += entry.scenes || 0;
         words += entry.words || 0;
-        lines += entry.speechBlocks || 0;
+        const chapter = resumeFor(number);
 
         return `
           <article class="volume-card">
@@ -86,30 +111,34 @@
                  width="1403" height="2000" loading="lazy" decoding="async"
                  alt="Cover of Mushoku Tensei Volume ${number}">
             <div class="volume-card__body">
-              <p class="volume-card__kicker">
-                <span>Mushoku Tensei</span>
-                <span class="volume-card__number">${number}</span>
-              </p>
+              <p class="volume-card__index">Volume ${number}</p>
               <h3>${volumeTitle(entry)}</h3>
-              <p>${entry.blurb || ""}</p>
+              <p class="volume-card__blurb">${entry.blurb || ""}</p>
               <p class="volume-card__meta">
                 <span>${formatNumber(entry.chapters)} chapters</span>
                 <span>${formatNumber(entry.scenes)} scenes</span>
                 <span>${formatNumber(entry.words)} words</span>
                 <span>${formatNumber(entry.speechBlocks)} lines</span>
               </p>
-              <a class="volume-card__link" href="reader.html?volume=${number}">Read volume ${number}</a>
+              <div class="volume-card__footer">
+                ${chapter ? `<p class="volume-card__resume">Last read · ${chapter}</p>` : ""}
+                <a class="volume-card__link" href="reader.html?volume=${number}"
+                   aria-label="${chapter ? "Continue" : "Open"} volume ${number}${chapter ? `, ${chapter}` : ""}">
+                  ${chapter ? "Continue reading" : `Open volume ${number}`}
+                  <span class="volume-card__arrow" aria-hidden="true">→</span>
+                </a>
+              </div>
             </div>
           </article>`;
       })
       .join("");
 
-    stats.innerHTML = `
-      <span><strong>${numbers.length}</strong>volumes</span>
-      <span><strong>${formatNumber(chapters)}</strong>chapters</span>
-      <span><strong>${formatNumber(scenes)}</strong>scenes</span>
-      <span><strong>${formatNumber(lines)}</strong>spoken lines</span>
-      <span><strong>${formatNumber(words)}</strong>words</span>`;
+    if (libraryLine) {
+      libraryLine.textContent =
+        `${numbers.length} volumes · ${formatNumber(chapters)} chapters · ${formatNumber(words)} words`;
+    }
+
+    setContinue();
   }
 
   applyTheme(readTheme());

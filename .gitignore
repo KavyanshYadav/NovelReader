@@ -19,3 +19,6 @@ Thumbs.db
 # Temporary files from the export step
 *.tmp
 .vercel
+
+# Local design-review artifacts
+.impeccable/
