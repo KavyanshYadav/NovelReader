@@ -3,16 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Mushoku Tensei Reader — Volumes 15 to 26</title>
-  <meta name="description" content="A speaker-attributed reading edition of Mushoku Tensei: Jobless Reincarnation. Twelve volumes, every line of dialogue attributed to its speaker, with a fullscreen scene timeline.">
+  <title>Mushoku Tensei Reader, Volumes 15 to 26</title>
+  <meta name="description" content="A personal reading edition of Mushoku Tensei: Jobless Reincarnation, Volumes 15 to 26. Every line of dialogue is attributed to its speaker, every scene is placed, and your page is kept.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="index.html">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Mushoku Tensei Reader — Volumes 15 to 26">
+  <meta property="og:title" content="Mushoku Tensei Reader, Volumes 15 to 26">
   <meta property="og:description" content="A speaker-attributed reading edition of Mushoku Tensei: Jobless Reincarnation, with a fullscreen scene timeline.">
   <meta property="og:image" content="images/vol15/CoverDesign.jpg">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="theme-color" content="#8e3b46">
+  <meta name="theme-color" content="#fafaf9">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="preload" href="data.js" as="script">
@@ -24,38 +24,58 @@
       }
     } catch (error) {}
   </script>
+  <link rel="stylesheet" href="tokens.css">
   <link rel="stylesheet" href="home.css">
 </head>
 <body>
   <a class="skip-link" href="#volumes">Skip to the volumes</a>
 
-  <header class="masthead">
-    <div class="masthead__inner">
-      <h1>Mushoku Tensei <em>Reader</em></h1>
-      <p class="lede">
-        A personal reading edition of Volumes&nbsp;15 to&nbsp;26. Every line of dialogue
-        is attributed, every scene is placed, and your page is kept.
-      </p>
-      <p class="masthead__library" id="libraryLine"></p>
-
-      <button class="icon-button" id="themeToggle" type="button" aria-label="Switch theme" title="Switch theme"></button>
-      <div class="masthead__actions">
-        <a class="button masthead__continue" id="continueReading" href="reader.html" hidden>Continue reading</a>
-        <a class="button" id="browseVolumes" href="#volumes">Browse the volumes <span aria-hidden="true">↓</span></a>
+  <header class="topbar">
+    <div class="container topbar__inner">
+      <a class="wordmark" href="index.html">Mushoku Tensei <span class="wordmark__thin">Reader</span></a>
+      <div class="topbar__actions">
+        <button class="icon-button" id="themeToggle" type="button" aria-label="Switch theme" title="Switch theme"></button>
       </div>
     </div>
   </header>
 
-  <main class="wrap">
-    <section id="volumes" aria-labelledby="volumes-title">
-      <div class="section-head">
-        <h2 id="volumes-title">Bookshelf</h2>
-        <p class="section-note">Pick up where you left off, or start anywhere.</p>
+  <main>
+    <section class="masthead container" aria-labelledby="page-title">
+      <div class="masthead__copy">
+        <h1 id="page-title">Volumes 15 to 26</h1>
+        <p class="masthead__lede">
+          A personal reading edition of Mushoku Tensei: Jobless Reincarnation. Every line
+          of dialogue is attributed, every scene is placed, and your page is kept.
+        </p>
+        <p class="masthead__library" id="libraryLine"></p>
+        <div class="masthead__actions">
+          <a class="button" id="continueReading" href="reader.html" hidden>Continue reading</a>
+          <a class="text-link" id="browseVolumes" href="#volumes">Browse the volumes</a>
+        </div>
       </div>
-      <div class="volume-grid" id="volumeGrid"></div>
+      <div class="masthead__feature" id="featuredVolume"></div>
     </section>
 
-    <details class="about">
+    <section class="shelf-section" id="volumes" aria-labelledby="volumes-title">
+      <div class="container">
+        <header class="shelf-head">
+          <h2 id="volumes-title">The shelf</h2>
+          <p class="shelf-note">Pick up where you left off, or start anywhere.</p>
+        </header>
+        <div class="shelf-labels" aria-hidden="true">
+          <span class="shelf-labels__volume">Volume</span>
+          <span>Chapters</span>
+          <span>Scenes</span>
+          <span>Words</span>
+          <span>Lines</span>
+          <span></span>
+          <span></span>
+        </div>
+        <ol class="shelf" id="volumeGrid"></ol>
+      </div>
+    </section>
+
+    <details class="about container">
       <summary>About this edition</summary>
       <div class="about__body">
         <p>
@@ -76,13 +96,12 @@
         </p>
       </div>
     </details>
-
   </main>
 
-  <footer class="site-footer">
-    <div class="wrap">
-      <p class="site-footer__title">Mushoku Tensei Reader</p>
-      <p class="site-footer__note">
+  <footer class="colophon">
+    <div class="container colophon__inner">
+      <p class="colophon__title">Mushoku Tensei Reader</p>
+      <p class="colophon__note">
         A personal, offline reading edition. Text and illustrations belong to their
         publishers and authors.
       </p>

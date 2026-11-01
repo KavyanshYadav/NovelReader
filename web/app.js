@@ -277,7 +277,7 @@
   }
 
   function chapterShortLabel(chapter) {
-    return `${chapterKicker(chapter)} · ${chapterTitle(chapter)}`;
+    return `${chapterKicker(chapter)}, ${chapterTitle(chapter)}`;
   }
 
   function speakerStyle(name) {
@@ -425,7 +425,7 @@
   }
 
   function renderScene(scene) {
-    const cast = (scene.cast || []).map(escapeHtml).join(" · ");
+    const cast = (scene.cast || []).map(escapeHtml).join(", ");
     const location = escapeHtml(scene.location || "");
     const header =
       location || cast
@@ -471,9 +471,9 @@
     return `
       <section class="chapter" id="${escapeHtml(chapter.id)}" data-chapter-id="${escapeHtml(chapter.id)}" aria-labelledby="${headingId}">
         <header class="chapter-header" data-number="${chapterNumber(chapter)}">
-          <p class="chapter-kicker">${chapterKicker(chapter)}</p>
           <h2 id="${headingId}">${escapeHtml(title)}</h2>
           <div class="chapter-meta">
+            <span class="chapter-label">${chapterKicker(chapter)}</span>
             <span class="meta-pill">POV ${escapeHtml(chapter.pov)}</span>
             <span>${formatNumber(chapter.wordCount)} words</span>
             <span>${chapter.sceneCount} ${chapter.sceneCount === 1 ? "scene" : "scenes"}</span>
@@ -493,7 +493,7 @@
             <span class="toc__num">${number}</span>
             <span>
               <span class="toc__title">${escapeHtml(chapterTitle(chapter))}</span>
-              <span class="toc__meta">${formatNumber(chapter.wordCount)} words · ${escapeHtml(chapter.pov)}</span>
+              <span class="toc__meta">${formatNumber(chapter.wordCount)} words, ${escapeHtml(chapter.pov)}</span>
             </span>
           </a>`;
       })
@@ -535,7 +535,7 @@
     const number = data.meta.volume;
     const label = volumeLabel();
     const cover = assetUrl("CoverDesign.jpg");
-    document.title = `Mushoku Tensei — ${label} Reader`;
+    document.title = `Mushoku Tensei, ${label} Reader`;
     if (metaDescription) {
       metaDescription.content = `A scrolling reader edition of Mushoku Tensei: Jobless Reincarnation ${label}, with speaker-labeled dialogue.`;
     }
@@ -556,16 +556,14 @@
       const savedLabel = storage.get(volumeStorageKey("chapter-label"));
       if (savedChapter && document.getElementById(savedChapter)) {
         beginReading.href = `#${savedChapter}`;
-        beginReading.innerHTML =
-          'Continue reading <span aria-hidden="true">↓</span>';
+        beginReading.textContent = "Continue reading";
         beginReading.setAttribute(
           "aria-label",
           `Continue reading${savedLabel ? ` at ${savedLabel}` : ""}`
         );
       } else {
         beginReading.href = `#${data.chapters[0].id}`;
-        beginReading.innerHTML =
-          'Begin reading <span aria-hidden="true">↓</span>';
+        beginReading.textContent = "Begin reading";
         beginReading.removeAttribute("aria-label");
       }
     }
@@ -777,18 +775,15 @@
   function renderFocusScene(item) {
     const scene = item.scene;
     const location = escapeHtml(scene.location || "Unnamed scene");
-    const cast = (scene.cast || []).map(escapeHtml).join(" · ");
-    const chapterLabel = `${chapterKicker(item.chapter)} · ${chapterTitle(item.chapter)}`;
+    const cast = (scene.cast || []).map(escapeHtml).join(", ");
     const hasNext = item.globalIndex < sceneItems.length - 1;
     const endAction = hasNext
-      ? '<button class="button button--quiet focus-next-inline" type="button">Next scene <span aria-hidden="true">→</span></button>'
+      ? '<button class="button button--quiet focus-next-inline" type="button">Next scene</button>'
       : '<span class="focus-scene__end-note">End of volume</span>';
 
     return `
       <article class="focus-scene" data-focus-scene-id="${escapeHtml(scene.id)}">
         <header class="focus-scene__header">
-          <p class="focus-scene__chapter">${escapeHtml(chapterLabel)}</p>
-          <p class="focus-scene__number">Scene ${item.sceneIndex + 1} of ${item.sceneCount}</p>
           <h3 class="focus-scene__location">${location}</h3>
           ${cast ? `<p class="focus-scene__cast">${cast}</p>` : ""}
         </header>
@@ -806,14 +801,14 @@
     const chapterLabels = data.chapters
       .map((chapter, chapterIndex) => {
         const span = chapter.scenes.length;
-        const label = `${chapterKicker(chapter)} — ${chapterTitle(chapter)}`;
+        const label = `${chapterKicker(chapter)}, ${chapterTitle(chapter)}`;
         return `<div class="timeline__chapter" data-timeline-chapter="${chapterIndex}" style="grid-column: span ${span}" title="${escapeHtml(label)}">${chapterNumber(chapter)}</div>`;
       })
       .join("");
 
     const ticks = sceneItems
       .map((item) => {
-        const label = `${chapterKicker(item.chapter)} · Scene ${item.sceneIndex + 1}: ${item.scene.location || "Scene"}`;
+        const label = `${chapterKicker(item.chapter)}, scene ${item.sceneIndex + 1}: ${item.scene.location || "Scene"}`;
         return `<button class="timeline__tick" type="button" data-scene-index="${item.globalIndex}" tabindex="-1" title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}"><span class="timeline__dot" aria-hidden="true"></span></button>`;
       })
       .join("");
@@ -856,12 +851,12 @@
     currentSceneIndex = Math.max(0, Math.min(sceneItems.length - 1, index));
     const item = sceneItems[currentSceneIndex];
 
-    focusChapterKicker.textContent = `${chapterKicker(item.chapter)} · Scene ${item.sceneIndex + 1} of ${item.sceneCount}`;
+    focusChapterKicker.textContent = `${chapterKicker(item.chapter)}, scene ${item.sceneIndex + 1} of ${item.sceneCount}`;
     focusChapterTitle.textContent = chapterTitle(item.chapter);
-    focusSceneMeta.textContent = item.scene.location || "";
+    focusSceneMeta.textContent = `Volume ${data.meta.volume}`;
     focusMain.innerHTML = renderFocusScene(item);
     focusMain.scrollTop = 0;
-    focusStatus.textContent = `Scene ${currentSceneIndex + 1} of ${sceneItems.length} in the volume`;
+    focusStatus.textContent = `Scene ${currentSceneIndex + 1} of ${sceneItems.length}`;
     focusPrev.disabled = currentSceneIndex === 0;
     focusNext.disabled = currentSceneIndex === sceneItems.length - 1;
 
@@ -883,7 +878,7 @@
     });
 
     if (timelineFill) {
-      timelineFill.style.width = `${((currentSceneIndex + 0.5) / sceneItems.length) * 100}%`;
+      timelineFill.style.transform = `scaleX(${(currentSceneIndex + 0.5) / sceneItems.length})`;
     }
 
     storage.set(volumeStorageKey("focus-scene"), String(currentSceneIndex));
@@ -1421,7 +1416,7 @@
     const documentHeight = document.documentElement.scrollHeight;
     const maxScroll = Math.max(0, documentHeight - viewport);
     const progress = maxScroll > 0 ? Math.min(1, Math.max(0, scrollY / maxScroll)) : 0;
-    progressBar.style.width = `${(progress * 100).toFixed(2)}%`;
+    progressBar.style.transform = `scaleX(${progress.toFixed(4)})`;
 
     const hero = document.querySelector(".hero");
     const heroBottom = hero

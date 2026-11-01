@@ -22,3 +22,7 @@ Thumbs.db
 
 # Local design-review artifacts
 .impeccable/
+
+# Hallmark local records
+.hallmark/
+web/.hallmark/
