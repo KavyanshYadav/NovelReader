@@ -1,0 +1,19 @@
+{
+  "scanned": "2026-11-01",
+  "findings": {
+    "fonts": "System serif stack (Iowan/Palatino/Georgia) and system sans; no package.json or font dependency.",
+    "palette": "Warm paper and wine accent with a matching dark theme, duplicated across home.css and styles.css.",
+    "motion": "Vanilla CSS transitions and reduced-motion rules; no motion library.",
+    "spacing": "Plain CSS with local layout tokens; no shared spacing scale or framework.",
+    "framework": "Static HTML, CSS and JavaScript; index.html library, reader.html reader; offline and dependency-free per ../README.md."
+  },
+  "preserve": [
+    "All existing volume content, copy, statistics, covers and illustrations",
+    "Library, chapter navigation, URLs, settings, saved positions, encrypted chunk loading and scene timeline behavior",
+    "Offline static delivery and the light/dark reading themes"
+  ],
+  "introduce": [
+    "A coherent tokenized visual system across the library and reader",
+    "A complete editorial redesign of the bookshelf, reading shell, chapter flow, focus reader and settings"
+  ]
+}

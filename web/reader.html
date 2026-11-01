@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Mushoku Tensei — Volume Reader</title>
+  <title>Mushoku Tensei: Volume Reader</title>
   <meta name="description" content="A speaker-attributed reading edition of Mushoku Tensei: Jobless Reincarnation, with a fullscreen scene timeline.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="reader.html">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Mushoku Tensei — Volume Reader">
+  <meta property="og:title" content="Mushoku Tensei: Volume Reader">
   <meta property="og:description" content="A speaker-attributed reading edition of Mushoku Tensei: Jobless Reincarnation Volumes 15 to 26.">
   <meta property="og:image" content="images/vol15/CoverDesign.jpg">
   <meta name="twitter:card" content="summary_large_image">
@@ -24,7 +24,7 @@
       }
     } catch (error) {}
   </script>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=hallmark4">
 </head>
 <body>
   <a class="skip-link" href="#reader">Skip to content</a>
@@ -34,7 +34,7 @@
       <div class="sidebar__brand">
         <img class="sidebar__cover" id="sidebarCover" src="images/vol15/CoverDesign.jpg" width="1403" height="2000" alt="">
         <div>
-          <p class="eyebrow">Mushoku Tensei</p>
+        <p class="eyebrow">Mushoku Tensei Reader</p>
           <p class="sidebar__title" id="sidebarVolume">Volume 15</p>
           <p class="sidebar__subtitle">Jobless Reincarnation</p>
         </div>
@@ -48,9 +48,9 @@
       <nav class="toc" id="toc" aria-label="Chapters"></nav>
 
       <div class="sidebar__footer">
-        <a class="sidebar__home" href="index.html">← All volumes</a>
+        <a class="sidebar__home" href="index.html">All volumes</a>
         <p class="sidebar__note">A personal, offline reading edition.</p>
-        <p class="sidebar__hint"><kbd>f</kbd> focus <span aria-hidden="true">·</span> <kbd>s</kbd> settings <span aria-hidden="true">·</span> <kbd>t</kbd> theme</p>
+        <p class="sidebar__hint"><kbd>f</kbd> focus<br><kbd>s</kbd> settings<br><kbd>t</kbd> theme</p>
       </div>
     </aside>
 
@@ -99,8 +99,8 @@
             </p>
 
             <div class="hero__actions">
-              <a class="button" id="beginReading" href="#ch01">Begin reading <span aria-hidden="true">↓</span></a>
-              <button class="button button--quiet" id="openFocusHero" type="button">Scene timeline <span aria-hidden="true">⛶</span></button>
+              <a class="button" id="beginReading" href="#ch01">Begin reading</a>
+              <button class="hero__secondary" id="openFocusHero" type="button">Scene timeline</button>
             </div>
           </div>
 
@@ -115,7 +115,7 @@
           <p class="eyebrow">End of volume</p>
           <p class="volume-end__title" id="volumeEndTitle">Volume 15</p>
           <p class="volume-end__note">Thank you for reading.</p>
-          <a class="button button--quiet" href="#top">Return to the beginning <span aria-hidden="true">↑</span></a>
+          <a class="button button--quiet" href="#top">Return to the beginning</a>
         </footer>
       </main>
     </div>
@@ -124,7 +124,7 @@
   <div class="focus-reader" id="focusReader" hidden role="dialog" aria-modal="true" aria-labelledby="focusChapterTitle">
     <header class="focus-header">
       <div class="focus-header__brand">
-        <p class="focus-header__eyebrow" id="focusChapterKicker">Chapter 1 · Scene 1 of 1</p>
+          <p class="focus-header__eyebrow" id="focusChapterKicker">Chapter 1, Scene 1 of 1</p>
         <h2 class="focus-header__title" id="focusChapterTitle">Volume 15</h2>
         <p class="focus-header__meta" id="focusSceneMeta"></p>
       </div>
@@ -151,9 +151,9 @@
 
     <footer class="focus-timeline" aria-label="Scene timeline">
       <div class="focus-timeline__controls">
-        <button class="timeline-nav" id="focusPrev" type="button" aria-label="Previous scene">← <span>Previous scene</span></button>
+        <button class="timeline-nav" id="focusPrev" type="button" aria-label="Previous scene"><span>Previous scene</span></button>
         <p class="focus-timeline__status" id="focusStatus" aria-live="polite">Scene 1 of 1</p>
-        <button class="timeline-nav" id="focusNext" type="button" aria-label="Next scene"><span>Next scene</span> →</button>
+        <button class="timeline-nav" id="focusNext" type="button" aria-label="Next scene"><span>Next scene</span></button>
       </div>
 
       <div class="focus-timeline__scroller" id="timelineScroller">
@@ -252,7 +252,7 @@
   </noscript>
 
   <script src="data.js"></script>
-  <script src="app.js"></script>
+  <script src="app.js?v=hallmark4"></script>
   <script src="audio.js"></script>
 </body>
 </html>

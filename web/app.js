@@ -1,6 +1,7 @@
 /* global window, document, localStorage, IntersectionObserver */
 (() => {
   "use strict";
+  document.documentElement.classList.add("js");
 
   const volumeManifest =
     window.MUSOKU_MANIFEST ||
@@ -277,7 +278,7 @@
   }
 
   function chapterShortLabel(chapter) {
-    return `${chapterKicker(chapter)} · ${chapterTitle(chapter)}`;
+    return `${chapterKicker(chapter)}: ${chapterTitle(chapter)}`;
   }
 
   function speakerStyle(name) {
@@ -425,7 +426,7 @@
   }
 
   function renderScene(scene) {
-    const cast = (scene.cast || []).map(escapeHtml).join(" · ");
+    const cast = (scene.cast || []).map(escapeHtml).join(", ");
     const location = escapeHtml(scene.location || "");
     const header =
       location || cast
@@ -493,7 +494,7 @@
             <span class="toc__num">${number}</span>
             <span>
               <span class="toc__title">${escapeHtml(chapterTitle(chapter))}</span>
-              <span class="toc__meta">${formatNumber(chapter.wordCount)} words · ${escapeHtml(chapter.pov)}</span>
+              <span class="toc__meta">${formatNumber(chapter.wordCount)} words, ${escapeHtml(chapter.pov)}</span>
             </span>
           </a>`;
       })
@@ -535,7 +536,7 @@
     const number = data.meta.volume;
     const label = volumeLabel();
     const cover = assetUrl("CoverDesign.jpg");
-    document.title = `Mushoku Tensei — ${label} Reader`;
+    document.title = `Mushoku Tensei: ${label} Reader`;
     if (metaDescription) {
       metaDescription.content = `A scrolling reader edition of Mushoku Tensei: Jobless Reincarnation ${label}, with speaker-labeled dialogue.`;
     }
@@ -777,11 +778,11 @@
   function renderFocusScene(item) {
     const scene = item.scene;
     const location = escapeHtml(scene.location || "Unnamed scene");
-    const cast = (scene.cast || []).map(escapeHtml).join(" · ");
-    const chapterLabel = `${chapterKicker(item.chapter)} · ${chapterTitle(item.chapter)}`;
+    const cast = (scene.cast || []).map(escapeHtml).join(", ");
+    const chapterLabel = `${chapterKicker(item.chapter)}: ${chapterTitle(item.chapter)}`;
     const hasNext = item.globalIndex < sceneItems.length - 1;
     const endAction = hasNext
-      ? '<button class="button button--quiet focus-next-inline" type="button">Next scene <span aria-hidden="true">→</span></button>'
+      ? '<button class="button button--quiet focus-next-inline" type="button">Next scene</button>'
       : '<span class="focus-scene__end-note">End of volume</span>';
 
     return `
@@ -806,14 +807,14 @@
     const chapterLabels = data.chapters
       .map((chapter, chapterIndex) => {
         const span = chapter.scenes.length;
-        const label = `${chapterKicker(chapter)} — ${chapterTitle(chapter)}`;
+        const label = `${chapterKicker(chapter)}: ${chapterTitle(chapter)}`;
         return `<div class="timeline__chapter" data-timeline-chapter="${chapterIndex}" style="grid-column: span ${span}" title="${escapeHtml(label)}">${chapterNumber(chapter)}</div>`;
       })
       .join("");
 
     const ticks = sceneItems
       .map((item) => {
-        const label = `${chapterKicker(item.chapter)} · Scene ${item.sceneIndex + 1}: ${item.scene.location || "Scene"}`;
+        const label = `${chapterKicker(item.chapter)}, Scene ${item.sceneIndex + 1}: ${item.scene.location || "Scene"}`;
         return `<button class="timeline__tick" type="button" data-scene-index="${item.globalIndex}" tabindex="-1" title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}"><span class="timeline__dot" aria-hidden="true"></span></button>`;
       })
       .join("");
@@ -856,7 +857,7 @@
     currentSceneIndex = Math.max(0, Math.min(sceneItems.length - 1, index));
     const item = sceneItems[currentSceneIndex];
 
-    focusChapterKicker.textContent = `${chapterKicker(item.chapter)} · Scene ${item.sceneIndex + 1} of ${item.sceneCount}`;
+    focusChapterKicker.textContent = `${chapterKicker(item.chapter)}, Scene ${item.sceneIndex + 1} of ${item.sceneCount}`;
     focusChapterTitle.textContent = chapterTitle(item.chapter);
     focusSceneMeta.textContent = item.scene.location || "";
     focusMain.innerHTML = renderFocusScene(item);

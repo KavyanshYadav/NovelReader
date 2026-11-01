@@ -1,0 +1,26 @@
+[
+ {
+  "date": "2026-11-01",
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "app",
+  "shape": "Index-First / Long Document",
+  "theme": "Specimen",
+  "prompt": "Redesign the Mushoku Tensei Reader web app as a quiet archival reading library, preserving the book text, covers, routes, controls, saved position, and offline behavior.",
+  "axes": "warm paper / system serif / ink blue",
+  "hero": "volume index",
+  "nav": "contents rail",
+  "footer": "colophon",
+  "imagery": "original volume covers",
+  "entry": "resume saved volume",
+  "fingerprint": "Left-margin|Asymmetric spans|Hairline|Unstyled link|Margin-aligned|None",
+  "sections": [
+   "Index masthead",
+   "Volume catalogue",
+   "Long-form reader",
+   "Scene timeline",
+   "Colophon"
+  ],
+  "signature": "Resume the saved volume and chapter"
+ }
+]

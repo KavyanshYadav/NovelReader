@@ -67,7 +67,7 @@
   }
 
   function resumeFor(number) {
-    return readStored(`mt15:v${number}:chapter-label`, "");
+    return readStored(`mt15:v${number}:chapter-label`, "").replace(/\s*·\s*/g, ": ");
   }
 
   function setContinue() {
@@ -77,7 +77,7 @@
     const chapter = resumeFor(last);
     continueReading.href = `reader.html?volume=${last}`;
     continueReading.textContent = chapter
-      ? `Continue Volume ${last} — ${chapter}`
+      ? `Continue volume ${last}: ${chapter}`
       : `Continue Volume ${last}`;
     continueReading.hidden = false;
     if (browseVolumes) browseVolumes.classList.add("button--quiet");
@@ -121,11 +121,10 @@
                 <span>${formatNumber(entry.speechBlocks)} lines</span>
               </p>
               <div class="volume-card__footer">
-                ${chapter ? `<p class="volume-card__resume">Last read · ${chapter}</p>` : ""}
+                ${chapter ? `<p class="volume-card__resume">Last read: ${chapter}</p>` : ""}
                 <a class="volume-card__link" href="reader.html?volume=${number}"
                    aria-label="${chapter ? "Continue" : "Open"} volume ${number}${chapter ? `, ${chapter}` : ""}">
                   ${chapter ? "Continue reading" : `Open volume ${number}`}
-                  <span class="volume-card__arrow" aria-hidden="true">→</span>
                 </a>
               </div>
             </div>
@@ -135,7 +134,7 @@
 
     if (libraryLine) {
       libraryLine.textContent =
-        `${numbers.length} volumes · ${formatNumber(chapters)} chapters · ${formatNumber(words)} words`;
+        `${numbers.length} volumes, ${formatNumber(chapters)} chapters, ${formatNumber(words)} words`;
     }
 
     setContinue();
